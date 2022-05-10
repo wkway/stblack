@@ -1,0 +1,8 @@
+.idea
+*.iml
+whitelist
+hosts-*
+/web.config
+/__pycache__
+/node_modules/
+/package-lock.json
