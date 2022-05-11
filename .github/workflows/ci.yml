@@ -75,7 +75,7 @@ jobs:
         run: python testUpdateHostsFile.py
 
       - name: Run Update
-        run: python updateHostsFile.py -a -e fakenews gambling social -m -x blacklist -o ./build/
+        run: python updateHostsFile.py -a -e fakenews gambling social -m -x blacklist -o build
 
       - name: push
         run: |
