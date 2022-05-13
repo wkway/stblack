@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 11 May 2022 14:29:23 GMT
-# entries:        3676
+# entries:        3673
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -441,7 +441,6 @@
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.dailycamera.com
-0.0.0.0 ads.datingyes.com
 0.0.0.0 ads.delfin.bg
 0.0.0.0 ads.deltha.hu
 0.0.0.0 ads.dennisnet.co.uk
@@ -661,6 +660,7 @@
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
+0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.twojatv.info
@@ -1832,7 +1832,6 @@
 0.0.0.0 fpjs.io
 0.0.0.0 fqtag.com
 0.0.0.0 frailoffer.com
-0.0.0.0 franklybundlecarver.com
 0.0.0.0 free-banners.com
 0.0.0.0 free-counter.co.uk
 0.0.0.0 freebanner.com
@@ -2002,7 +2001,6 @@
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
-0.0.0.0 huezzcjskf.site
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 hydramedia.com
@@ -3536,7 +3534,6 @@
 0.0.0.0 voluum.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 volvelle.tech
-0.0.0.0 voodoo-ads.io
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
