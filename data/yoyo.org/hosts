@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 11 May 2022 14:29:23 GMT
-# entries:        3673
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 18 May 2002 00:00:00
+# start date:    Sun, 19 May 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1924,7 +1924,6 @@
 0.0.0.0 grychiphidu.com
 0.0.0.0 gscontxt.net
 0.0.0.0 gstaticx.com
-0.0.0.0 gtop100.com
 0.0.0.0 guardedschool.com
 0.0.0.0 guffawdecipher.com
 0.0.0.0 gunggo.com
