@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 16 May 2022 10:32:06 GMT
-# entries:        3671
+# entries:        3668
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 31 May 2002 00:00:00
+# start date:    Sat, 01 Jun 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -78,10 +78,8 @@
 0.0.0.0 ablink.news.emails-puregym.com
 0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 aboardlevel.com
-0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
-0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdwater.com
@@ -629,7 +627,6 @@
 0.0.0.0 ads.shizmoo.com
 0.0.0.0 ads.shopstyle.com
 0.0.0.0 ads.sift.co.uk
-0.0.0.0 ads.silverdisc.co.uk
 0.0.0.0 ads.simplyhired.com
 0.0.0.0 ads.sjon.info
 0.0.0.0 ads.smartclick.com
@@ -1442,6 +1439,7 @@
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmvrclicks000.com
 0.0.0.0 cnomy.com
+0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cny.yoyo.org
 0.0.0.0 codeadnetwork.com
@@ -3348,7 +3346,6 @@
 0.0.0.0 trackedweb.net
 0.0.0.0 tracker-pm2.spilleren.com
 0.0.0.0 tracker.bannerflow.com
-0.0.0.0 tracker.bongngo.bar
 0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.comunidadmarriott.com
 0.0.0.0 tracker.icerocket.com
