@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 28 May 2022 21:24:27 GMT
-# entries:        3669
+# last updated:   Mon, 30 May 2022 22:35:03 GMT
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 04 Jun 2002 00:00:00
+# start date:    Wed, 05 Jun 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -3437,6 +3437,7 @@
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trust.titanhq.com
+0.0.0.0 trustpid.com
 0.0.0.0 trustx.org
 0.0.0.0 tsuam.com
 0.0.0.0 tsyndicate.com
