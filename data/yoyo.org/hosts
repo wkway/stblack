@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Jun 2022 15:29:37 GMT
-# entries:        3642
+# last updated:   Sat, 11 Jun 2022 13:35:26 GMT
+# entries:        3644
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 15 Jun 2002 00:00:00
+# start date:    Sun, 16 Jun 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -988,6 +988,7 @@
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazonaax.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 americash.com
@@ -3452,6 +3453,7 @@
 0.0.0.0 user-shield-check.com
 0.0.0.0 userreplay.com
 0.0.0.0 userreplay.net
+0.0.0.0 users.maxcluster.net
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 utl-1.com
