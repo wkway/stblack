@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 11 Jun 2022, 18:26 UTC+02
-# Version: 2022.6.11.2
+# Last modified: Sun, 12 Jun 2022, 18:27 UTC+02
+# Version: 2022.6.12.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5426,6 +5426,7 @@
 0.0.0.0 1npost.sendingpaydelivery.xyz
 0.0.0.0 1npost.userproductpay.xyz
 0.0.0.0 1npost-filldata.xyz
+0.0.0.0 1npost.2-pageproductdispatch.xyz
 0.0.0.0 1npost.054-sendinggoods.xyz
 0.0.0.0 1npost.377-delivery.xyz
 0.0.0.0 1npost.31245-deljvery.xyz
@@ -5438,6 +5439,7 @@
 0.0.0.0 1npost.info-userorder.xyz
 0.0.0.0 1npost.pay-deliveryinform.xyz
 0.0.0.0 1npost.productsend-user.xyz
+0.0.0.0 1npost.sendinggoods-23.xyz
 0.0.0.0 1npost.sendinggoods-65983.xyz
 0.0.0.0 1npost.shipmentgoods-pay.xyz
 0.0.0.0 1npos-t.informationdellvery.xyz
@@ -5837,6 +5839,11 @@
 0.0.0.0 008753331120.com
 0.0.0.0 23459867534.000webhostapp.com
 0.0.0.0 178235052015.warszawa.vectranet.pl
+0.0.0.0 100001593275026-pt.ml
+0.0.0.0 100001593275027-pt.ml
+0.0.0.0 100001593275028-pt.ml
+0.0.0.0 100001593275029-pt.ml
+0.0.0.0 100001593275030-pt.ml
 0.0.0.0 8254100017698763391.xyz
 0.0.0.0 a1iexpress.pl
 0.0.0.0 a1legrolokalnie-information.xyz
@@ -5845,6 +5852,7 @@
 0.0.0.0 a2plvcpnl308307.prod.iad2.secureserver.net
 0.0.0.0 a7.wetss.xyz
 0.0.0.0 a9sda-s02ksdf0sd324-ad324aw3-a.web.app
+0.0.0.0 a11egrolokalnie.dispatch-goodspay.xyz
 0.0.0.0 a11egrolokalnie.jnfodelivery-45481.xyz
 0.0.0.0 a17new.capitalbrother.site
 0.0.0.0 a17re.capitalbrother.site
@@ -6063,6 +6071,7 @@
 0.0.0.0 aesarnub.pl
 0.0.0.0 aesinv.com
 0.0.0.0 aeyefilms.com
+0.0.0.0 afcathna.cf
 0.0.0.0 afetos.site
 0.0.0.0 affiliatemillionaire.online
 0.0.0.0 affrontsdentifrice.pl
@@ -10082,6 +10091,7 @@
 0.0.0.0 delivery-olx-polska.000webhostapp.com
 0.0.0.0 delivery.olx-pl.com
 0.0.0.0 delivery.olx-pl.link
+0.0.0.0 deliwery.0345215.xyz
 0.0.0.0 deljvery-78451.site
 0.0.0.0 deljvery.034521.xyz
 0.0.0.0 dellvery.7631545.xyz
@@ -10329,6 +10339,7 @@
 0.0.0.0 discord-go.net.ru
 0.0.0.0 discord-hype.com
 0.0.0.0 discord-hypeapply.com
+0.0.0.0 discord-hype-acess.com
 0.0.0.0 discord-me.com
 0.0.0.0 discord-moderationacademy.com
 0.0.0.0 discord-nitro.ru.com
@@ -11350,6 +11361,7 @@
 0.0.0.0 eu.syst-inf.xyz
 0.0.0.0 evarest.biz
 0.0.0.0 eventrou.space
+0.0.0.0 events-hypesquad.com
 0.0.0.0 everestmarkets.com
 0.0.0.0 everythingrentsapp.com
 0.0.0.0 evidete.com
@@ -11471,22 +11483,40 @@
 0.0.0.0 f4pxu2.webwave.dev
 0.0.0.0 f800e6f66d71.ngrok.io
 0.0.0.0 f0574089.xsph.ru
+0.0.0.0 faaacbk.pl
+0.0.0.0 faabnaskl.pl
 0.0.0.0 faabnk.pl
 0.0.0.0 faabnka.pl
 0.0.0.0 faabnnka.pl
+0.0.0.0 faabook.pl
 0.0.0.0 faacbkmk.pl
+0.0.0.0 faacckbkk.pl
+0.0.0.0 faacebko.pl
+0.0.0.0 faacebuka.pl
 0.0.0.0 faakty24.pl
 0.0.0.0 faanuus.com
 0.0.0.0 fabankk.pl
+0.0.0.0 fabbam.pl
+0.0.0.0 fabbksak.pl
 0.0.0.0 fabbmk.pl
+0.0.0.0 fabbmkas.pl
+0.0.0.0 fabbmkoo.pl
 0.0.0.0 fabbnka.pl
 0.0.0.0 fabbook.pl
 0.0.0.0 fabfloors.com
 0.0.0.0 fabiotv.com
+0.0.0.0 fabk.pl
 0.0.0.0 fabkas.pl
 0.0.0.0 fabkasl.pl
+0.0.0.0 fabkjk.pl
+0.0.0.0 fabkks.pl
+0.0.0.0 fabkksak.pl
+0.0.0.0 fabkkso.pl
 0.0.0.0 fabklsam.pl
+0.0.0.0 fabkssak.pl
+0.0.0.0 fabmvk.pl
 0.0.0.0 fabnaks.pl
+0.0.0.0 fabnaskl.pl
 0.0.0.0 fabnbn.pl
 0.0.0.0 fabnbnk.pl
 0.0.0.0 fabnbnp.pl
@@ -11500,6 +11530,8 @@
 0.0.0.0 fabnxmkl.pl
 0.0.0.0 fabnxmklka.pl
 0.0.0.0 fabnxmkska.pl
+0.0.0.0 fabomvk.pl
+0.0.0.0 fabook.pl
 0.0.0.0 fabrizziosw.pl
 0.0.0.0 fabryka.icu
 0.0.0.0 fabrykafaktow.baron-wines.net
@@ -11529,9 +11561,13 @@
 0.0.0.0 facbvnk.pl
 0.0.0.0 facbvnkks.pl
 0.0.0.0 faccbok.pl
+0.0.0.0 faccebuka.pl
 0.0.0.0 faceb00kwatchvideo.pl
 0.0.0.0 facebcok.com.pl
+0.0.0.0 facebka.pl
+0.0.0.0 facebkko.pl
 0.0.0.0 facebmk.pl
+0.0.0.0 faceboka.pl
 0.0.0.0 facebok-desktop.pev.pl
 0.0.0.0 faceboobko.tcp4.me
 0.0.0.0 facebook.biz.pl
@@ -11549,6 +11585,7 @@
 0.0.0.0 facebookpolicy12.ddns.net
 0.0.0.0 facebookpolicyform4.ddns.net
 0.0.0.0 facebookpolicyform9.ddns.net
+0.0.0.0 facebookpolicy-issue01.tk
 0.0.0.0 facebook-account.xyz
 0.0.0.0 facebook-age-verification.ssd-linuxpl.com
 0.0.0.0 facebook-com-pl.pl
@@ -11568,26 +11605,37 @@
 0.0.0.0 facebook-video09012022.pl
 0.0.0.0 facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl
 0.0.0.0 facebook.view-post.pl
+0.0.0.0 facebosk.pl
+0.0.0.0 facebouka.pl
+0.0.0.0 facebuka.pl
+0.0.0.0 facebukas.pl
+0.0.0.0 faceebko.pl
+0.0.0.0 faceebuka.pl
 0.0.0.0 faceinfocus.net
 0.0.0.0 facelessinseattle.com
 0.0.0.0 facesofirony.com
 0.0.0.0 facewatch.borec.cz
+0.0.0.0 face-wypadki.pl
 0.0.0.0 facilitatehjk.online
 0.0.0.0 facmb.pl
 0.0.0.0 facmbl.pl
 0.0.0.0 facmbok.pl
 0.0.0.0 facmbook.pl
 0.0.0.0 facnblok.pl
+0.0.0.0 facnnbmk.pl
 0.0.0.0 factosphere.com
 0.0.0.0 facvbmk.pl
 0.0.0.0 facvnbuok.pl
 0.0.0.0 facvvbkk.pl
 0.0.0.0 fadisto.store
+0.0.0.0 faebbka.pl
+0.0.0.0 faebka.pl
 0.0.0.0 faecbook.ct8.pl
 0.0.0.0 faejbk.pl
 0.0.0.0 faejbok.pl
 0.0.0.0 faejbook.pl
 0.0.0.0 faejbuok.pl
+0.0.0.0 fagba.pl
 0.0.0.0 failmobile.net
 0.0.0.0 faino.xyz
 0.0.0.0 fairandwhiteboutique.com
@@ -11701,10 +11749,15 @@
 0.0.0.0 fantastic-gas.com
 0.0.0.0 fantazja852.rest
 0.0.0.0 fantazyjne-glosy.eu
+0.0.0.0 fanvbi.pl
 0.0.0.0 fanvbook.pl
 0.0.0.0 fanvjk.pl
 0.0.0.0 fanvjok.pl
+0.0.0.0 fanvko.pl
+0.0.0.0 fanvkos.pl
 0.0.0.0 fanvook.pl
+0.0.0.0 fanvsdb.pl
+0.0.0.0 fanvsdbi.pl
 0.0.0.0 fanwestpge-pl1.info
 0.0.0.0 fanyun.com
 0.0.0.0 fan-budimex1.info
@@ -11714,12 +11767,23 @@
 0.0.0.0 faobokk.pl
 0.0.0.0 fapproove.pl
 0.0.0.0 faraazfoundation.com
+0.0.0.0 farcebkk.pl
+0.0.0.0 farceboook.pl
 0.0.0.0 farnolu.com
 0.0.0.0 fasamie.space
+0.0.0.0 fasbkka.pl
 0.0.0.0 fasbox.org
+0.0.0.0 fascbkkkas.pl
+0.0.0.0 fascbkko.pl
+0.0.0.0 fascbok.pl
+0.0.0.0 fascgb.pl
+0.0.0.0 fascvbbk.pl
+0.0.0.0 fascvbbkos.pl
 0.0.0.0 fascynowactendencja.site
 0.0.0.0 fasdgas2e2e1.xyz
 0.0.0.0 fasmol.org
+0.0.0.0 fasnvsd.pl
+0.0.0.0 fasnvsdb.pl
 0.0.0.0 fastandfurious7pl.wordpress.com
 0.0.0.0 fastcash4vehicles.com
 0.0.0.0 fastcryptofxtrade.com
@@ -11762,9 +11826,11 @@
 0.0.0.0 fbannka.pl
 0.0.0.0 fbaonk.pl
 0.0.0.0 fbaonkk.pl
+0.0.0.0 fbasjkl.pl
 0.0.0.0 fbasnk.pl
 0.0.0.0 fbbanka.pl
 0.0.0.0 fbdogfoodbeta.com
+0.0.0.0 fbgbj.pl
 0.0.0.0 fbinternationals.net
 0.0.0.0 fbku.pl
 0.0.0.0 fblinker.com
@@ -11799,6 +11865,11 @@
 0.0.0.0 fdghhkj.web.app
 0.0.0.0 fdn4au.webwave.dev
 0.0.0.0 fd-pge.web.app
+0.0.0.0 feabal.pl
+0.0.0.0 feaball.pl
+0.0.0.0 feabaml.pl
+0.0.0.0 feabamll.pl
+0.0.0.0 feabml.pl
 0.0.0.0 feacebouk.pl
 0.0.0.0 feacebuk.pl
 0.0.0.0 feajcebuk.pl
@@ -11807,7 +11878,9 @@
 0.0.0.0 feavvbok.pl
 0.0.0.0 feavvbook.pl
 0.0.0.0 feavvbuk.pl
+0.0.0.0 febbka.pl
 0.0.0.0 febka.pl
+0.0.0.0 febkka.pl
 0.0.0.0 fecebook.com.pl
 0.0.0.0 fecwighwhittlahass.ml
 0.0.0.0 federalistgalenical.info
@@ -11826,6 +11899,7 @@
 0.0.0.0 fejbuok.pl
 0.0.0.0 fejcebuk.pl
 0.0.0.0 fejs.ml
+0.0.0.0 fejsbk.pl
 0.0.0.0 fek.my-chatprogram.xyz
 0.0.0.0 felisinvest.pro
 0.0.0.0 fenateasp.com
@@ -11858,6 +11932,7 @@
 0.0.0.0 ffasbook.pl
 0.0.0.0 ffasnmv.pl
 0.0.0.0 ffasnmva.pl
+0.0.0.0 fffbbb.pl
 0.0.0.0 ffs.capitalloredfd.site
 0.0.0.0 fgenergy.pl
 0.0.0.0 fggh.st6-investprog.site
@@ -12093,6 +12168,10 @@
 0.0.0.0 fm.leaderscode.xyz
 0.0.0.0 fmi-apple.cloud
 0.0.0.0 fnbnbfjnmvimir.bar
+0.0.0.0 fnbok.pl
+0.0.0.0 fnvkla.pl
+0.0.0.0 fnvko.pl
+0.0.0.0 fnvkos.pl
 0.0.0.0 foamfinafmaf.bar
 0.0.0.0 focoix.com
 0.0.0.0 focus24.gpe.pl
@@ -12119,6 +12198,7 @@
 0.0.0.0 forfollow.net
 0.0.0.0 forgivian.top
 0.0.0.0 formerprosecutors.org
+0.0.0.0 forms-from-hypeteams-event.com
 0.0.0.0 forms-hypesquad-teams.com
 0.0.0.0 forms-hype-team.com
 0.0.0.0 forms-hype-teams.com
@@ -13174,6 +13254,7 @@
 0.0.0.0 hypercuberecharging.pl
 0.0.0.0 hypertechz.com
 0.0.0.0 hypesquad-events.com
+0.0.0.0 hypesquad-invitation.com
 0.0.0.0 hypesquad-registration.com
 0.0.0.0 hypesquad-trial.com
 0.0.0.0 hypesquad.invite-form-us.repl.co
@@ -13774,6 +13855,7 @@
 0.0.0.0 inpast-pl.plid8347561.click
 0.0.0.0 inpast-pl.sprzedaz16825.xyz
 0.0.0.0 inpoct.deljveryinformpay.xyz
+0.0.0.0 inpost.binlro.org
 0.0.0.0 inpost.binuro.org
 0.0.0.0 inpost.delivery9.xyz
 0.0.0.0 inpost.deljveryforminfo.xyz
@@ -13958,6 +14040,7 @@
 0.0.0.0 inpost-dntu.order2588322.info
 0.0.0.0 inpost-doia.orders88531.info
 0.0.0.0 inpost-doreczenie.pl
+0.0.0.0 inpost-dostawa.binlro.org
 0.0.0.0 inpost-dostawa.icu
 0.0.0.0 inpost-dostawa-pl.cyou
 0.0.0.0 inpost-dostawka.cyou
@@ -14539,6 +14622,7 @@
 0.0.0.0 inpost-polska-uw.orders0094.info
 0.0.0.0 inpost-polska-uye.order0129501.info
 0.0.0.0 inpost-polska-uz.order9351.info
+0.0.0.0 inpost-polska-va.order12859011.info
 0.0.0.0 inpost-polska-vgi.order77711902.info
 0.0.0.0 inpost-polska-vgn.order9351.info
 0.0.0.0 inpost-polska-vgz.order48382.info
@@ -14587,10 +14671,12 @@
 0.0.0.0 inpost-polska-xp.order161516.info
 0.0.0.0 inpost-polska-xsq.order9351.info
 0.0.0.0 inpost-polska-xt.order0912401.info
+0.0.0.0 inpost-polska-xt.order12859011.info
 0.0.0.0 inpost-polska-xtm.order77711902.info
 0.0.0.0 inpost-polska-xvf.order2588322.info
 0.0.0.0 inpost-polska-xwx.order48382.info
 0.0.0.0 inpost-polska-xy.order0912401.info
+0.0.0.0 inpost-polska-xz.order12859011.info
 0.0.0.0 inpost-polska-xzx.order9351.info
 0.0.0.0 inpost-polska-yav.order0129501.info
 0.0.0.0 inpost-polska-yb.order48382.info
@@ -14735,6 +14821,7 @@
 0.0.0.0 inpost-zwdj.order3590423.info
 0.0.0.0 inpost-zwei.order2588322.info
 0.0.0.0 inpost.9-sendingproductuser.xyz
+0.0.0.0 inpost.012452.xyz
 0.0.0.0 inpost.47464.pw
 0.0.0.0 inpost.642649.top
 0.0.0.0 inpost.1847542.xyz
@@ -17430,6 +17517,7 @@
 0.0.0.0 msgzy7.us
 0.0.0.0 mskaid.chainkzal.xyz
 0.0.0.0 mskk.maskts-unlim.xyz
+0.0.0.0 mskwl.pl
 0.0.0.0 msk.capitalshou-ru.xyz
 0.0.0.0 msk.maskts-unlim.xyz
 0.0.0.0 msphackonline.com
@@ -17847,6 +17935,7 @@
 0.0.0.0 newsy24-tygodnia.waw.pl
 0.0.0.0 newsyintera24.medianewsonline.com
 0.0.0.0 newsywroclaw.xyz
+0.0.0.0 newsy-8036067897578.azureedge.net
 0.0.0.0 newsy-biznesu.waw.pl
 0.0.0.0 newsy-dnia.waw.pl
 0.0.0.0 newsy-dnia48.waw.pl
@@ -18277,6 +18366,7 @@
 0.0.0.0 o1x.cargopay-info.xyz
 0.0.0.0 o1x.deljveryinfo-08451.xyz
 0.0.0.0 o1x.dispatchgoods-05242.xyz
+0.0.0.0 o1x.inform-paysending.xyz
 0.0.0.0 o1x.order-user.site
 0.0.0.0 o1x.sendingpage-pay.xyz
 0.0.0.0 o1x.user-orderinfo.xyz
@@ -18389,6 +18479,7 @@
 0.0.0.0 ofertalokalnie.com
 0.0.0.0 ofertapl.space
 0.0.0.0 ofertaplgroup.space
+0.0.0.0 oferta-4.order12859011.info
 0.0.0.0 oferta-6.orders88421.info
 0.0.0.0 oferta-27.order887766.info
 0.0.0.0 oferta-34.order77711902.info
@@ -19290,6 +19381,7 @@
 0.0.0.0 order01295401.info
 0.0.0.0 order2189521.info
 0.0.0.0 order2198588.info
+0.0.0.0 order4848292.info
 0.0.0.0 order4849290.info
 0.0.0.0 order5848192.info
 0.0.0.0 order7581289.info
@@ -19770,6 +19862,7 @@
 0.0.0.0 p24.live
 0.0.0.0 p24.reviews
 0.0.0.0 p24.studio
+0.0.0.0 p46es3tt1n6.000webhostapp.com
 0.0.0.0 p46e-5ecure.000webhostapp.com
 0.0.0.0 paarla.com
 0.0.0.0 pabloo0008.github.io
@@ -19891,6 +19984,7 @@
 0.0.0.0 partneralior.pl
 0.0.0.0 partsurmissdick.gq
 0.0.0.0 pas.stampp.xyz
+0.0.0.0 pasdikao-xyz.preview-domain.com
 0.0.0.0 pasiikq.masterfuls.xyz
 0.0.0.0 paski.maxuziz.xyz
 0.0.0.0 paskudnyporownanie.site
@@ -21366,6 +21460,26 @@
 0.0.0.0 poruszamytemat.eu
 0.0.0.0 porwali-tu.xyz
 0.0.0.0 porwana-dziewczynka.eu
+0.0.0.0 porwanie-1.azureedge.net
+0.0.0.0 porwanie-2.azureedge.net
+0.0.0.0 porwanie-3.azureedge.net
+0.0.0.0 porwanie-4.azureedge.net
+0.0.0.0 porwanie-5.azureedge.net
+0.0.0.0 porwanie-6.azureedge.net
+0.0.0.0 porwanie-7.azureedge.net
+0.0.0.0 porwanie-8.azureedge.net
+0.0.0.0 porwanie-9.azureedge.net
+0.0.0.0 porwanie-10.azureedge.net
+0.0.0.0 porwanie-11.azureedge.net
+0.0.0.0 porwanie-12.azureedge.net
+0.0.0.0 porwanie-13.azureedge.net
+0.0.0.0 porwanie-14.azureedge.net
+0.0.0.0 porwanie-15.azureedge.net
+0.0.0.0 porwanie-16.azureedge.net
+0.0.0.0 porwanie-17.azureedge.net
+0.0.0.0 porwanie-18.azureedge.net
+0.0.0.0 porwanie-19.azureedge.net
+0.0.0.0 porwanie-20.azureedge.net
 0.0.0.0 porwani-wp.eu
 0.0.0.0 poscavie.xyz
 0.0.0.0 poscig996.rest
@@ -25713,6 +25827,7 @@
 0.0.0.0 vorobuk-com.preview-domain.com
 0.0.0.0 vorsrepdi.tk
 0.0.0.0 voteamilewilson.com
+0.0.0.0 voteforme-hypesquad.com
 0.0.0.0 vouchsafedalleged.com
 0.0.0.0 vovpl.fun
 0.0.0.0 voxusou2.xyz
@@ -25749,6 +25864,7 @@
 0.0.0.0 vvwvicloud.com
 0.0.0.0 vvx.chainreact.xyz
 0.0.0.0 vwtd-shrt.click
+0.0.0.0 vxzcm.pl
 0.0.0.0 vy0sx0.webwave.dev
 0.0.0.0 vynic.xyz
 0.0.0.0 vysdol.site
@@ -25855,6 +25971,7 @@
 0.0.0.0 wczestochowie.xyz
 0.0.0.0 wdpd.id-87233.me
 0.0.0.0 wdziecznymakabryczny.site
+0.0.0.0 wealthhunopesu.tk
 0.0.0.0 wealthmarketscfd.com
 0.0.0.0 wealthtrade247.com
 0.0.0.0 wealthyhustlers.com
@@ -26662,6 +26779,7 @@
 0.0.0.0 www.aesarnub.pl
 0.0.0.0 www.aesinv.com
 0.0.0.0 www.aeyefilms.com
+0.0.0.0 www.afcathna.cf
 0.0.0.0 www.afetos.site
 0.0.0.0 www.affiliatemillionaire.online
 0.0.0.0 www.affrontsdentifrice.pl
@@ -30811,13 +30929,23 @@
 0.0.0.0 www.f4pxu2.webwave.dev
 0.0.0.0 www.f800e6f66d71.ngrok.io
 0.0.0.0 www.f0574089.xsph.ru
+0.0.0.0 www.faaacbk.pl
+0.0.0.0 www.faabnaskl.pl
 0.0.0.0 www.faabnka.pl
 0.0.0.0 www.faabnk.pl
 0.0.0.0 www.faabnnka.pl
+0.0.0.0 www.faabook.pl
 0.0.0.0 www.faacbkmk.pl
+0.0.0.0 www.faacckbkk.pl
+0.0.0.0 www.faacebko.pl
+0.0.0.0 www.faacebuka.pl
 0.0.0.0 www.faakty24.pl
 0.0.0.0 www.faanuus.com
 0.0.0.0 www.fabankk.pl
+0.0.0.0 www.fabbam.pl
+0.0.0.0 www.fabbksak.pl
+0.0.0.0 www.fabbmkas.pl
+0.0.0.0 www.fabbmkoo.pl
 0.0.0.0 www.fabbmk.pl
 0.0.0.0 www.fabbnka.pl
 0.0.0.0 www.fabbook.pl
@@ -30825,8 +30953,16 @@
 0.0.0.0 www.fabiotv.com
 0.0.0.0 www.fabkasl.pl
 0.0.0.0 www.fabkas.pl
+0.0.0.0 www.fabkjk.pl
+0.0.0.0 www.fabkksak.pl
+0.0.0.0 www.fabkkso.pl
+0.0.0.0 www.fabkks.pl
 0.0.0.0 www.fabklsam.pl
+0.0.0.0 www.fabkssak.pl
+0.0.0.0 www.fabk.pl
+0.0.0.0 www.fabmvk.pl
 0.0.0.0 www.fabnaks.pl
+0.0.0.0 www.fabnaskl.pl
 0.0.0.0 www.fabnbnk.pl
 0.0.0.0 www.fabnbnpk.pl
 0.0.0.0 www.fabnbnp.pl
@@ -30840,6 +30976,8 @@
 0.0.0.0 www.fabnxmklka.pl
 0.0.0.0 www.fabnxmkl.pl
 0.0.0.0 www.fabnxmkska.pl
+0.0.0.0 www.fabomvk.pl
+0.0.0.0 www.fabook.pl
 0.0.0.0 www.fabrizziosw.pl
 0.0.0.0 www.fabrykawiadomosci.randsnap.com
 0.0.0.0 www.fabryka.icu
@@ -30868,9 +31006,13 @@
 0.0.0.0 www.facbvnkks.pl
 0.0.0.0 www.facbvnk.pl
 0.0.0.0 www.faccbok.pl
+0.0.0.0 www.faccebuka.pl
 0.0.0.0 www.faceb00kwatchvideo.pl
 0.0.0.0 www.facebcok.com.pl
+0.0.0.0 www.facebka.pl
+0.0.0.0 www.facebkko.pl
 0.0.0.0 www.facebmk.pl
+0.0.0.0 www.faceboka.pl
 0.0.0.0 www.faceboobko.tcp4.me
 0.0.0.0 www.facebookgroups.pl
 0.0.0.0 www.facebookpolicy01.ddns.net
@@ -30884,6 +31026,12 @@
 0.0.0.0 www.facebook.biz.pl
 0.0.0.0 www.facebook.gges.pl
 0.0.0.0 www.facebook.m918kiss.my
+0.0.0.0 www.facebosk.pl
+0.0.0.0 www.facebouka.pl
+0.0.0.0 www.facebukas.pl
+0.0.0.0 www.facebuka.pl
+0.0.0.0 www.faceebko.pl
+0.0.0.0 www.faceebuka.pl
 0.0.0.0 www.faceinfocus.net
 0.0.0.0 www.facelessinseattle.com
 0.0.0.0 www.facesofirony.com
@@ -30894,16 +31042,20 @@
 0.0.0.0 www.facmbook.pl
 0.0.0.0 www.facmb.pl
 0.0.0.0 www.facnblok.pl
+0.0.0.0 www.facnnbmk.pl
 0.0.0.0 www.factosphere.com
 0.0.0.0 www.facvbmk.pl
 0.0.0.0 www.facvnbuok.pl
 0.0.0.0 www.facvvbkk.pl
 0.0.0.0 www.fadisto.store
+0.0.0.0 www.faebbka.pl
+0.0.0.0 www.faebka.pl
 0.0.0.0 www.faecbook.ct8.pl
 0.0.0.0 www.faejbk.pl
 0.0.0.0 www.faejbok.pl
 0.0.0.0 www.faejbook.pl
 0.0.0.0 www.faejbuok.pl
+0.0.0.0 www.fagba.pl
 0.0.0.0 www.failmobile.net
 0.0.0.0 www.faino.xyz
 0.0.0.0 www.fairandwhiteboutique.com
@@ -30961,10 +31113,15 @@
 0.0.0.0 www.fancbook.pl
 0.0.0.0 www.fanido.tk
 0.0.0.0 www.fantazja852.rest
+0.0.0.0 www.fanvbi.pl
 0.0.0.0 www.fanvbook.pl
 0.0.0.0 www.fanvjk.pl
 0.0.0.0 www.fanvjok.pl
+0.0.0.0 www.fanvkos.pl
+0.0.0.0 www.fanvko.pl
 0.0.0.0 www.fanvook.pl
+0.0.0.0 www.fanvsdbi.pl
+0.0.0.0 www.fanvsdb.pl
 0.0.0.0 www.fanyun.com
 0.0.0.0 www.faobnaks.pl
 0.0.0.0 www.faobnak.pl
@@ -30972,12 +31129,23 @@
 0.0.0.0 www.faobokk.pl
 0.0.0.0 www.fapproove.pl
 0.0.0.0 www.faraazfoundation.com
+0.0.0.0 www.farcebkk.pl
+0.0.0.0 www.farceboook.pl
 0.0.0.0 www.farnolu.com
 0.0.0.0 www.fasamie.space
+0.0.0.0 www.fasbkka.pl
 0.0.0.0 www.fasbox.org
+0.0.0.0 www.fascbkkkas.pl
+0.0.0.0 www.fascbkko.pl
+0.0.0.0 www.fascbok.pl
+0.0.0.0 www.fascgb.pl
+0.0.0.0 www.fascvbbkos.pl
+0.0.0.0 www.fascvbbk.pl
 0.0.0.0 www.fascynowactendencja.site
 0.0.0.0 www.fasdgas2e2e1.xyz
 0.0.0.0 www.fasmol.org
+0.0.0.0 www.fasnvsdb.pl
+0.0.0.0 www.fasnvsd.pl
 0.0.0.0 www.fastandfurious7pl.wordpress.com
 0.0.0.0 www.fastcash4vehicles.com
 0.0.0.0 www.fastcryptofxtrade.com
@@ -31014,9 +31182,11 @@
 0.0.0.0 www.fbannka.pl
 0.0.0.0 www.fbaonkk.pl
 0.0.0.0 www.fbaonk.pl
+0.0.0.0 www.fbasjkl.pl
 0.0.0.0 www.fbasnk.pl
 0.0.0.0 www.fbbanka.pl
 0.0.0.0 www.fbdogfoodbeta.com
+0.0.0.0 www.fbgbj.pl
 0.0.0.0 www.fbinternationals.net
 0.0.0.0 www.fbku.pl
 0.0.0.0 www.fblinker.com
@@ -31047,6 +31217,11 @@
 0.0.0.0 www.fdghhkj.web.app
 0.0.0.0 www.fdn4au.webwave.dev
 0.0.0.0 www.fd.bteslaxilon.xyz
+0.0.0.0 www.feaball.pl
+0.0.0.0 www.feabal.pl
+0.0.0.0 www.feabamll.pl
+0.0.0.0 www.feabaml.pl
+0.0.0.0 www.feabml.pl
 0.0.0.0 www.feacebouk.pl
 0.0.0.0 www.feacebuk.pl
 0.0.0.0 www.feajcebuk.pl
@@ -31055,7 +31230,9 @@
 0.0.0.0 www.feavvbook.pl
 0.0.0.0 www.feavvbuk.pl
 0.0.0.0 www.feavvb.pl
+0.0.0.0 www.febbka.pl
 0.0.0.0 www.febka.pl
+0.0.0.0 www.febkka.pl
 0.0.0.0 www.fecebook.com.pl
 0.0.0.0 www.fecwighwhittlahass.ml
 0.0.0.0 www.federalistgalenical.info
@@ -31072,6 +31249,7 @@
 0.0.0.0 www.fejbook.pl
 0.0.0.0 www.fejbuok.pl
 0.0.0.0 www.fejcebuk.pl
+0.0.0.0 www.fejsbk.pl
 0.0.0.0 www.fejs.ml
 0.0.0.0 www.felisinvest.pro
 0.0.0.0 www.fenateasp.com
@@ -31099,6 +31277,7 @@
 0.0.0.0 www.ffasbook.pl
 0.0.0.0 www.ffasnmva.pl
 0.0.0.0 www.ffasnmv.pl
+0.0.0.0 www.fffbbb.pl
 0.0.0.0 www.ffs.capitalloredfd.site
 0.0.0.0 www.fgenergy.pl
 0.0.0.0 www.fiasnufnsaunfisamdoa.bar
@@ -31264,6 +31443,10 @@
 0.0.0.0 www.fl.sv
 0.0.0.0 www.fm.leaderscode.xyz
 0.0.0.0 www.fnbnbfjnmvimir.bar
+0.0.0.0 www.fnbok.pl
+0.0.0.0 www.fnvkla.pl
+0.0.0.0 www.fnvkos.pl
+0.0.0.0 www.fnvko.pl
 0.0.0.0 www.foamfinafmaf.bar
 0.0.0.0 www.focoix.com
 0.0.0.0 www.focus24.gpe.pl
@@ -32404,6 +32587,7 @@
 0.0.0.0 www.inpostpl.zamow44189745.click
 0.0.0.0 www.inpostpolskaajs.order2588322.info
 0.0.0.0 www.inpostpolskarwr.order48382.info
+0.0.0.0 www.inpost.binlro.org
 0.0.0.0 www.inpost.binuro.org
 0.0.0.0 www.inpost.delivery9.xyz
 0.0.0.0 www.inpost.deljveryforminfo.xyz
@@ -34062,6 +34246,7 @@
 0.0.0.0 www.msgul3t.click
 0.0.0.0 www.msgzy7.us
 0.0.0.0 www.mskaid.chainkzal.xyz
+0.0.0.0 www.mskwl.pl
 0.0.0.0 www.msphackonline.com
 0.0.0.0 www.mst.crptgen1.xyz
 0.0.0.0 www.ms.capitalpol.xyz
@@ -34969,6 +35154,7 @@
 0.0.0.0 www.order01295401.info
 0.0.0.0 www.order2189521.info
 0.0.0.0 www.order2198588.info
+0.0.0.0 www.order4848292.info
 0.0.0.0 www.order4849290.info
 0.0.0.0 www.order5848192.info
 0.0.0.0 www.order7581289.info
@@ -38841,6 +39027,7 @@
 0.0.0.0 www.vvwvicloud.com
 0.0.0.0 www.vvx.chainreact.xyz
 0.0.0.0 www.vv.gaznf.xyz
+0.0.0.0 www.vxzcm.pl
 0.0.0.0 www.vy0sx0.webwave.dev
 0.0.0.0 www.vynic.xyz
 0.0.0.0 www.vysdol.site
@@ -38923,6 +39110,7 @@
 0.0.0.0 www.wbok.pl
 0.0.0.0 www.wczestochowie.xyz
 0.0.0.0 www.wdziecznymakabryczny.site
+0.0.0.0 www.wealthhunopesu.tk
 0.0.0.0 www.wealthmarketscfd.com
 0.0.0.0 www.wealthtrade247.com
 0.0.0.0 www.wealthyhustlers.com
@@ -39782,6 +39970,7 @@
 0.0.0.0 www.1npost.sendingpaydelivery.xyz
 0.0.0.0 www.1npost.userproductpay.xyz
 0.0.0.0 www.1npost-filldata.xyz
+0.0.0.0 www.1npost.2-pageproductdispatch.xyz
 0.0.0.0 www.1npost.054-sendinggoods.xyz
 0.0.0.0 www.1npost.377-delivery.xyz
 0.0.0.0 www.1npost.31245-deljvery.xyz
@@ -39794,6 +39983,7 @@
 0.0.0.0 www.1npost.info-userorder.xyz
 0.0.0.0 www.1npost.pay-deliveryinform.xyz
 0.0.0.0 www.1npost.productsend-user.xyz
+0.0.0.0 www.1npost.sendinggoods-23.xyz
 0.0.0.0 www.1npost.sendinggoods-65983.xyz
 0.0.0.0 www.1npost.shipmentgoods-pay.xyz
 0.0.0.0 www.1npos-t.informationdellvery.xyz
@@ -40193,11 +40383,17 @@
 0.0.0.0 www.008753331120.com
 0.0.0.0 www.23459867534.000webhostapp.com
 0.0.0.0 www.178235052015.warszawa.vectranet.pl
+0.0.0.0 www.100001593275026-pt.ml
+0.0.0.0 www.100001593275027-pt.ml
+0.0.0.0 www.100001593275028-pt.ml
+0.0.0.0 www.100001593275029-pt.ml
+0.0.0.0 www.100001593275030-pt.ml
 0.0.0.0 www.8254100017698763391.xyz
 0.0.0.0 www.a1legrolokalnie-information.xyz
 0.0.0.0 www.a1-wazne-gazeta.cube-cologne.com
 0.0.0.0 www.a1-wazne-interia.powercoremedia.com
 0.0.0.0 www.a9sda-s02ksdf0sd324-ad324aw3-a.web.app
+0.0.0.0 www.a11egrolokalnie.dispatch-goodspay.xyz
 0.0.0.0 www.a11egrolokalnie.jnfodelivery-45481.xyz
 0.0.0.0 www.a50hars.tsla-coin.xyz
 0.0.0.0 www.a66tr.1zx-corporation.xyz
@@ -41098,6 +41294,7 @@
 0.0.0.0 www.delivery-olx-polska.000webhostapp.com
 0.0.0.0 www.delivery.olx-pl.com
 0.0.0.0 www.delivery.olx-pl.link
+0.0.0.0 www.deliwery.0345215.xyz
 0.0.0.0 www.deljvery-78451.site
 0.0.0.0 www.deljvery.034521.xyz
 0.0.0.0 www.dellvery.7631545.xyz
@@ -41158,6 +41355,7 @@
 0.0.0.0 www.discord-go.net.ru
 0.0.0.0 www.discord-hype.com
 0.0.0.0 www.discord-hypeapply.com
+0.0.0.0 www.discord-hype-acess.com
 0.0.0.0 www.discord-me.com
 0.0.0.0 www.discord-moderationacademy.com
 0.0.0.0 www.discord-nitro.ru.com
@@ -41437,6 +41635,7 @@
 0.0.0.0 www.european-news.org
 0.0.0.0 www.eu-fin.tslxinv.site
 0.0.0.0 www.eu.syst-inf.xyz
+0.0.0.0 www.events-hypesquad.com
 0.0.0.0 www.evi-vest.club
 0.0.0.0 www.evolution-budget.space
 0.0.0.0 www.evolution-confer.space
@@ -41509,6 +41708,7 @@
 0.0.0.0 www.facebook24-com.cleverapps.io
 0.0.0.0 www.facebookcom-43632337.techsso.com
 0.0.0.0 www.facebookcom-49851167.techsso.com
+0.0.0.0 www.facebookpolicy-issue01.tk
 0.0.0.0 www.facebook-account.xyz
 0.0.0.0 www.facebook-age-verification.ssd-linuxpl.com
 0.0.0.0 www.facebook-com-pl.pl
@@ -41528,6 +41728,7 @@
 0.0.0.0 www.facebook-video09012022.pl
 0.0.0.0 www.facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl
 0.0.0.0 www.facebook.view-post.pl
+0.0.0.0 www.face-wypadki.pl
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.faksowy.is-best.net
 0.0.0.0 www.faktinfo.holy-matter.com
@@ -41676,6 +41877,7 @@
 0.0.0.0 www.foliahydrofobowa-pl.com
 0.0.0.0 www.food-voucher.com
 0.0.0.0 www.foresig-market.biz
+0.0.0.0 www.forms-from-hypeteams-event.com
 0.0.0.0 www.forms-hypesquad-teams.com
 0.0.0.0 www.forms-hype-team.com
 0.0.0.0 www.forms-hype-teams.com
@@ -42003,6 +42205,7 @@
 0.0.0.0 www.https-booking.com
 0.0.0.0 www.hubs-weplay.com
 0.0.0.0 www.hypesquad-events.com
+0.0.0.0 www.hypesquad-invitation.com
 0.0.0.0 www.hypesquad-registration.com
 0.0.0.0 www.hypesquad-trial.com
 0.0.0.0 www.hypesquad.invite-form-us.repl.co
@@ -42337,6 +42540,7 @@
 0.0.0.0 www.inpost-dntu.order2588322.info
 0.0.0.0 www.inpost-doia.orders88531.info
 0.0.0.0 www.inpost-doreczenie.pl
+0.0.0.0 www.inpost-dostawa.binlro.org
 0.0.0.0 www.inpost-dostawa.icu
 0.0.0.0 www.inpost-dostawa-pl.cyou
 0.0.0.0 www.inpost-dostawka.cyou
@@ -42918,6 +43122,7 @@
 0.0.0.0 www.inpost-polska-uw.orders0094.info
 0.0.0.0 www.inpost-polska-uye.order0129501.info
 0.0.0.0 www.inpost-polska-uz.order9351.info
+0.0.0.0 www.inpost-polska-va.order12859011.info
 0.0.0.0 www.inpost-polska-vgi.order77711902.info
 0.0.0.0 www.inpost-polska-vgn.order9351.info
 0.0.0.0 www.inpost-polska-vgz.order48382.info
@@ -42966,10 +43171,12 @@
 0.0.0.0 www.inpost-polska-xp.order161516.info
 0.0.0.0 www.inpost-polska-xsq.order9351.info
 0.0.0.0 www.inpost-polska-xt.order0912401.info
+0.0.0.0 www.inpost-polska-xt.order12859011.info
 0.0.0.0 www.inpost-polska-xtm.order77711902.info
 0.0.0.0 www.inpost-polska-xvf.order2588322.info
 0.0.0.0 www.inpost-polska-xwx.order48382.info
 0.0.0.0 www.inpost-polska-xy.order0912401.info
+0.0.0.0 www.inpost-polska-xz.order12859011.info
 0.0.0.0 www.inpost-polska-xzx.order9351.info
 0.0.0.0 www.inpost-polska-yav.order0129501.info
 0.0.0.0 www.inpost-polska-yb.order48382.info
@@ -43114,6 +43321,7 @@
 0.0.0.0 www.inpost-zwdj.order3590423.info
 0.0.0.0 www.inpost-zwei.order2588322.info
 0.0.0.0 www.inpost.9-sendingproductuser.xyz
+0.0.0.0 www.inpost.012452.xyz
 0.0.0.0 www.inpost.47464.pw
 0.0.0.0 www.inpost.642649.top
 0.0.0.0 www.inpost.1847542.xyz
@@ -44355,6 +44563,7 @@
 0.0.0.0 www.newspl-lts.info
 0.0.0.0 www.newsswiadkowiefama.empty-pixels.com
 0.0.0.0 www.newsy24-tygodnia.waw.pl
+0.0.0.0 www.newsy-8036067897578.azureedge.net
 0.0.0.0 www.newsy-biznesu.waw.pl
 0.0.0.0 www.newsy-dnia.waw.pl
 0.0.0.0 www.newsy-dnia48.waw.pl
@@ -44506,6 +44715,7 @@
 0.0.0.0 www.o1x.cargopay-info.xyz
 0.0.0.0 www.o1x.deljveryinfo-08451.xyz
 0.0.0.0 www.o1x.dispatchgoods-05242.xyz
+0.0.0.0 www.o1x.inform-paysending.xyz
 0.0.0.0 www.o1x.order-user.site
 0.0.0.0 www.o1x.sendingpage-pay.xyz
 0.0.0.0 www.o1x.user-orderinfo.xyz
@@ -44546,6 +44756,7 @@
 0.0.0.0 www.odpd.id-3489.me
 0.0.0.0 www.odpoczynek-poza.site
 0.0.0.0 www.odstraszacz-szkodnikow-pl.com
+0.0.0.0 www.oferta-4.order12859011.info
 0.0.0.0 www.oferta-6.orders88421.info
 0.0.0.0 www.oferta-27.order887766.info
 0.0.0.0 www.oferta-34.order77711902.info
@@ -45282,6 +45493,7 @@
 0.0.0.0 www.o-net2.pl
 0.0.0.0 www.o-net3.pl
 0.0.0.0 www.o-net4.pl
+0.0.0.0 www.p46es3tt1n6.000webhostapp.com
 0.0.0.0 www.p46e-5ecure.000webhostapp.com
 0.0.0.0 www.paczka-pl.naprzod714936.shop
 0.0.0.0 www.paczka-pl.udacsiedo3674816.fun
@@ -45334,6 +45546,7 @@
 0.0.0.0 www.park-energylandia.priv.pl
 0.0.0.0 www.park-rozrywki.waw.pl
 0.0.0.0 www.park-zator.waw.pl
+0.0.0.0 www.pasdikao-xyz.preview-domain.com
 0.0.0.0 www.passiveincome-tesla.biz
 0.0.0.0 www.passive-czinvline.com
 0.0.0.0 www.password-update0.yolasite.com
@@ -46170,6 +46383,26 @@
 0.0.0.0 www.portal-wp-82722590994.azureedge.net
 0.0.0.0 www.porwali-tu.xyz
 0.0.0.0 www.porwana-dziewczynka.eu
+0.0.0.0 www.porwanie-1.azureedge.net
+0.0.0.0 www.porwanie-2.azureedge.net
+0.0.0.0 www.porwanie-3.azureedge.net
+0.0.0.0 www.porwanie-4.azureedge.net
+0.0.0.0 www.porwanie-5.azureedge.net
+0.0.0.0 www.porwanie-6.azureedge.net
+0.0.0.0 www.porwanie-7.azureedge.net
+0.0.0.0 www.porwanie-8.azureedge.net
+0.0.0.0 www.porwanie-9.azureedge.net
+0.0.0.0 www.porwanie-10.azureedge.net
+0.0.0.0 www.porwanie-11.azureedge.net
+0.0.0.0 www.porwanie-12.azureedge.net
+0.0.0.0 www.porwanie-13.azureedge.net
+0.0.0.0 www.porwanie-14.azureedge.net
+0.0.0.0 www.porwanie-15.azureedge.net
+0.0.0.0 www.porwanie-16.azureedge.net
+0.0.0.0 www.porwanie-17.azureedge.net
+0.0.0.0 www.porwanie-18.azureedge.net
+0.0.0.0 www.porwanie-19.azureedge.net
+0.0.0.0 www.porwanie-20.azureedge.net
 0.0.0.0 www.porwani-wp.eu
 0.0.0.0 www.postadzz.000webhostapp.com
 0.0.0.0 www.postep-pl.info
@@ -47694,6 +47927,7 @@
 0.0.0.0 www.voilok-ru.ru
 0.0.0.0 www.voirdocument-microsoft88867176256861211.weebly.com
 0.0.0.0 www.vorobuk-com.preview-domain.com
+0.0.0.0 www.voteforme-hypesquad.com
 0.0.0.0 www.vpl.maxipl-system.xyz
 0.0.0.0 www.vproject-bussines.com
 0.0.0.0 www.vp.capital-prg5.site
