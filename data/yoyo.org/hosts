@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Jun 2022 16:15:45 GMT
-# entries:        3645
+# last updated:   Thu, 16 Jun 2022 13:16:34 GMT
+# entries:        3648
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 20 Jun 2002 00:00:00
+# start date:    Fri, 21 Jun 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1360,6 +1360,7 @@
 0.0.0.0 cherriescare.com
 0.0.0.0 chewcoat.com
 0.0.0.0 chickensstation.com
+0.0.0.0 childlikecrowd.com
 0.0.0.0 chinsnakes.com
 0.0.0.0 chitika.net
 0.0.0.0 citrusad.net
@@ -1663,6 +1664,7 @@
 0.0.0.0 economicpizzas.com
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
+0.0.0.0 edgexads.com
 0.0.0.0 educationdynamics.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
@@ -1677,6 +1679,7 @@
 0.0.0.0 elitetoplist.com
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-clk.adguard.com
+0.0.0.0 email-links.crowdfireapp.com
 0.0.0.0 email-opn.adguard.com
 0.0.0.0 email.m1.bktrksmail.com
 0.0.0.0 emaillinks.soundiiz.com
