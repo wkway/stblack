@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 16 Jun 2022 13:16:34 GMT
-# entries:        3648
+# entries:        3647
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 21 Jun 2002 00:00:00
+# start date:    Sat, 22 Jun 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1145,6 +1145,7 @@
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannergrabber.internet.gr
 0.0.0.0 bannerimage.com
+0.0.0.0 bannerlandia.com.ar
 0.0.0.0 bannermall.com
 0.0.0.0 bannermanager.bnr.bg
 0.0.0.0 bannermarkt.nl
@@ -1327,7 +1328,6 @@
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashpartner.com
 0.0.0.0 cashstaging.me
-0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 causecherry.com
@@ -1634,6 +1634,7 @@
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
 0.0.0.0 dpbolvw.net
+0.0.0.0 dpgawov.com
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
 0.0.0.0 drabsize.com
@@ -1857,7 +1858,6 @@
 0.0.0.0 fwcdn2.com
 0.0.0.0 fxstyle.net
 0.0.0.0 ga.clearbit.com
-0.0.0.0 ga87z2o.com
 0.0.0.0 gadsbee.com
 0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
@@ -2018,6 +2018,7 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
 0.0.0.0 ifa.tube8live.com
+0.0.0.0 ihogaetw.com
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
@@ -2535,7 +2536,6 @@
 0.0.0.0 openads.friendfinder.com
 0.0.0.0 openads.org
 0.0.0.0 openadsnetwork.com
-0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.cairo360.com
 0.0.0.0 openx.kgmedia.eu
@@ -3344,7 +3344,6 @@
 0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.exipure.com
-0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.internetstores.de
