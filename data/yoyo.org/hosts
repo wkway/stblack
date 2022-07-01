@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 28 Jun 2022 12:32:22 GMT
-# entries:        3653
+# entries:        3646
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 05 Jul 2002 00:00:00
+# start date:    Sat, 06 Jul 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -79,6 +79,7 @@
 0.0.0.0 aboardlevel.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
+0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdwater.com
@@ -555,7 +556,6 @@
 0.0.0.0 ads.mic.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilebet.com
-0.0.0.0 ads.motor-forum.nl
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muslimehelfen.org
@@ -872,7 +872,6 @@
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
-0.0.0.0 adv-banner.libero.it
 0.0.0.0 adv.cooperhosting.net
 0.0.0.0 adv.donejty.pl
 0.0.0.0 adv.freeonline.it
@@ -1258,7 +1257,6 @@
 0.0.0.0 bongacash.com
 0.0.0.0 boomads.com
 0.0.0.0 boomtrain.com
-0.0.0.0 boost-my-pr.de
 0.0.0.0 boredcrown.com
 0.0.0.0 boringcoat.com
 0.0.0.0 boudja.com
@@ -1948,7 +1946,6 @@
 0.0.0.0 highfalutinroom.com
 0.0.0.0 hightrafficads.com
 0.0.0.0 hilariouszinc.com
-0.0.0.0 hilltopads.net
 0.0.0.0 histats.com
 0.0.0.0 historicalrequest.com
 0.0.0.0 hit-parade.com
@@ -1999,7 +1996,6 @@
 0.0.0.0 hyprmx.com
 0.0.0.0 hystericalcloth.com
 0.0.0.0 hystericalhelp.com
-0.0.0.0 i-clicks.net
 0.0.0.0 i-i.lt
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
@@ -2165,7 +2161,6 @@
 0.0.0.0 lemmatechnologies.com
 0.0.0.0 lemnisk.co
 0.0.0.0 lettucelimit.com
-0.0.0.0 levelrate.de
 0.0.0.0 lever-analytics.com
 0.0.0.0 lfeeder.com
 0.0.0.0 lfstmedia.com
@@ -2625,7 +2620,6 @@
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
-0.0.0.0 pilotaffiliate.com
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
 0.0.0.0 pipedream.wistia.com
@@ -3476,7 +3470,6 @@
 0.0.0.0 valueclickmedia.com
 0.0.0.0 valuecommerce.com
 0.0.0.0 vanfireworks.com
-0.0.0.0 variablefitness.com
 0.0.0.0 vcommission.com
 0.0.0.0 veille-referencement.com
 0.0.0.0 velismedia.com
