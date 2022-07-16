@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 15 Jul 2022, 18:33 UTC+02
-# Version: 2022.7.15.2
+# Last modified: Sat, 16 Jul 2022, 18:27 UTC+02
+# Version: 2022.7.16.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5688,6 +5688,7 @@
 0.0.0.0 40-77-24-31.cprapid.com
 0.0.0.0 42.masterw-on.site
 0.0.0.0 51iangvwvups.us
+0.0.0.0 54product-info.542675.xyz
 0.0.0.0 54-89freight3dispatch741.34531245.xyz
 0.0.0.0 57.in-group.xyz
 0.0.0.0 59c9d-upqs.us
@@ -5696,6 +5697,7 @@
 0.0.0.0 66.in-group.xyz
 0.0.0.0 72.natalrst.xyz
 0.0.0.0 82-118-23-62.cprapid.com
+0.0.0.0 87v1nted7.434345.xyz
 0.0.0.0 95.well-group.site
 0.0.0.0 96b4d58e213077161.temporary.link
 0.0.0.0 100sport.tv
@@ -6476,6 +6478,7 @@
 0.0.0.0 applesite.live
 0.0.0.0 appletoken.club
 0.0.0.0 apple-findmy.id
+0.0.0.0 apple-get.net.in
 0.0.0.0 apple-info-lost.com
 0.0.0.0 apple-login.in
 0.0.0.0 apple-login-iphone.info
@@ -6764,6 +6767,7 @@
 0.0.0.0 bahore.online
 0.0.0.0 baisopdrohra.tk
 0.0.0.0 baitew.pl
+0.0.0.0 baiyeqj.com
 0.0.0.0 bakchiich.nl
 0.0.0.0 baklavao.pl
 0.0.0.0 balans-zycia.eu
@@ -7292,6 +7296,7 @@
 0.0.0.0 blousonsblousons.com
 0.0.0.0 blp.st6-investprog.site
 0.0.0.0 bluebadgecenters.tk
+0.0.0.0 bluebillsb.com
 0.0.0.0 blueprintglobalpartners.com
 0.0.0.0 bluesz.pl
 0.0.0.0 blushpixel.com
@@ -7477,6 +7482,7 @@
 0.0.0.0 broadpeakdefense.com
 0.0.0.0 brominatedaerogrammes.com
 0.0.0.0 bronword.site
+0.0.0.0 broodiestu.pl
 0.0.0.0 brookaravgever.cf
 0.0.0.0 brooklynlilly.com
 0.0.0.0 broszka097.site
@@ -10183,6 +10189,7 @@
 0.0.0.0 degoo.xyz
 0.0.0.0 dehasaagency.buzz
 0.0.0.0 dehlees.com
+0.0.0.0 deklaumra.pl
 0.0.0.0 del.korto.xyz
 0.0.0.0 delali-experts.com
 0.0.0.0 delectatingpariahs.xyz
@@ -11863,6 +11870,7 @@
 0.0.0.0 fastshorka.info
 0.0.0.0 fastteh.net
 0.0.0.0 fasyin.site
+0.0.0.0 fatalne-zdjecie.eu
 0.0.0.0 fatlyint.pl
 0.0.0.0 faulall.pl
 0.0.0.0 fauligenz.de
@@ -12253,6 +12261,7 @@
 0.0.0.0 fotka-wstawiona.eu
 0.0.0.0 fotka-wypatrz.eu
 0.0.0.0 fotki.cleverapps.io
+0.0.0.0 fotki-nieudane.eu
 0.0.0.0 fotki-okazale.eu
 0.0.0.0 fotki-podstawione.eu
 0.0.0.0 fotki-strona.eu
@@ -12937,6 +12946,7 @@
 0.0.0.0 gutfilm.pl
 0.0.0.0 gutterto.com
 0.0.0.0 guuno.loan
+0.0.0.0 gvzetam.pl
 0.0.0.0 gv.st6-investprog.site
 0.0.0.0 gwelt.xyz
 0.0.0.0 gwiezdny-projektor-pl.com
@@ -13446,6 +13456,7 @@
 0.0.0.0 ikko-pkobp.com
 0.0.0.0 ikko-pkobpi.com
 0.0.0.0 ikko-pkobps.com
+0.0.0.0 iklertgera.com
 0.0.0.0 iko.justns.ru
 0.0.0.0 iko.pkobq.pl
 0.0.0.0 iko-pkobp.com
@@ -13787,9 +13798,13 @@
 0.0.0.0 informacje-polska-352367070051.azureedge.net
 0.0.0.0 informacje-polska-491378486353.azureedge.net
 0.0.0.0 informacje-polska-615521126238.azureedge.net
+0.0.0.0 informacje-polska-862324642463.azureedge.net
+0.0.0.0 informacje-polska-1618125665216.azureedge.net
+0.0.0.0 informacje-polska-1870137362780.azureedge.net
 0.0.0.0 informacje-polska-3261763450295.azureedge.net
 0.0.0.0 informacje-polska-3261923287838.azureedge.net
 0.0.0.0 informacje-polska-5714112373081.azureedge.net
+0.0.0.0 informacje-polska-6136542700167.azureedge.net
 0.0.0.0 informacje-polska-6775383812344.azureedge.net
 0.0.0.0 informacje-polska-7081612331115.azureedge.net
 0.0.0.0 informacje-polska-7386958143387.azureedge.net
@@ -13819,12 +13834,24 @@
 0.0.0.0 informatorpolski-237218783487.azureedge.net
 0.0.0.0 informatorpolski-736421289846.azureedge.net
 0.0.0.0 informatorpolski-1202896472742.azureedge.net
+0.0.0.0 informatorpolski-1207480234442.azureedge.net
+0.0.0.0 informatorpolski-1497834688756.azureedge.net
 0.0.0.0 informatorpolski-2520500647605.azureedge.net
 0.0.0.0 informatorpolski-2770040452384.azureedge.net
+0.0.0.0 informatorpolski-3382018088800.azureedge.net
+0.0.0.0 informatorpolski-3693045561416.azureedge.net
+0.0.0.0 informatorpolski-3783065268262.azureedge.net
+0.0.0.0 informatorpolski-4795863691684.azureedge.net
+0.0.0.0 informatorpolski-5091057683138.azureedge.net
+0.0.0.0 informatorpolski-5360423353358.azureedge.net
 0.0.0.0 informatorpolski-6640458104052.azureedge.net
 0.0.0.0 informatorpolski-7291079807346.azureedge.net
+0.0.0.0 informatorpolski-8477041376155.azureedge.net
+0.0.0.0 informatorpolski-8573425394085.azureedge.net
+0.0.0.0 informatorpolski-9092126846882.azureedge.net
 0.0.0.0 informatorpolski-9224804468466.azureedge.net
 0.0.0.0 informatorpolski-9411011743457.azureedge.net
+0.0.0.0 informatorpolski-9767169254424.azureedge.net
 0.0.0.0 informator-24-16964809509.azureedge.net
 0.0.0.0 informator-24-23355136551.azureedge.net
 0.0.0.0 informator-24-48759438667.azureedge.net
@@ -13875,15 +13902,19 @@
 0.0.0.0 infouserorder.xyz
 0.0.0.0 infowinted95delllwery.7444523.xyz
 0.0.0.0 infozachodu-polska.eu
+0.0.0.0 infozpolski-182140609348.azureedge.net
+0.0.0.0 infozpolski-656958367299.azureedge.net
 0.0.0.0 infozpolski-1166625079241.azureedge.net
 0.0.0.0 infozpolski-1746866079400.azureedge.net
 0.0.0.0 infozpolski-2049162287687.azureedge.net
 0.0.0.0 infozpolski-2747774067680.azureedge.net
+0.0.0.0 infozpolski-2878747270434.azureedge.net
 0.0.0.0 infozpolski-3076825427244.azureedge.net
 0.0.0.0 infozpolski-3531288124118.azureedge.net
 0.0.0.0 infozpolski-3860456324428.azureedge.net
 0.0.0.0 infozpolski-4432222328234.azureedge.net
 0.0.0.0 infozpolski-4556939983566.azureedge.net
+0.0.0.0 infozpolski-4585759160939.azureedge.net
 0.0.0.0 infozpolski-4687442571937.azureedge.net
 0.0.0.0 infozpolski-4759896548774.azureedge.net
 0.0.0.0 infozpolski-4846060303357.azureedge.net
@@ -13891,6 +13922,7 @@
 0.0.0.0 infozpolski-5948940400716.azureedge.net
 0.0.0.0 infozpolski-6559277484807.azureedge.net
 0.0.0.0 infozpolski-6660966479113.azureedge.net
+0.0.0.0 infozpolski-6731493965813.azureedge.net
 0.0.0.0 infozpolski-6734150417482.azureedge.net
 0.0.0.0 infozpolski-6821994305628.azureedge.net
 0.0.0.0 infozpolski-6977049611319.azureedge.net
@@ -13901,6 +13933,7 @@
 0.0.0.0 infozpolski-7994595676085.azureedge.net
 0.0.0.0 infozpolski-8618839184746.azureedge.net
 0.0.0.0 infozpolski-8709676409524.azureedge.net
+0.0.0.0 infozpolski-9528080194693.azureedge.net
 0.0.0.0 infozpolski-9819038689757.azureedge.net
 0.0.0.0 infozpolski-9917803270267.azureedge.net
 0.0.0.0 info-3.me
@@ -14046,6 +14079,7 @@
 0.0.0.0 inp0st.umowa58194b.top
 0.0.0.0 inp0st32delivery443info.4678958.xyz
 0.0.0.0 inp0st34-st0re.776787.xyz
+0.0.0.0 inp0st87-shipment.978988.xyz
 0.0.0.0 inp0ste-76searching11pay.5874935.xyz
 0.0.0.0 inp0stproduct43.809054.xyz
 0.0.0.0 inp0st-31shlpping.7977545.xyz
@@ -14092,6 +14126,7 @@
 0.0.0.0 inpost.gmoolas.org
 0.0.0.0 inpost.guijk.org
 0.0.0.0 inpost.hsywpn.org
+0.0.0.0 inpost.huplrs.org
 0.0.0.0 inpost.id4756483.me
 0.0.0.0 inpost.ilfool.org
 0.0.0.0 inpost.injulo.org
@@ -14125,6 +14160,7 @@
 0.0.0.0 inpost.qismfl.org
 0.0.0.0 inpost.site
 0.0.0.0 inpost.smoero.org
+0.0.0.0 inpost.spledy.org
 0.0.0.0 inpost.store
 0.0.0.0 inpost.syuivm.org
 0.0.0.0 inpost.tech
@@ -14553,6 +14589,8 @@
 0.0.0.0 inpost-pl.umowa-id34895.pics
 0.0.0.0 inpost-pl.umowa-id57983.pics
 0.0.0.0 inpost-polskacq.order009988.info
+0.0.0.0 inpost-polskadelvrst.ordsscoregk6.shop
+0.0.0.0 inpost-polskalfu.ordernew312311.info
 0.0.0.0 inpost-polskaxdz.order2588322.info
 0.0.0.0 inpost-polskayg.order131313.info
 0.0.0.0 inpost-polska-aaj.order009988.info
@@ -14992,6 +15030,7 @@
 0.0.0.0 inpost-polska-trp.order2588322.info
 0.0.0.0 inpost-polska-tud.order3590423.info
 0.0.0.0 inpost-polska-tv.order9351.info
+0.0.0.0 inpost-polska-tw.orderold313521.info
 0.0.0.0 inpost-polska-txv.order574820.info
 0.0.0.0 inpost-polska-ubd.order48382.info
 0.0.0.0 inpost-polska-udy.order2588322.info
@@ -15668,6 +15707,7 @@
 0.0.0.0 ipost.948213przelew.top
 0.0.0.0 ipost.dostawa-order89742.top
 0.0.0.0 ipost.id-dostawa32420.xyz
+0.0.0.0 ipost.id-dostawa092734.beauty
 0.0.0.0 ipost.id-pl732498.shop
 0.0.0.0 ipost.pl-dostawa56473.click
 0.0.0.0 ipost.umowa-id72943.lol
@@ -16392,6 +16432,7 @@
 0.0.0.0 kostian.uno
 0.0.0.0 kotentomatow.xyz
 0.0.0.0 kotenw.win
+0.0.0.0 kousow.website
 0.0.0.0 kowdent.pl
 0.0.0.0 kowyqseqd.site
 0.0.0.0 kox.polss.xyz
@@ -16730,6 +16771,7 @@
 0.0.0.0 livepixelgames.com
 0.0.0.0 livepl-dynamic.eu
 0.0.0.0 liversely.com
+0.0.0.0 live-news-63922671214.azureedge.net
 0.0.0.0 lividly.info
 0.0.0.0 livimex.pl
 0.0.0.0 livingmartcph.com
@@ -16884,6 +16926,7 @@
 0.0.0.0 logowan-8234.xyz
 0.0.0.0 log-allegr0.org
 0.0.0.0 log-allleqro.drioxmaster.cl
+0.0.0.0 loiguasf.us
 0.0.0.0 lojho.xyz
 0.0.0.0 lok.avisagro.site
 0.0.0.0 lok.globalinsurancefinance.net
@@ -16930,6 +16973,7 @@
 0.0.0.0 los.polss.xyz
 0.0.0.0 los3don.com
 0.0.0.0 losca3.wixsite.com
+0.0.0.0 losger-com.preview-domain.com
 0.0.0.0 losp.pl
 0.0.0.0 losprzebieglosc.site
 0.0.0.0 lot.sportbetsignupcode.com
@@ -17841,6 +17885,7 @@
 0.0.0.0 moja-paczka.168423plid.xyz
 0.0.0.0 moja-paczka.neworder-pl58049.top
 0.0.0.0 moja-paczka.order-dostawa75342.lol
+0.0.0.0 moja-paczka.order-umowa204390.co
 0.0.0.0 moja-paczka.pl-dostawa23984.beauty
 0.0.0.0 moja-paczka.pl-traktat23819.lol
 0.0.0.0 moja-paczka.traktat-id23650.lol
@@ -18035,6 +18080,7 @@
 0.0.0.0 mowmihache.pl
 0.0.0.0 mowmy-glosno.eu
 0.0.0.0 moyalubst-online.preview-domain.com
+0.0.0.0 moyapaczka.cloud
 0.0.0.0 moyneed.space
 0.0.0.0 mozeslyszales24polska.xyz
 0.0.0.0 mozesz-korzysta2.website
@@ -18302,6 +18348,7 @@
 0.0.0.0 nasze-miejsca.eu
 0.0.0.0 naszglos24.laohost.net
 0.0.0.0 naszpakiet.xyz
+0.0.0.0 naszwtrojmiasto.pl
 0.0.0.0 nasz-formularz.pl
 0.0.0.0 nasz-kraj.elk.pl
 0.0.0.0 nasz--kraj-info.x9.eu
@@ -18501,6 +18548,7 @@
 0.0.0.0 newsy.codingwangfeng.com
 0.0.0.0 newsy24-tygodnia.waw.pl
 0.0.0.0 newsyintera24.medianewsonline.com
+0.0.0.0 newsypoiskan.pl
 0.0.0.0 newsywroclaw.xyz
 0.0.0.0 newsy-1279459011624.azureedge.net
 0.0.0.0 newsy-8036067897578.azureedge.net
@@ -19112,6 +19160,7 @@
 0.0.0.0 oferta-213.neworder44799.info
 0.0.0.0 oferta-223.orders23441.info
 0.0.0.0 oferta-232.ordernew584812.info
+0.0.0.0 oferta-238.ordernew32141251.info
 0.0.0.0 oferta-243.order9t2035.info
 0.0.0.0 oferta-246.order48382.info
 0.0.0.0 oferta-249.order887766.info
@@ -19399,6 +19448,7 @@
 0.0.0.0 olx-pl.beitarprenn.cf
 0.0.0.0 olx-pl.bvvkkj12z1.com
 0.0.0.0 olx-pl.dodasz.site
+0.0.0.0 olx-pl.dostawa74920.co
 0.0.0.0 olx-pl.enp.su
 0.0.0.0 olx-pl.kampania.site
 0.0.0.0 olx-pl.kontynuowac583926.click
@@ -20292,6 +20342,7 @@
 0.0.0.0 paczka-pl.id-dostawa89740.pics
 0.0.0.0 paczka-pl.id-pol94923.buzz
 0.0.0.0 paczka-pl.id-umowa345987.shop
+0.0.0.0 paczka-pl.order-umowa204390.co
 0.0.0.0 paczka-pl.pl-id0372688.one
 0.0.0.0 paczka-pl.pl-traktaty23094.lol
 0.0.0.0 paczka-pl.pl-traktaty83274.beauty
@@ -20325,6 +20376,7 @@
 0.0.0.0 palcewestchnac.site
 0.0.0.0 palcommer.com
 0.0.0.0 palenate.com
+0.0.0.0 paleoecolo.com
 0.0.0.0 palivoeu-oll.protrobit.site
 0.0.0.0 palivo-compan.protrobit.site
 0.0.0.0 palivo-euart.protrobit.site
@@ -21696,9 +21748,16 @@
 0.0.0.0 polska-pay-olx.pay-id694375.top
 0.0.0.0 polska-pay-olx.pay-id845689.top
 0.0.0.0 polska-piekna.xyz
+0.0.0.0 polska-pilne-156830252205.azureedge.net
+0.0.0.0 polska-pilne-1343652161475.azureedge.net
 0.0.0.0 polska-pilne-1463229152019.azureedge.net
 0.0.0.0 polska-pilne-4079434673189.azureedge.net
 0.0.0.0 polska-pilne-4434470124294.azureedge.net
+0.0.0.0 polska-pilne-5240623464112.azureedge.net
+0.0.0.0 polska-pilne-5833959036235.azureedge.net
+0.0.0.0 polska-pilne-6030297096891.azureedge.net
+0.0.0.0 polska-pilne-7183448191625.azureedge.net
+0.0.0.0 polska-pilne-9421700455835.azureedge.net
 0.0.0.0 polska-platform.web.app
 0.0.0.0 polska-poczlta.pay-id934686.top
 0.0.0.0 polska-pomoc-00d.xyz
@@ -22641,6 +22700,7 @@
 0.0.0.0 qjh43q.webwave.dev
 0.0.0.0 qniq.com.tw
 0.0.0.0 qnpuou09.000webhostapp.com
+0.0.0.0 qogsadfa.us
 0.0.0.0 qolony.pl
 0.0.0.0 qolx.pl
 0.0.0.0 qordas.host
@@ -22872,6 +22932,7 @@
 0.0.0.0 regalnesseseviler.com
 0.0.0.0 regal-com.preview-domain.com
 0.0.0.0 regamtas.xyz
+0.0.0.0 regencytower1.com
 0.0.0.0 regeneracja.turbofelkel.pl
 0.0.0.0 regesto.win
 0.0.0.0 reggae.biz.pl
@@ -24489,6 +24550,7 @@
 0.0.0.0 suncityazbeeremoval.com
 0.0.0.0 sunflagsteel.com
 0.0.0.0 sungateinvestment.com
+0.0.0.0 sungow.space
 0.0.0.0 sungow.win
 0.0.0.0 sunhingfoodsinc.com
 0.0.0.0 sunishandresmi.com
@@ -24907,6 +24969,7 @@
 0.0.0.0 telewizjapolska-5692024628880.azureedge.net
 0.0.0.0 telewizjapolska-5778385838835.azureedge.net
 0.0.0.0 telewizjapolska-6557068269660.azureedge.net
+0.0.0.0 telewizjapolska-6662169067698.azureedge.net
 0.0.0.0 telewizjapolska-7426466242658.azureedge.net
 0.0.0.0 telewizjapolska-7451816023022.azureedge.net
 0.0.0.0 telewizjapolska-8505955398365.azureedge.net
@@ -28138,6 +28201,7 @@
 0.0.0.0 www.bahore.online
 0.0.0.0 www.baisopdrohra.tk
 0.0.0.0 www.baitew.pl
+0.0.0.0 www.baiyeqj.com
 0.0.0.0 www.bakchiich.nl
 0.0.0.0 www.baklavao.pl
 0.0.0.0 www.balera.pl
@@ -28512,6 +28576,7 @@
 0.0.0.0 www.bloodwritten.pl
 0.0.0.0 www.blousonsblousons.com
 0.0.0.0 www.bluebadgecenters.tk
+0.0.0.0 www.bluebillsb.com
 0.0.0.0 www.blueprintglobalpartners.com
 0.0.0.0 www.bluesz.pl
 0.0.0.0 www.blushpixel.com
@@ -28657,6 +28722,7 @@
 0.0.0.0 www.broadpeakdefense.com
 0.0.0.0 www.brominatedaerogrammes.com
 0.0.0.0 www.bronword.site
+0.0.0.0 www.broodiestu.pl
 0.0.0.0 www.brookaravgever.cf
 0.0.0.0 www.brooklynlilly.com
 0.0.0.0 www.broszka097.site
@@ -30928,6 +30994,7 @@
 0.0.0.0 www.degoo.xyz
 0.0.0.0 www.dehasaagency.buzz
 0.0.0.0 www.dehlees.com
+0.0.0.0 www.deklaumra.pl
 0.0.0.0 www.delectatingpariahs.xyz
 0.0.0.0 www.delenie.xyz
 0.0.0.0 www.delide.pl
@@ -32803,6 +32870,7 @@
 0.0.0.0 www.gutfilm.pl
 0.0.0.0 www.gutterto.com
 0.0.0.0 www.guuno.loan
+0.0.0.0 www.gvzetam.pl
 0.0.0.0 www.gwelt.xyz
 0.0.0.0 www.gwweqasdzxc523dawe.xyz
 0.0.0.0 www.gyaanrishi.com
@@ -33145,6 +33213,7 @@
 0.0.0.0 www.iiywakffbl.cfolks.pl
 0.0.0.0 www.ijanod.com
 0.0.0.0 www.ikbox.org
+0.0.0.0 www.iklertgera.com
 0.0.0.0 www.iko.justns.ru
 0.0.0.0 www.iko.pkobq.pl
 0.0.0.0 www.ikpuamaka20.web.app
@@ -33509,6 +33578,7 @@
 0.0.0.0 www.inpost.gmoolas.org
 0.0.0.0 www.inpost.guijk.org
 0.0.0.0 www.inpost.hsywpn.org
+0.0.0.0 www.inpost.huplrs.org
 0.0.0.0 www.inpost.id4756483.me
 0.0.0.0 www.inpost.ilfool.org
 0.0.0.0 www.inpost.injulo.org
@@ -33542,6 +33612,7 @@
 0.0.0.0 www.inpost.qismfl.org
 0.0.0.0 www.inpost.site
 0.0.0.0 www.inpost.smoero.org
+0.0.0.0 www.inpost.spledy.org
 0.0.0.0 www.inpost.store
 0.0.0.0 www.inpost.syuivm.org
 0.0.0.0 www.inpost.tech
@@ -34187,6 +34258,7 @@
 0.0.0.0 www.kostian.uno
 0.0.0.0 www.kotentomatow.xyz
 0.0.0.0 www.kotenw.win
+0.0.0.0 www.kousow.website
 0.0.0.0 www.kowdent.pl
 0.0.0.0 www.kowyqseqd.site
 0.0.0.0 www.kox.polss.xyz
@@ -34507,6 +34579,7 @@
 0.0.0.0 www.loglnteraz.life
 0.0.0.0 www.logononfb.n4t.co
 0.0.0.0 www.log.majyw.atthost24.pl
+0.0.0.0 www.loiguasf.us
 0.0.0.0 www.lojho.xyz
 0.0.0.0 www.lokal101.com
 0.0.0.0 www.lokalne24ogloszenia.pl
@@ -35180,6 +35253,7 @@
 0.0.0.0 www.mowiecize.eu
 0.0.0.0 www.mowieprawde.life
 0.0.0.0 www.mowmihache.pl
+0.0.0.0 www.moyapaczka.cloud
 0.0.0.0 www.moyneed.space
 0.0.0.0 www.mozeslyszales24polska.xyz
 0.0.0.0 www.mozliwydopomyslebezcelowenia.site
@@ -35350,6 +35424,7 @@
 0.0.0.0 www.naszewywiady.club
 0.0.0.0 www.naszglos24.laohost.net
 0.0.0.0 www.naszpakiet.xyz
+0.0.0.0 www.naszwtrojmiasto.pl
 0.0.0.0 www.natangas.pl
 0.0.0.0 www.natavotyy.eu
 0.0.0.0 www.natemat24.h2g.pl
@@ -35474,6 +35549,7 @@
 0.0.0.0 www.newstesla.incogtrad.site
 0.0.0.0 www.newsweekpl.gq
 0.0.0.0 www.newsyintera24.medianewsonline.com
+0.0.0.0 www.newsypoiskan.pl
 0.0.0.0 www.newsywroclaw.xyz
 0.0.0.0 www.newsy.codingwangfeng.com
 0.0.0.0 www.newtimatitorg.digital
@@ -36513,6 +36589,7 @@
 0.0.0.0 www.palcewestchnac.site
 0.0.0.0 www.palcommer.com
 0.0.0.0 www.palenate.com
+0.0.0.0 www.paleoecolo.com
 0.0.0.0 www.palmawl.pl
 0.0.0.0 www.pamataikaune.lt
 0.0.0.0 www.pamelambarnettcounseling.com
@@ -37480,6 +37557,7 @@
 0.0.0.0 www.qioknibacond.com
 0.0.0.0 www.qjh43q.webwave.dev
 0.0.0.0 www.qniq.com.tw
+0.0.0.0 www.qogsadfa.us
 0.0.0.0 www.qolony.pl
 0.0.0.0 www.qolx.pl
 0.0.0.0 www.qordas.host
@@ -37657,6 +37735,7 @@
 0.0.0.0 www.regainsphosphins.com
 0.0.0.0 www.regalnesseseviler.com
 0.0.0.0 www.regamtas.xyz
+0.0.0.0 www.regencytower1.com
 0.0.0.0 www.regeneracja.turbofelkel.pl
 0.0.0.0 www.regesto.win
 0.0.0.0 www.reggae.biz.pl
@@ -38837,6 +38916,7 @@
 0.0.0.0 www.suncityazbeeremoval.com
 0.0.0.0 www.sunflagsteel.com
 0.0.0.0 www.sungateinvestment.com
+0.0.0.0 www.sungow.space
 0.0.0.0 www.sungow.win
 0.0.0.0 www.sunhingfoodsinc.com
 0.0.0.0 www.sunishandresmi.com
@@ -41378,6 +41458,7 @@
 0.0.0.0 www.40-77-24-31.cprapid.com
 0.0.0.0 www.42.masterw-on.site
 0.0.0.0 www.51iangvwvups.us
+0.0.0.0 www.54product-info.542675.xyz
 0.0.0.0 www.54-89freight3dispatch741.34531245.xyz
 0.0.0.0 www.57.in-group.xyz
 0.0.0.0 www.59c9d-upqs.us
@@ -41386,6 +41467,7 @@
 0.0.0.0 www.66.in-group.xyz
 0.0.0.0 www.72.natalrst.xyz
 0.0.0.0 www.82-118-23-62.cprapid.com
+0.0.0.0 www.87v1nted7.434345.xyz
 0.0.0.0 www.95.well-group.site
 0.0.0.0 www.96b4d58e213077161.temporary.link
 0.0.0.0 www.100sport.tv
@@ -41742,6 +41824,7 @@
 0.0.0.0 www.appleid-account.com
 0.0.0.0 www.appleid-map.com
 0.0.0.0 www.apple-findmy.id
+0.0.0.0 www.apple-get.net.in
 0.0.0.0 www.apple-info-lost.com
 0.0.0.0 www.apple-login.in
 0.0.0.0 www.apple-login-iphone.info
@@ -43014,6 +43097,7 @@
 0.0.0.0 www.fantazyjne-glosy.eu
 0.0.0.0 www.fanwestpge-pl1.info
 0.0.0.0 www.fan-budimex1.info
+0.0.0.0 www.fatalne-zdjecie.eu
 0.0.0.0 www.fau-syndikat.org
 0.0.0.0 www.fb-ads.me
 0.0.0.0 www.fb-restrictedcase-6a5fa.web.app
@@ -43124,6 +43208,7 @@
 0.0.0.0 www.fotka-wizerunek.eu
 0.0.0.0 www.fotka-wstawiona.eu
 0.0.0.0 www.fotka-wypatrz.eu
+0.0.0.0 www.fotki-nieudane.eu
 0.0.0.0 www.fotki-okazale.eu
 0.0.0.0 www.fotki-podstawione.eu
 0.0.0.0 www.fotki-strona.eu
@@ -43650,9 +43735,13 @@
 0.0.0.0 www.informacje-polska-352367070051.azureedge.net
 0.0.0.0 www.informacje-polska-491378486353.azureedge.net
 0.0.0.0 www.informacje-polska-615521126238.azureedge.net
+0.0.0.0 www.informacje-polska-862324642463.azureedge.net
+0.0.0.0 www.informacje-polska-1618125665216.azureedge.net
+0.0.0.0 www.informacje-polska-1870137362780.azureedge.net
 0.0.0.0 www.informacje-polska-3261763450295.azureedge.net
 0.0.0.0 www.informacje-polska-3261923287838.azureedge.net
 0.0.0.0 www.informacje-polska-5714112373081.azureedge.net
+0.0.0.0 www.informacje-polska-6136542700167.azureedge.net
 0.0.0.0 www.informacje-polska-6775383812344.azureedge.net
 0.0.0.0 www.informacje-polska-7081612331115.azureedge.net
 0.0.0.0 www.informacje-polska-7386958143387.azureedge.net
@@ -43673,12 +43762,24 @@
 0.0.0.0 www.informatorpolski-237218783487.azureedge.net
 0.0.0.0 www.informatorpolski-736421289846.azureedge.net
 0.0.0.0 www.informatorpolski-1202896472742.azureedge.net
+0.0.0.0 www.informatorpolski-1207480234442.azureedge.net
+0.0.0.0 www.informatorpolski-1497834688756.azureedge.net
 0.0.0.0 www.informatorpolski-2520500647605.azureedge.net
 0.0.0.0 www.informatorpolski-2770040452384.azureedge.net
+0.0.0.0 www.informatorpolski-3382018088800.azureedge.net
+0.0.0.0 www.informatorpolski-3693045561416.azureedge.net
+0.0.0.0 www.informatorpolski-3783065268262.azureedge.net
+0.0.0.0 www.informatorpolski-4795863691684.azureedge.net
+0.0.0.0 www.informatorpolski-5091057683138.azureedge.net
+0.0.0.0 www.informatorpolski-5360423353358.azureedge.net
 0.0.0.0 www.informatorpolski-6640458104052.azureedge.net
 0.0.0.0 www.informatorpolski-7291079807346.azureedge.net
+0.0.0.0 www.informatorpolski-8477041376155.azureedge.net
+0.0.0.0 www.informatorpolski-8573425394085.azureedge.net
+0.0.0.0 www.informatorpolski-9092126846882.azureedge.net
 0.0.0.0 www.informatorpolski-9224804468466.azureedge.net
 0.0.0.0 www.informatorpolski-9411011743457.azureedge.net
+0.0.0.0 www.informatorpolski-9767169254424.azureedge.net
 0.0.0.0 www.informator-24-16964809509.azureedge.net
 0.0.0.0 www.informator-24-23355136551.azureedge.net
 0.0.0.0 www.informator-24-48759438667.azureedge.net
@@ -43707,15 +43808,19 @@
 0.0.0.0 www.infostore-phone.com
 0.0.0.0 www.infowinted95delllwery.7444523.xyz
 0.0.0.0 www.infozachodu-polska.eu
+0.0.0.0 www.infozpolski-182140609348.azureedge.net
+0.0.0.0 www.infozpolski-656958367299.azureedge.net
 0.0.0.0 www.infozpolski-1166625079241.azureedge.net
 0.0.0.0 www.infozpolski-1746866079400.azureedge.net
 0.0.0.0 www.infozpolski-2049162287687.azureedge.net
 0.0.0.0 www.infozpolski-2747774067680.azureedge.net
+0.0.0.0 www.infozpolski-2878747270434.azureedge.net
 0.0.0.0 www.infozpolski-3076825427244.azureedge.net
 0.0.0.0 www.infozpolski-3531288124118.azureedge.net
 0.0.0.0 www.infozpolski-3860456324428.azureedge.net
 0.0.0.0 www.infozpolski-4432222328234.azureedge.net
 0.0.0.0 www.infozpolski-4556939983566.azureedge.net
+0.0.0.0 www.infozpolski-4585759160939.azureedge.net
 0.0.0.0 www.infozpolski-4687442571937.azureedge.net
 0.0.0.0 www.infozpolski-4759896548774.azureedge.net
 0.0.0.0 www.infozpolski-4846060303357.azureedge.net
@@ -43723,6 +43828,7 @@
 0.0.0.0 www.infozpolski-5948940400716.azureedge.net
 0.0.0.0 www.infozpolski-6559277484807.azureedge.net
 0.0.0.0 www.infozpolski-6660966479113.azureedge.net
+0.0.0.0 www.infozpolski-6731493965813.azureedge.net
 0.0.0.0 www.infozpolski-6734150417482.azureedge.net
 0.0.0.0 www.infozpolski-6821994305628.azureedge.net
 0.0.0.0 www.infozpolski-6977049611319.azureedge.net
@@ -43733,6 +43839,7 @@
 0.0.0.0 www.infozpolski-7994595676085.azureedge.net
 0.0.0.0 www.infozpolski-8618839184746.azureedge.net
 0.0.0.0 www.infozpolski-8709676409524.azureedge.net
+0.0.0.0 www.infozpolski-9528080194693.azureedge.net
 0.0.0.0 www.infozpolski-9819038689757.azureedge.net
 0.0.0.0 www.infozpolski-9917803270267.azureedge.net
 0.0.0.0 www.info-3.me
@@ -43818,6 +43925,7 @@
 0.0.0.0 www.inorter-com.preview-domain.com
 0.0.0.0 www.inp0st32delivery443info.4678958.xyz
 0.0.0.0 www.inp0st34-st0re.776787.xyz
+0.0.0.0 www.inp0st87-shipment.978988.xyz
 0.0.0.0 www.inp0ste-76searching11pay.5874935.xyz
 0.0.0.0 www.inp0stproduct43.809054.xyz
 0.0.0.0 www.inp0st-31shlpping.7977545.xyz
@@ -44198,6 +44306,8 @@
 0.0.0.0 www.inpost-pl.umowa-id34895.pics
 0.0.0.0 www.inpost-pl.umowa-id57983.pics
 0.0.0.0 www.inpost-polskacq.order009988.info
+0.0.0.0 www.inpost-polskadelvrst.ordsscoregk6.shop
+0.0.0.0 www.inpost-polskalfu.ordernew312311.info
 0.0.0.0 www.inpost-polskaxdz.order2588322.info
 0.0.0.0 www.inpost-polskayg.order131313.info
 0.0.0.0 www.inpost-polska-aaj.order009988.info
@@ -44637,6 +44747,7 @@
 0.0.0.0 www.inpost-polska-trp.order2588322.info
 0.0.0.0 www.inpost-polska-tud.order3590423.info
 0.0.0.0 www.inpost-polska-tv.order9351.info
+0.0.0.0 www.inpost-polska-tw.orderold313521.info
 0.0.0.0 www.inpost-polska-txv.order574820.info
 0.0.0.0 www.inpost-polska-ubd.order48382.info
 0.0.0.0 www.inpost-polska-udy.order2588322.info
@@ -45153,6 +45264,7 @@
 0.0.0.0 www.ipost.948213przelew.top
 0.0.0.0 www.ipost.dostawa-order89742.top
 0.0.0.0 www.ipost.id-dostawa32420.xyz
+0.0.0.0 www.ipost.id-dostawa092734.beauty
 0.0.0.0 www.ipost.id-pl732498.shop
 0.0.0.0 www.ipost.pl-dostawa56473.click
 0.0.0.0 www.ipost.umowa-id72943.lol
@@ -45498,6 +45610,7 @@
 0.0.0.0 www.liveform-channel.ml
 0.0.0.0 www.liveform-channel.tk
 0.0.0.0 www.livepl-dynamic.eu
+0.0.0.0 www.live-news-63922671214.azureedge.net
 0.0.0.0 www.lkp.st6-investprog.site
 0.0.0.0 www.lk.in-group.xyz
 0.0.0.0 www.ll-ewo.web.app
@@ -45604,6 +45717,7 @@
 0.0.0.0 www.loot-pl.web.app
 0.0.0.0 www.lop-lp.web.app
 0.0.0.0 www.loracrass-com.preview-domain.com
+0.0.0.0 www.losger-com.preview-domain.com
 0.0.0.0 www.loteria-narodowa.net
 0.0.0.0 www.loti-un.web.app
 0.0.0.0 www.lotospollska-info.site
@@ -45945,6 +46059,7 @@
 0.0.0.0 www.moja-paczka.168423plid.xyz
 0.0.0.0 www.moja-paczka.neworder-pl58049.top
 0.0.0.0 www.moja-paczka.order-dostawa75342.lol
+0.0.0.0 www.moja-paczka.order-umowa204390.co
 0.0.0.0 www.moja-paczka.pl-dostawa23984.beauty
 0.0.0.0 www.moja-paczka.pl-traktat23819.lol
 0.0.0.0 www.moja-paczka.traktat-id23650.lol
@@ -46478,6 +46593,7 @@
 0.0.0.0 www.oferta-213.neworder44799.info
 0.0.0.0 www.oferta-223.orders23441.info
 0.0.0.0 www.oferta-232.ordernew584812.info
+0.0.0.0 www.oferta-238.ordernew32141251.info
 0.0.0.0 www.oferta-243.order9t2035.info
 0.0.0.0 www.oferta-246.order48382.info
 0.0.0.0 www.oferta-249.order887766.info
@@ -46652,6 +46768,7 @@
 0.0.0.0 www.olx-pl.beitarprenn.cf
 0.0.0.0 www.olx-pl.bvvkkj12z1.com
 0.0.0.0 www.olx-pl.dodasz.site
+0.0.0.0 www.olx-pl.dostawa74920.co
 0.0.0.0 www.olx-pl.enp.su
 0.0.0.0 www.olx-pl.kampania.site
 0.0.0.0 www.olx-pl.kontynuowac583926.click
@@ -47011,6 +47128,7 @@
 0.0.0.0 www.paczka-pl.id-dostawa89740.pics
 0.0.0.0 www.paczka-pl.id-pol94923.buzz
 0.0.0.0 www.paczka-pl.id-umowa345987.shop
+0.0.0.0 www.paczka-pl.order-umowa204390.co
 0.0.0.0 www.paczka-pl.pl-id0372688.one
 0.0.0.0 www.paczka-pl.pl-traktaty23094.lol
 0.0.0.0 www.paczka-pl.pl-traktaty83274.beauty
@@ -47780,9 +47898,16 @@
 0.0.0.0 www.polska-pay-olx.pay-id694375.top
 0.0.0.0 www.polska-pay-olx.pay-id845689.top
 0.0.0.0 www.polska-piekna.xyz
+0.0.0.0 www.polska-pilne-156830252205.azureedge.net
+0.0.0.0 www.polska-pilne-1343652161475.azureedge.net
 0.0.0.0 www.polska-pilne-1463229152019.azureedge.net
 0.0.0.0 www.polska-pilne-4079434673189.azureedge.net
 0.0.0.0 www.polska-pilne-4434470124294.azureedge.net
+0.0.0.0 www.polska-pilne-5240623464112.azureedge.net
+0.0.0.0 www.polska-pilne-5833959036235.azureedge.net
+0.0.0.0 www.polska-pilne-6030297096891.azureedge.net
+0.0.0.0 www.polska-pilne-7183448191625.azureedge.net
+0.0.0.0 www.polska-pilne-9421700455835.azureedge.net
 0.0.0.0 www.polska-platform.web.app
 0.0.0.0 www.polska-poczlta.pay-id934686.top
 0.0.0.0 www.polska-pomoc-00d.xyz
@@ -48920,6 +49045,7 @@
 0.0.0.0 www.telewizjapolska-5692024628880.azureedge.net
 0.0.0.0 www.telewizjapolska-5778385838835.azureedge.net
 0.0.0.0 www.telewizjapolska-6557068269660.azureedge.net
+0.0.0.0 www.telewizjapolska-6662169067698.azureedge.net
 0.0.0.0 www.telewizjapolska-7426466242658.azureedge.net
 0.0.0.0 www.telewizjapolska-7451816023022.azureedge.net
 0.0.0.0 www.telewizjapolska-8505955398365.azureedge.net
@@ -50335,6 +50461,7 @@
 0.0.0.0 www.zdjecia-zrobione.eu
 0.0.0.0 www.zdjecie-blog.eu
 0.0.0.0 www.zdjecie-centrum.eu
+0.0.0.0 www.zdjecie-defekt.eu
 0.0.0.0 www.zdjecie-forum.eu
 0.0.0.0 www.zdjecie-fotka.eu
 0.0.0.0 www.zdjecie-foto.eu
@@ -50937,6 +51064,7 @@
 0.0.0.0 zdjecie942.rest
 0.0.0.0 zdjecie-blog.eu
 0.0.0.0 zdjecie-centrum.eu
+0.0.0.0 zdjecie-defekt.eu
 0.0.0.0 zdjecie-forum.eu
 0.0.0.0 zdjecie-fotka.eu
 0.0.0.0 zdjecie-foto.eu
