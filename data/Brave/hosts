@@ -14,17 +14,26 @@
 # endpoint connections.
 #
 #
-# Version:  1.0.6
+# Version:  1.0.8
 # ASN:      AS16509, AS13335, AS15169
 # IP:       Behind CL + Amazon
 # IPV6:     Behind CL + Amazon
 #
-# Account - Jitis - Brave Talk
-#0.0.0.0 account.brave.com
+# Jitis - Brave Talk
 #0.0.0.0 talk.brave.com
 #
 # Brave BAT Statistics
 #0.0.0.0 bravebat.info
+#
+# Blockchain and Payments
+#0.0.0.0 filecoin.io
+#0.0.0.0 exchange.filecoin.com
+#0.0.0.0 gemini.com
+#0.0.0.0 exchange.gemini.com
+#0.0.0.0 solana.com
+#0.0.0.0 exchange.solana.com
+#0.0.0.0 uphold.com
+#0.0.0.0 exchange.uphold.com
 #
 # Community and Support
 #0.0.0.0 community.brave.com
@@ -72,32 +81,30 @@
 #0.0.0.0 ads.xtribeapp.com
 #0.0.0.0 badassembly.com
 #0.0.0.0 caravansforsale.co.uk
-#0.0.0.0 exchange.gemini.com
-#0.0.0.0 ffiliates.com
-#0.0.0.0 filecoin.io
-#0.0.0.0 gemini.com
+#0.0.0.0 geo.ads.brave.com
 #0.0.0.0 fusac.fr
 #0.0.0.0 memo2.nl
+#0.0.0.0 myffiliates.com
 #0.0.0.0 reempresa.org
-#0.0.0.0 seriouswheels.com
-#0.0.0.0 uphold.com
 #
 # SafeBrowsing
 # https://safebrowsing.google.com/
 #0.0.0.0 safebrowsing.brave.com
 #0.0.0.0 ogs.google.com
 #
-# Social Media
-#0.0.0.0 brave.cafe
+# Sync
+#0.0.0.0 account.brave.com
+#0.0.0.0 sync.brave.com
+#0.0.0.0 sync-v2.brave.com
 #
-# Telemetry and Statistics
+# Telemetry and Statistic
 # https://github.com/brave/brave-browser/wiki/P3A
 # https://github.com/brave/brave-core/blob/v1.21.73/browser/brave_stats/brave_stats_updater.cc#L52
 #0.0.0.0 p3a.brave.com
 #0.0.0.0 privacy-preserving telemetry.com
 #0.0.0.0 static1.brave.com
 #
-# Updater for Builds and Extensions
+# Updater for Brave Builds and Extensions
 #0.0.0.0 brave-core-ext.s3.brave.com
 #0.0.0.0 componentupdater.brave.com
 #0.0.0.0 crlsets.brave.com
