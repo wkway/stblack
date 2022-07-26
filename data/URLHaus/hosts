@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-07-25 17:19:06 (UTC)                      #
+# Last updated: 2022-07-26 17:08:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,12 +8,9 @@
 #
 127.0.0.1	1008691.com
 127.0.0.1	123hpcom.site
-127.0.0.1	17f1b93b.deal.smithfirm.agency
 127.0.0.1	21robo.com
-127.0.0.1	33rdderryscouts.com
 127.0.0.1	360.lcy2zzx.pw
 127.0.0.1	360down7.miiyun.cn
-127.0.0.1	3dstudioa.com.br
 127.0.0.1	7eminotopark.com
 127.0.0.1	aandllandscaping.ca
 127.0.0.1	aarsaindustries.com
@@ -24,10 +21,14 @@
 127.0.0.1	acellr.co.uk
 127.0.0.1	acera.co.uk
 127.0.0.1	activa-ghana.com
+127.0.0.1	ad5ff778.schedule.newhomessection.com
+127.0.0.1	adityasolsurf.in
 127.0.0.1	admin.classified.pointsource.ng
 127.0.0.1	aduanasctpp.com
 127.0.0.1	advanzabpo.com
 127.0.0.1	afromerchants.co.zw
+127.0.0.1	agdm.ml
+127.0.0.1	agemn.co.za
 127.0.0.1	airhobi.com
 127.0.0.1	akim.org.ar
 127.0.0.1	alberts.diamondrelationscrm.us
@@ -48,7 +49,6 @@
 127.0.0.1	apanor.com.br
 127.0.0.1	apexcreative.co.kr
 127.0.0.1	api-ms.cobainaja.id
-127.0.0.1	api.52kkg.com
 127.0.0.1	api.cstdevs.com
 127.0.0.1	applific.net
 127.0.0.1	apps.saintsoporte.com
@@ -57,7 +57,6 @@
 127.0.0.1	areyoulivingwell.com
 127.0.0.1	armandotechnology.com.br
 127.0.0.1	arquivos.cenize.com
-127.0.0.1	artefatocultural.org.br
 127.0.0.1	artursemth.com
 127.0.0.1	arushagems.com
 127.0.0.1	asaferefuge.org
@@ -76,7 +75,6 @@
 127.0.0.1	aynalfahadboursa.com
 127.0.0.1	azmeasurement.com
 127.0.0.1	b.game2723.com
-127.0.0.1	b93485m.tk
 127.0.0.1	backgrounds.pk
 127.0.0.1	badeggdesign.com
 127.0.0.1	balibuli.hu
@@ -91,7 +89,6 @@
 127.0.0.1	bbia.co.uk
 127.0.0.1	bd.vomitbox.org
 127.0.0.1	beachwood.ug
-127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beeabouttown.com
 127.0.0.1	benconry.com
 127.0.0.1	benwellgroup.co.uk
@@ -114,9 +111,7 @@
 127.0.0.1	bpsjambi.id
 127.0.0.1	brasslineindia.com
 127.0.0.1	breakdownlanemovie.com
-127.0.0.1	brideofmessiah.com
 127.0.0.1	bridgesfoundationrepair.com
-127.0.0.1	britainsolicitors.com
 127.0.0.1	british-shorthair.es
 127.0.0.1	britspizzeria.com
 127.0.0.1	brittknight.com
@@ -128,7 +123,6 @@
 127.0.0.1	bureauinternacional.com.ar
 127.0.0.1	burgermurger.com
 127.0.0.1	buscascolegios.diit.cl
-127.0.0.1	byelytskywebstudio.site
 127.0.0.1	c.oooooooooo.ga
 127.0.0.1	caioaraujo.vip
 127.0.0.1	calzadoyuyin.com
@@ -136,8 +130,6 @@
 127.0.0.1	canconsulting.in
 127.0.0.1	cansal.cl
 127.0.0.1	caragudigital.com.mx
-127.0.0.1	carltonsalesgroupinc.com
-127.0.0.1	carltonshoressnfllc.com
 127.0.0.1	casamuseoayerbe.co
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdn.doxbin.org
@@ -164,14 +156,15 @@
 127.0.0.1	clovekwealth.com
 127.0.0.1	codeflakesstudio.com
 127.0.0.1	coinince.com
-127.0.0.1	cointrade.world
 127.0.0.1	colegiounamuno.es
 127.0.0.1	commune-ariana.tn
 127.0.0.1	computiendastrevo.com
+127.0.0.1	connect.holix.de
 127.0.0.1	consultoriabrastec.com.br
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	coop-host.com
 127.0.0.1	coopacredito.com
+127.0.0.1	corpernaija.com
 127.0.0.1	corpolevesuplementos.com.br
 127.0.0.1	corpuslender.com
 127.0.0.1	count.mail.163.com.impactmedfoundation.com
@@ -192,7 +185,6 @@
 127.0.0.1	danaevara.com
 127.0.0.1	danialteb.com
 127.0.0.1	danoblab.com
-127.0.0.1	darkchemical.com
 127.0.0.1	dashboard.khholdings.co.za
 127.0.0.1	data-host-file-16.com
 127.0.0.1	datainline.com
@@ -215,12 +207,12 @@
 127.0.0.1	dhsoftware.com.au
 127.0.0.1	diaplanu.com
 127.0.0.1	dijicom.net
-127.0.0.1	direct.safone.tech
 127.0.0.1	disbaramulla.com
 127.0.0.1	discoveryast.com
 127.0.0.1	divinaprovidenciaautlan.com
 127.0.0.1	dl.1003b.56a.com
 127.0.0.1	dl.9xu.com
+127.0.0.1	dl.uploadgram.me
 127.0.0.1	dlqsclub.com
 127.0.0.1	dmaicinnovations.com
 127.0.0.1	dmastermovers.co.za
@@ -233,9 +225,8 @@
 127.0.0.1	down.rxgif.cn
 127.0.0.1	down.yjhyjl.cn
 127.0.0.1	download.caihong.com
-127.0.0.1	download.doumaibiji.cn
+127.0.0.1	download.pdf00.cn
 127.0.0.1	downloads.bcweb.org.uk
-127.0.0.1	drawino.com
 127.0.0.1	dreams4tomorrow.org
 127.0.0.1	drhanneserasmus.co.za
 127.0.0.1	drive.google.com.it-barcelona.com
@@ -255,13 +246,13 @@
 127.0.0.1	ebuysa.co.za
 127.0.0.1	ecim.azneomedia.ro
 127.0.0.1	edoraseguros.com.br
+127.0.0.1	edu.pmvanini.rs.gov.br
 127.0.0.1	educajuris.cl
 127.0.0.1	ef-web.com
 127.0.0.1	ehsanenterprises.com
 127.0.0.1	emprendedorimbatible.com
 127.0.0.1	engviniciusfranco.com.br
 127.0.0.1	environmentalaw.com
-127.0.0.1	epam.vip
 127.0.0.1	ergotherapeia-kalamata.gr
 127.0.0.1	escueladecinemza.com.ar
 127.0.0.1	esquiudigital.com
@@ -358,7 +349,6 @@
 127.0.0.1	host-file-host9.com
 127.0.0.1	hostingparacolombia.com
 127.0.0.1	hotelhadieh.ir
-127.0.0.1	houseatthebeachinoc.com
 127.0.0.1	howebeautiful.com
 127.0.0.1	howesitgoing.com
 127.0.0.1	howimetyourdata.com
@@ -380,7 +370,6 @@
 127.0.0.1	incrediblepixels.com
 127.0.0.1	indonesias.me
 127.0.0.1	indrasbikaner.com
-127.0.0.1	induvit.tlaxcala.gob.mx
 127.0.0.1	infinite-stars.net
 127.0.0.1	ingenious.cl
 127.0.0.1	innosolv-idine.com
@@ -401,6 +390,7 @@
 127.0.0.1	jr-software-web.net
 127.0.0.1	jrfurnace.com
 127.0.0.1	justplay.asia
+127.0.0.1	jxwd.cc
 127.0.0.1	kafei.528k.cn
 127.0.0.1	kairaliagencies.com
 127.0.0.1	kaptured.io
@@ -427,7 +417,6 @@
 127.0.0.1	kutegiagoc.com
 127.0.0.1	la-csi.com
 127.0.0.1	lameguard.ru
-127.0.0.1	lasermobilesounds.co.uk
 127.0.0.1	latinaked.club
 127.0.0.1	lativahgreene.com
 127.0.0.1	lceventos.net
@@ -449,7 +438,7 @@
 127.0.0.1	location-voitures.ma
 127.0.0.1	loja.eulillian.com
 127.0.0.1	lopespublicidade.com
-127.0.0.1	ls-droid.com
+127.0.0.1	lorritroughton.com
 127.0.0.1	ltc.typoten.com
 127.0.0.1	luminouspneuma.com
 127.0.0.1	lupusmarketing.com
@@ -461,7 +450,6 @@
 127.0.0.1	makeupuccino.com
 127.0.0.1	marcowine.com
 127.0.0.1	mario-sunjic.com
-127.0.0.1	marketingteamoftampa.site
 127.0.0.1	marksidfgs.ug
 127.0.0.1	marnersstyler.ug
 127.0.0.1	marquesvogt.com
@@ -479,6 +467,7 @@
 127.0.0.1	metalgas.com.ar
 127.0.0.1	metrofordec.com
 127.0.0.1	mewolters.nl
+127.0.0.1	mexicogroups.com
 127.0.0.1	mgcpakistan.com
 127.0.0.1	mikhailmotoringschool.com
 127.0.0.1	milanstaffing.com
@@ -486,7 +475,6 @@
 127.0.0.1	miriams.vn
 127.0.0.1	misterson.com
 127.0.0.1	mistitis.ug
-127.0.0.1	mistydeblasiophotography.com
 127.0.0.1	mkdvesti.com
 127.0.0.1	mkontakt.az
 127.0.0.1	mncarteam.com
@@ -504,6 +492,7 @@
 127.0.0.1	napolilovemark.com
 127.0.0.1	nasapaul.com
 127.0.0.1	nazreghadir.ir
+127.0.0.1	networkwheels.co.za
 127.0.0.1	newdevjyq.devjyq.com
 127.0.0.1	newgoplus.com
 127.0.0.1	newkano.com
@@ -549,7 +538,6 @@
 127.0.0.1	patch2.99ddd.com
 127.0.0.1	patriciamirapsicologa.com
 127.0.0.1	pay.ewalletgold.com
-127.0.0.1	paygiri-online.ml
 127.0.0.1	pcsolutionss.com
 127.0.0.1	perfectguard.hu
 127.0.0.1	petparadise.biz
@@ -559,6 +547,7 @@
 127.0.0.1	pink99.com
 127.0.0.1	pivot-to-virtual.com
 127.0.0.1	plasfan.ind.br
+127.0.0.1	pns.org.pk
 127.0.0.1	portugalguide.de
 127.0.0.1	posmicrosystems.com
 127.0.0.1	prestasicash.com.ar
@@ -587,11 +576,11 @@
 127.0.0.1	regenerations.eu
 127.0.0.1	reifenquick.de
 127.0.0.1	reime.dk
-127.0.0.1	relaxindulge.co.nz
 127.0.0.1	renton.apttechsol.com
 127.0.0.1	reshake-official.com
 127.0.0.1	retailelectricprovider.com
 127.0.0.1	retailexpertscloud.com
+127.0.0.1	rgyui.top
 127.0.0.1	ricambi.fixtofix.it
 127.0.0.1	rinaefoundation.org.za
 127.0.0.1	riopiscinas.com.br
@@ -605,16 +594,14 @@
 127.0.0.1	sacvasanth.com
 127.0.0.1	saffronflourmill.com
 127.0.0.1	saffrontheindiankitchen.com
-127.0.0.1	saham-daran-meli.tk
 127.0.0.1	saintjosemariaschool.edu.pe
-127.0.0.1	sana-24ir.tk
 127.0.0.1	sareeshaper.com
 127.0.0.1	sbss.com.pk
 127.0.0.1	scglobal.co.th
 127.0.0.1	schoolofspanish.co.za
 127.0.0.1	scr.gen.tr
+127.0.0.1	senbiaojita.com
 127.0.0.1	seniorweekoc.net
-127.0.0.1	servair.com
 127.0.0.1	server.easysalepage.in.th
 127.0.0.1	server.toeicswt.co.kr
 127.0.0.1	service.easytrace.mn
@@ -626,10 +613,10 @@
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shopart.me
 127.0.0.1	shunda321.com
-127.0.0.1	sieuthiphutungxenang.com
 127.0.0.1	sindicato1ucm.cl
 127.0.0.1	skydivingdzs.com
 127.0.0.1	sleepstarlite-ozark.com
+127.0.0.1	smelecpro.com
 127.0.0.1	socigo.eu
 127.0.0.1	soft.110route.com
 127.0.0.1	solenica.com
@@ -639,6 +626,7 @@
 127.0.0.1	spent.com.pl
 127.0.0.1	spetsesyachtcharter.gr
 127.0.0.1	spices.com.sg
+127.0.0.1	src1.minibai.com
 127.0.0.1	srigurunathaenterprises.com
 127.0.0.1	srmcomputer.com
 127.0.0.1	ss.monita.co.id
@@ -689,7 +677,6 @@
 127.0.0.1	todoapp.cstdevs.com
 127.0.0.1	tonydong.com
 127.0.0.1	torresquinterocorp.com
-127.0.0.1	tractorandinas.com
 127.0.0.1	tradingview-brokers.learnforcareer.com
 127.0.0.1	training.globodyinc.biz
 127.0.0.1	travelwithmanta.co.za
@@ -699,8 +686,6 @@
 127.0.0.1	udboxes.com
 127.0.0.1	ukguk71.ru
 127.0.0.1	unbi.ba
-127.0.0.1	unicorpbrunei.com
-127.0.0.1	unisoftcc.com
 127.0.0.1	universalplastoind.com
 127.0.0.1	update.cg100iii.com
 127.0.0.1	uxsingh.com
@@ -721,6 +706,7 @@
 127.0.0.1	visionnextgroup.net
 127.0.0.1	vitrifrig0.com
 127.0.0.1	vocoptions.net
+127.0.0.1	vpts.co.za
 127.0.0.1	vrstar-park.com
 127.0.0.1	w1.zypaint.com
 127.0.0.1	wahkiulogistics.com.hk
@@ -742,7 +728,6 @@
 127.0.0.1	worldofjain.com
 127.0.0.1	wshsoft.company
 127.0.0.1	www.21robo.com
-127.0.0.1	www.abelcare.co.uk
 127.0.0.1	www.agentofficetest.com
 127.0.0.1	www.agies.org
 127.0.0.1	www.alertsecurities.in
@@ -757,6 +742,7 @@
 127.0.0.1	www.cesasin.com.ar
 127.0.0.1	www.charmingsoftech.com
 127.0.0.1	www.chawkyfrenn.com
+127.0.0.1	www.chemsky.tn
 127.0.0.1	www.cisnc.it
 127.0.0.1	www.classicproduction.com
 127.0.0.1	www.corpandina.com.pe
@@ -774,7 +760,6 @@
 127.0.0.1	www.faitmaison.uk
 127.0.0.1	www.fcstradesolutions.com
 127.0.0.1	www.fixstudio.co.kr
-127.0.0.1	www.forensisbilisim.com
 127.0.0.1	www.fundacioncedes.org
 127.0.0.1	www.garantihaliyikama.com
 127.0.0.1	www.geowf.ge
@@ -795,11 +780,13 @@
 127.0.0.1	www.kspintidana.com
 127.0.0.1	www.littleplanetclass.com
 127.0.0.1	www.llev.com.br
+127.0.0.1	www.maxmoney.com
 127.0.0.1	www.metalgas.com.ar
 127.0.0.1	www.mfevr.com
 127.0.0.1	www.mobiles-photostudio.com
 127.0.0.1	www.moninediy.com
 127.0.0.1	www.mp3infonice.top
+127.0.0.1	www.mp3statycy.top
 127.0.0.1	www.officeinsumos.com
 127.0.0.1	www.opolis.io
 127.0.0.1	www.palharesinformatica.com.br
@@ -822,19 +809,17 @@
 127.0.0.1	www.weinsteincounseling.com
 127.0.0.1	www.wpkms.com
 127.0.0.1	www.ysbaojia.com
+127.0.0.1	x.233sy.cn
 127.0.0.1	x.rune-spectrals.com
 127.0.0.1	xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1	xn--cheggl-videos-fr-gastronomie-g7c.de
 127.0.0.1	xt.lykj988.com
 127.0.0.1	xz.8dashi.com
 127.0.0.1	yacane.nl
-127.0.0.1	yakosurf.com
-127.0.0.1	ybp.rpmediateam.com
 127.0.0.1	yestech.com.ng
 127.0.0.1	yoymanajemen.id
 127.0.0.1	yp.hnggzyjy.cn
 127.0.0.1	yzkzixun.com
-127.0.0.1	zarzamora.com.mx
 127.0.0.1	zhivir.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 831
+# Number of entries: 816
