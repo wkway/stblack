@@ -14,16 +14,13 @@
 # endpoint connections.
 #
 #
-# Version:  1.0.8
+# Version:  1.0.9
 # ASN:      AS16509, AS13335, AS15169
 # IP:       Behind CL + Amazon
 # IPV6:     Behind CL + Amazon
 #
 # Jitis - Brave Talk
 #0.0.0.0 talk.brave.com
-#
-# Brave BAT Statistics
-#0.0.0.0 bravebat.info
 #
 # Blockchain and Payments
 #0.0.0.0 filecoin.io
@@ -34,6 +31,12 @@
 #0.0.0.0 exchange.solana.com
 #0.0.0.0 uphold.com
 #0.0.0.0 exchange.uphold.com
+#
+# Brave BAT Statistics
+#0.0.0.0 bravebat.info
+#
+# Brave Proxy
+#0.0.0.0 redirector.brave.com
 #
 # Community and Support
 #0.0.0.0 community.brave.com
@@ -102,7 +105,6 @@
 # https://github.com/brave/brave-browser/wiki/P3A
 # https://github.com/brave/brave-core/blob/v1.21.73/browser/brave_stats/brave_stats_updater.cc#L52
 #0.0.0.0 p3a.brave.com
-#0.0.0.0 privacy-preserving telemetry.com
 #0.0.0.0 static1.brave.com
 #
 # Updater for Brave Builds and Extensions

@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 28 Jul 2022 10:17:18 GMT
-# entries:        3642
+# entries:        3638
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 02 Aug 2002 00:00:00
+# start date:    Sat, 03 Aug 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -357,7 +357,6 @@
 0.0.0.0 adreporting.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adriver.ru
-0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
@@ -469,6 +468,7 @@
 0.0.0.0 ads.fastcomgroup.it
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.faxo.com
+0.0.0.0 ads.femmefab.nl
 0.0.0.0 ads.ferianc.com
 0.0.0.0 ads.filmup.com
 0.0.0.0 ads.financialcontent.com
@@ -700,6 +700,7 @@
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.clearchannel.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.hsoub.com
 0.0.0.0 ads2.net-communities.co.uk
@@ -979,7 +980,6 @@
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 amazonaax.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 americash.com
@@ -1201,7 +1201,6 @@
 0.0.0.0 benfly.net
 0.0.0.0 berp.com
 0.0.0.0 bestboundary.com
-0.0.0.0 bestsearch.net
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bfmio.com
 0.0.0.0 bhcumsc.com
@@ -1464,7 +1463,6 @@
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 contadores.miarroba.com
-0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 content22.online.citi.com
@@ -1628,7 +1626,6 @@
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
 0.0.0.0 dpbolvw.net
-0.0.0.0 dpgawov.com
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
 0.0.0.0 drabsize.com
@@ -2010,7 +2007,6 @@
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
 0.0.0.0 ifa.tube8live.com
-0.0.0.0 ihogaetw.com
 0.0.0.0 ilbanner.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
@@ -2230,7 +2226,6 @@
 0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 loopme.com
-0.0.0.0 lop.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
@@ -2553,6 +2548,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overture.com
+0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owlsr.us
 0.0.0.0 owneriq.net
