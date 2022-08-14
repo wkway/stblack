@@ -1,25 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-08-13 17:00:06 (UTC)                      #
+# Last updated: 2022-08-14 17:06:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-127.0.0.1	00ac.telegram.godsmightywhispers.com
 127.0.0.1	00f7.templates.victoryoverdieting.com
 127.0.0.1	0e13.templates.victoryoverdieting.com
 127.0.0.1	1008691.com
 127.0.0.1	123hpcom.site
 127.0.0.1	21robo.com
-127.0.0.1	3023.templates.victoryoverdieting.com
 127.0.0.1	33rdderryscouts.com
 127.0.0.1	360.lcy2zzx.pw
 127.0.0.1	360down7.miiyun.cn
 127.0.0.1	53d1.templates.victoryoverdieting.com
-127.0.0.1	5da1.templates.victoryoverdieting.com
-127.0.0.1	6715.templates.victoryoverdieting.com
-127.0.0.1	682b.telegram.godsmightywhispers.com
 127.0.0.1	7eminotopark.com
 127.0.0.1	8126.telegram.godsmightywhispers.com
 127.0.0.1	a232.templates.victoryoverdieting.com
@@ -40,6 +35,7 @@
 127.0.0.1	agemn.co.za
 127.0.0.1	airhobi.com
 127.0.0.1	akim.org.ar
+127.0.0.1	aksaraymanset.com
 127.0.0.1	alberts.diamondrelationscrm.us
 127.0.0.1	aldojuanpettiti.com.ar
 127.0.0.1	alinac.ca
@@ -50,8 +46,10 @@
 127.0.0.1	alzheimerzamora.com
 127.0.0.1	amarteargentina.com.ar
 127.0.0.1	amazingholidaysmaldives.com
+127.0.0.1	americantv.online
 127.0.0.1	andrewpharma.com
 127.0.0.1	angel.bk.idv.tw
+127.0.0.1	anguianoss.com
 127.0.0.1	annesimonnot.com
 127.0.0.1	antoniolabruna.com.ar
 127.0.0.1	aosafrica.co.za
@@ -68,7 +66,6 @@
 127.0.0.1	areyoulivingwell.com
 127.0.0.1	armandotechnology.com.br
 127.0.0.1	artursemth.com
-127.0.0.1	arushagems.com
 127.0.0.1	ascendmedicalsupplies.co.ke
 127.0.0.1	aspantovic.rs
 127.0.0.1	assets.dsztfso.cn
@@ -103,7 +100,6 @@
 127.0.0.1	bethelmbcarvada.org
 127.0.0.1	bhaagya.app
 127.0.0.1	bhandariclub.com
-127.0.0.1	bigmikesupplies.co.za
 127.0.0.1	binnuryetikdanismanlik.com.tr
 127.0.0.1	bitlog.shop
 127.0.0.1	blog.aeromus.com
@@ -126,7 +122,6 @@
 127.0.0.1	british-shorthair.es
 127.0.0.1	brittknight.com
 127.0.0.1	bruiserbodies.com
-127.0.0.1	bsa.iain-jember.ac.id
 127.0.0.1	bukuonline2u.com
 127.0.0.1	bullrush.com.au
 127.0.0.1	burgermurger.com
@@ -161,7 +156,6 @@
 127.0.0.1	closehub.ru
 127.0.0.1	cloud.fc.co.mz
 127.0.0.1	cloudsoft.or.ke
-127.0.0.1	cloudxpnew4af.cfd
 127.0.0.1	clovekwealth.com
 127.0.0.1	codeflakesstudio.com
 127.0.0.1	coinince.com
@@ -171,7 +165,6 @@
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	coop-host.com
 127.0.0.1	coopacredito.com
-127.0.0.1	corpernaija.com
 127.0.0.1	corpolevesuplementos.com.br
 127.0.0.1	corpuslender.com
 127.0.0.1	corscania.com
@@ -226,7 +219,6 @@
 127.0.0.1	down.1230578.com
 127.0.0.1	down.pcclear.com
 127.0.0.1	down.rxgif.cn
-127.0.0.1	down.yjhyjl.cn
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.pdf00.cn
 127.0.0.1	downloads.bcweb.org.uk
@@ -349,7 +341,6 @@
 127.0.0.1	hseda.com
 127.0.0.1	htech.eti.br
 127.0.0.1	htownbars.com
-127.0.0.1	hunggiang.vn
 127.0.0.1	i-dots.com
 127.0.0.1	ideaplusjal.in
 127.0.0.1	imbueautoworx.co.za
@@ -367,7 +358,6 @@
 127.0.0.1	innosolv-idine.com
 127.0.0.1	instratghs.com
 127.0.0.1	isaac.mikhailmotoringschool.com
-127.0.0.1	iwanttodestroynacism.xyz
 127.0.0.1	jacquieclark.com
 127.0.0.1	japlatec.com
 127.0.0.1	jay.diamondrelationscrm.us
@@ -411,6 +401,7 @@
 127.0.0.1	lceventos.net
 127.0.0.1	ldgcorp.com
 127.0.0.1	leasiacherise.com
+127.0.0.1	leemhuislegal.com
 127.0.0.1	lennart.serv.se
 127.0.0.1	library.arihantmbainstitute.ac.in
 127.0.0.1	lifebotl.com
@@ -423,11 +414,11 @@
 127.0.0.1	lm.stagingarea.co.za
 127.0.0.1	lms.cstdevs.com
 127.0.0.1	loa-hk.com
-127.0.0.1	lobazedeke.com
 127.0.0.1	location-voitures.ma
 127.0.0.1	loja.eulillian.com
 127.0.0.1	longevitymeats.com
 127.0.0.1	lopespublicidade.com
+127.0.0.1	ls-droid.com
 127.0.0.1	ltc.typoten.com
 127.0.0.1	luminouspneuma.com
 127.0.0.1	lupusmarketing.com
@@ -447,7 +438,6 @@
 127.0.0.1	medianews.ge
 127.0.0.1	medofast.in
 127.0.0.1	meeweb.com
-127.0.0.1	mepstein.com
 127.0.0.1	mer30.ru
 127.0.0.1	meridianites.com
 127.0.0.1	metalgas.com.ar
@@ -468,9 +458,9 @@
 127.0.0.1	mohammadyarico.com
 127.0.0.1	moorworld.com
 127.0.0.1	morientlines.com
-127.0.0.1	mosacor.co.za
 127.0.0.1	mq-ca.com
 127.0.0.1	mulmatdol.com
+127.0.0.1	mumgee.co.za
 127.0.0.1	mwu.com.mx
 127.0.0.1	myphamcuatui.com
 127.0.0.1	mysouthbay.com
@@ -489,10 +479,10 @@
 127.0.0.1	noonimpex.com
 127.0.0.1	noordhoekmedical.co.za
 127.0.0.1	nothnick.eu
+127.0.0.1	nrc-soluciones.com.ar
 127.0.0.1	ntt-world.com
 127.0.0.1	nuca.com.au
 127.0.0.1	oazahotel.com.mk
-127.0.0.1	oceancityrentalbyowner.com
 127.0.0.1	octcargo.com
 127.0.0.1	odeon.co.in
 127.0.0.1	office365.bellboyindia.com
@@ -514,7 +504,6 @@
 127.0.0.1	pablobrothel.com.ar
 127.0.0.1	pacwebdesigns.com
 127.0.0.1	palharesinformatica.com.br
-127.0.0.1	panscollections.in.th
 127.0.0.1	parallel.rockvideos.at
 127.0.0.1	parking1.samayiot.com
 127.0.0.1	parkwooddoors.co.nz
@@ -544,7 +533,6 @@
 127.0.0.1	primefind.com
 127.0.0.1	prisma.ae
 127.0.0.1	profiteneh.com
-127.0.0.1	promas.com
 127.0.0.1	prontoperro.com.uy
 127.0.0.1	propsource.in
 127.0.0.1	proservcomercio.com
@@ -556,15 +544,14 @@
 127.0.0.1	qamaraltaf.com
 127.0.0.1	qmsled.com
 127.0.0.1	raqmnh.com
-127.0.0.1	rccgthebrooks.org
 127.0.0.1	redmag-dz.com
 127.0.0.1	reifenquick.de
-127.0.0.1	reime.dk
 127.0.0.1	relaxindulge.co.nz
 127.0.0.1	renton.apttechsol.com
 127.0.0.1	reshake-official.com
 127.0.0.1	retailelectricprovider.com
 127.0.0.1	retailexpertscloud.com
+127.0.0.1	rgyui.top
 127.0.0.1	ricambi.fixtofix.it
 127.0.0.1	rinaefoundation.org.za
 127.0.0.1	riopiscinas.com.br
@@ -720,7 +707,6 @@
 127.0.0.1	www.cesasin.com.ar
 127.0.0.1	www.charmingsoftech.com
 127.0.0.1	www.chawkyfrenn.com
-127.0.0.1	www.chemsky.tn
 127.0.0.1	www.cisnc.it
 127.0.0.1	www.classicproduction.com
 127.0.0.1	www.corpandina.com.pe
@@ -751,7 +737,6 @@
 127.0.0.1	www.jackholland.eu
 127.0.0.1	www.jdserralheria.com.br
 127.0.0.1	www.kjcpromo.com
-127.0.0.1	www.ks.cn
 127.0.0.1	www.kspintidana.com
 127.0.0.1	www.littleplanetclass.com
 127.0.0.1	www.llev.com.br
@@ -769,6 +754,7 @@
 127.0.0.1	www.reacredit.com.br
 127.0.0.1	www.reifenquick.de
 127.0.0.1	www.roofing.galacticleads.com
+127.0.0.1	www.sindicato1ucm.cl
 127.0.0.1	www.skyscan.com
 127.0.0.1	www.sota-france.fr
 127.0.0.1	www.starcountry.net
@@ -776,12 +762,10 @@
 127.0.0.1	www.tractorandinas.com
 127.0.0.1	www.TradeInsights.net
 127.0.0.1	www.universalcustomdesigns.com
-127.0.0.1	www.vilajuga.org
 127.0.0.1	www.viralvia.fi
 127.0.0.1	www.vivacuscoperu.com
 127.0.0.1	www.wahkiulogistics.com.hk
 127.0.0.1	www.websound.ru
-127.0.0.1	www.weinsteincounseling.com
 127.0.0.1	www.wpkms.com
 127.0.0.1	www.ysbaojia.com
 127.0.0.1	x.233sy.cn
@@ -798,4 +782,4 @@
 127.0.0.1	zarzamora.com.mx
 127.0.0.1	zhivir.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 792
+# Number of entries: 776
