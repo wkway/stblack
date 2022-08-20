@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 17 Aug 2022 10:29:59 GMT
-# entries:        3632
+# last updated:   Sat, 20 Aug 2022 11:08:33 GMT
+# entries:        3633
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 24 Aug 2002 00:00:00
+# start date:    Sun, 25 Aug 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1393,6 +1393,7 @@
 0.0.0.0 clicklink.jp
 0.0.0.0 clickmate.io
 0.0.0.0 clickonometrics.pl
+0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
 0.0.0.0 clickserve.cc-dt.com
