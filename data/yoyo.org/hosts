@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 20 Aug 2022 11:08:33 GMT
-# entries:        3633
+# last updated:   Sat, 27 Aug 2022 16:37:35 GMT
+# entries:        3634
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 31 Aug 2002 00:00:00
+# start date:    Sun, 01 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2265,6 +2265,7 @@
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketo.com
+0.0.0.0 marriedbelief.com
 0.0.0.0 mas.sector.sk
 0.0.0.0 massivemark.com
 0.0.0.0 matchcraft.com
