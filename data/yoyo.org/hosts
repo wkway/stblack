@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 27 Aug 2022 16:37:35 GMT
-# entries:        3634
+# last updated:   Thu, 01 Sep 2022 16:46:05 GMT
+# entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 05 Sep 2002 00:00:00
+# start date:    Fri, 06 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1078,6 +1078,7 @@
 0.0.0.0 augur.io
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 automaticflock.com
+0.0.0.0 avalonalbum.com
 0.0.0.0 avazutracking.net
 0.0.0.0 avenuea.com
 0.0.0.0 avocet.io
@@ -1085,6 +1086,7 @@
 0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
 0.0.0.0 awesomeagreement.com
+0.0.0.0 awesomeattack.com
 0.0.0.0 awin1.com
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
@@ -1217,6 +1219,7 @@
 0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
+0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizible.com
 0.0.0.0 bizographics.com
 0.0.0.0 bizrate.com
@@ -1297,6 +1300,7 @@
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
 0.0.0.0 calmcactus.com
+0.0.0.0 calypsocapsule.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 capablecows.com
@@ -1450,6 +1454,7 @@
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concernedcondition.com
+0.0.0.0 concerneddrink.com
 0.0.0.0 conditionchange.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
@@ -1470,6 +1475,7 @@
 0.0.0.0 conversionruler.com
 0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
+0.0.0.0 cookchalk.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 cootlogix.com
@@ -1517,6 +1523,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
+0.0.0.0 crowdedmass.com
 0.0.0.0 crowdgravity.com
 0.0.0.0 crsspxl.com
 0.0.0.0 crta.dailymail.co.uk
@@ -1527,6 +1534,7 @@
 0.0.0.0 culturedcrayon.com
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 curtaincows.com
+0.0.0.0 curvedsquirrel.com
 0.0.0.0 custom.plausible.io
 0.0.0.0 customad.cnn.com
 0.0.0.0 customads.co
@@ -1759,6 +1767,7 @@
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
+0.0.0.0 fairfeeling.com
 0.0.0.0 fallaciousfifth.com
 0.0.0.0 fam-ad.com
 0.0.0.0 famousquarter.com
@@ -1838,6 +1847,7 @@
 0.0.0.0 functionalcrown.com
 0.0.0.0 funklicks.com
 0.0.0.0 funnelytics.io
+0.0.0.0 furryfork.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
@@ -1868,6 +1878,7 @@
 0.0.0.0 getmyads.com
 0.0.0.0 gfcim5.gq
 0.0.0.0 giddycoat.com
+0.0.0.0 glisteningsign.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globus-inter.com
@@ -1927,8 +1938,10 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hdscout.com
 0.0.0.0 heap.com
+0.0.0.0 hearinglizards.com
 0.0.0.0 heias.com
 0.0.0.0 hellobar.com
+0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
 0.0.0.0 herbalaffiliateprogram.com
 0.0.0.0 hexcan.com
@@ -2094,6 +2107,7 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
+0.0.0.0 joyoussurprise.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.iterable.com
 0.0.0.0 js.users.51.la
@@ -2203,6 +2217,7 @@
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
 0.0.0.0 livelylaugh.com
+0.0.0.0 livelyreward.com
 0.0.0.0 liverail.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lkqd.com
@@ -2232,6 +2247,7 @@
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
 0.0.0.0 luckyorange.com
+0.0.0.0 ludicrousarch.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
@@ -2246,6 +2262,8 @@
 0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
+0.0.0.0 magicaljoin.com
+0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 maltiverse.lt.acemlnc.com
@@ -2346,6 +2364,7 @@
 0.0.0.0 minewhat.com
 0.0.0.0 minormeeting.com
 0.0.0.0 mintegral.com
+0.0.0.0 minuterhythm.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mkto-ab410147.com
@@ -2464,6 +2483,7 @@
 0.0.0.0 nondescriptnote.com
 0.0.0.0 nondescriptsmile.com
 0.0.0.0 nondescriptstocking.com
+0.0.0.0 nothingunit.com
 0.0.0.0 novem.pl
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
@@ -2572,6 +2592,7 @@
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parchedangle.com
 0.0.0.0 parchedsofa.com
+0.0.0.0 pardonpopular.com
 0.0.0.0 parsely.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partner-ads.com
@@ -2609,6 +2630,7 @@
 0.0.0.0 phoenix-adrunner.mycomputer.com
 0.0.0.0 photographpan.com
 0.0.0.0 phpadsnew.new.natuurpark.nl
+0.0.0.0 physicalbikes.com
 0.0.0.0 piano.io
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
@@ -2627,6 +2649,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 placed.com
+0.0.0.0 placeframe.com
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
@@ -2635,6 +2658,7 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
+0.0.0.0 pluckytaste.com
 0.0.0.0 plugrush.com
 0.0.0.0 pocketmath.com
 0.0.0.0 pointroll.com
@@ -2701,6 +2725,7 @@
 0.0.0.0 prpops.com
 0.0.0.0 prsitecheck.com
 0.0.0.0 pstmrk.it
+0.0.0.0 psychedelicchess.com
 0.0.0.0 ptoushoa.com
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
@@ -2851,6 +2876,7 @@
 0.0.0.0 richmails.com
 0.0.0.0 richstring.com
 0.0.0.0 rightstats.com
+0.0.0.0 ringplant.com
 0.0.0.0 ringsrecord.com
 0.0.0.0 ritzykey.com
 0.0.0.0 rlcdn.com
@@ -2904,6 +2930,8 @@
 0.0.0.0 scambiobanner.aruba.it
 0.0.0.0 scanscout.com
 0.0.0.0 scarcesign.com
+0.0.0.0 scaredsnakes.com
+0.0.0.0 scaredswing.com
 0.0.0.0 scarfsmash.com
 0.0.0.0 scatteredheat.com
 0.0.0.0 scintillatingscissors.com
@@ -3008,9 +3036,11 @@
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics.washingtonpost.com
+0.0.0.0 smilingcattle.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smoggysnakes.com
 0.0.0.0 smrtb.com
+0.0.0.0 snailscart.com
 0.0.0.0 snapads.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
@@ -3040,10 +3070,12 @@
 0.0.0.0 spezialreporte.de
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
+0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinnaker-js.com
 0.0.0.0 spirebaboon.com
+0.0.0.0 spitefulstop.com
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
@@ -3223,6 +3255,7 @@
 0.0.0.0 tend.io
 0.0.0.0 tendertest.com
 0.0.0.0 terriblethumb.com
+0.0.0.0 teststocking.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 textads.biz
@@ -3428,6 +3461,8 @@
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 unarmedindustry.com
+0.0.0.0 unbecomingbikes.com
+0.0.0.0 understoodocean.com
 0.0.0.0 undertone.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unless.com
@@ -3496,6 +3531,7 @@
 0.0.0.0 voluum.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 volvelle.tech
+0.0.0.0 voyagepotato.com
 0.0.0.0 vpon.com
 0.0.0.0 vrs.cz
 0.0.0.0 vs.tucows.com
@@ -3606,6 +3642,7 @@
 0.0.0.0 y.ibsys.com
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yadro.ru
+0.0.0.0 yamstamp.com
 0.0.0.0 yepads.com
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
