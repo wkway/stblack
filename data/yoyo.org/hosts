@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 06 Sep 2002 00:00:00
+# start date:    Sat, 07 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1111,7 +1111,6 @@
 0.0.0.0 banner.eurogrand.com
 0.0.0.0 banner.finzoom.ro
 0.0.0.0 banner.goldenpalace.com
-0.0.0.0 banner.icmedia.eu
 0.0.0.0 banner.img.co.za
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.linux.se
@@ -1200,6 +1199,7 @@
 0.0.0.0 benfly.net
 0.0.0.0 berp.com
 0.0.0.0 bestboundary.com
+0.0.0.0 bestsearch.net
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bfmio.com
 0.0.0.0 bhcumsc.com
@@ -1467,6 +1467,7 @@
 0.0.0.0 contadores.miarroba.com
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
+0.0.0.0 content.ad
 0.0.0.0 content22.online.citi.com
 0.0.0.0 contextweb.com
 0.0.0.0 converge-digital.com
@@ -1915,7 +1916,6 @@
 0.0.0.0 greyinstrument.com
 0.0.0.0 greystripe.com
 0.0.0.0 groundtruth.com
-0.0.0.0 grychiphidu.com
 0.0.0.0 gscontxt.net
 0.0.0.0 gstaticx.com
 0.0.0.0 guardedschool.com
