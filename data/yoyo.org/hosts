@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 01 Sep 2022 16:46:05 GMT
+# last updated:   Sat, 03 Sep 2022 19:08:44 GMT
 # entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 08 Sep 2002 00:00:00
+# start date:    Mon, 09 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2074,7 +2074,6 @@
 0.0.0.0 intelliads.com
 0.0.0.0 intelligenceadx.com
 0.0.0.0 intellitxt.com
-0.0.0.0 intentsify.io
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 intercom-clicks.com
 0.0.0.0 intergi.com
@@ -3366,6 +3365,7 @@
 0.0.0.0 tracking.exipure.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com
+0.0.0.0 tracking.intentsify.io
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.jiffyworld.com

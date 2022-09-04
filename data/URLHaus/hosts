@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-09-03 17:08:06 (UTC)                      #
+# Last updated: 2022-09-04 17:14:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -39,10 +39,8 @@
 127.0.0.1	alzheimerzamora.com
 127.0.0.1	amarteargentina.com.ar
 127.0.0.1	amazingholidaysmaldives.com
-127.0.0.1	ameis.andalanmutuenergi.com
 127.0.0.1	americantv.online
 127.0.0.1	andrewpharma.com
-127.0.0.1	angel.bk.idv.tw
 127.0.0.1	annesimonnot.com
 127.0.0.1	aosafrica.co.za
 127.0.0.1	apanor.com.br
@@ -78,12 +76,12 @@
 127.0.0.1	bbg.az
 127.0.0.1	bbia.co.uk
 127.0.0.1	beachwood.ug
+127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beautyarenawithrojina.com
 127.0.0.1	beeabouttown.com
 127.0.0.1	belladama.fr
 127.0.0.1	benconry.com
 127.0.0.1	benwellgroup.co.uk
-127.0.0.1	bestfreehack.site
 127.0.0.1	bethelmbcarvada.org
 127.0.0.1	bhaagya.app
 127.0.0.1	bhandariclub.com
@@ -105,7 +103,6 @@
 127.0.0.1	brasslineindia.com
 127.0.0.1	breakdownlanemovie.com
 127.0.0.1	brideofmessiah.com
-127.0.0.1	bridgesfoundationrepair.com
 127.0.0.1	british-shorthair.es
 127.0.0.1	brittknight.com
 127.0.0.1	bruiserbodies.com
@@ -124,6 +121,7 @@
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	ceysaenerji.com.tr
 127.0.0.1	ch1.spacermodem.com
+127.0.0.1	chefdeduca.ro
 127.0.0.1	christineinteriordesign.com
 127.0.0.1	chuckozeas.com
 127.0.0.1	ciidental.com.ec
@@ -176,7 +174,6 @@
 127.0.0.1	demo.fontecsys.net
 127.0.0.1	demonware.online
 127.0.0.1	dental.xiaoxiao.media
-127.0.0.1	destinymc.co.za
 127.0.0.1	dev.sebpo.net
 127.0.0.1	dev2-admin.ycbnt.net
 127.0.0.1	dhcmart.com
@@ -197,6 +194,7 @@
 127.0.0.1	dongtrunghathaobhutan.com
 127.0.0.1	down.pcclear.com
 127.0.0.1	download.doumaibiji.cn
+127.0.0.1	download.pdf00.cn
 127.0.0.1	downloads.bcweb.org.uk
 127.0.0.1	drhanneserasmus.co.za
 127.0.0.1	drive.google.com.it-barcelona.com
@@ -212,6 +210,7 @@
 127.0.0.1	easyviettravel.vn
 127.0.0.1	ecim.azneomedia.ro
 127.0.0.1	edoraseguros.com.br
+127.0.0.1	edu.pmvanini.rs.gov.br
 127.0.0.1	educajuris.cl
 127.0.0.1	ef-web.com
 127.0.0.1	ehsanenterprises.com
@@ -220,6 +219,7 @@
 127.0.0.1	emprendedorimbatible.com
 127.0.0.1	engviniciusfranco.com.br
 127.0.0.1	ergotherapeia-kalamata.gr
+127.0.0.1	esquiudigital.com
 127.0.0.1	estiloymadera.com.py
 127.0.0.1	etisalatbuyback.com
 127.0.0.1	evashopping.thietkewebsitechuanseo.com
@@ -287,7 +287,6 @@
 127.0.0.1	helpdeskserver.epelcdn.com
 127.0.0.1	herchinfitout.com.sg
 127.0.0.1	heyatek.com
-127.0.0.1	highsolutions.cl
 127.0.0.1	hitstation.nl
 127.0.0.1	hlm-indonesia.com
 127.0.0.1	holidayclip.co.th
@@ -308,7 +307,6 @@
 127.0.0.1	htownbars.com
 127.0.0.1	hunggiang.vn
 127.0.0.1	i-dots.com
-127.0.0.1	ideaplusjal.in
 127.0.0.1	imbueautoworx.co.za
 127.0.0.1	imenikala.com
 127.0.0.1	immunotec.network
@@ -338,6 +336,7 @@
 127.0.0.1	jr-software-web.net
 127.0.0.1	jrfurnace.com
 127.0.0.1	justplay.asia
+127.0.0.1	jxwd.cc
 127.0.0.1	kadigital.co.uk
 127.0.0.1	kafei.528k.cn
 127.0.0.1	karer.by
@@ -384,6 +383,7 @@
 127.0.0.1	luxurydestinations.in
 127.0.0.1	luzytextura.com
 127.0.0.1	macmor-media.com.au
+127.0.0.1	madicon.co.za
 127.0.0.1	makeupuccino.com
 127.0.0.1	marcowine.com
 127.0.0.1	mario-sunjic.com
@@ -393,7 +393,7 @@
 127.0.0.1	martingrant.com
 127.0.0.1	mast-group.net
 127.0.0.1	masteret.co.za
-127.0.0.1	maxcorfini.it
+127.0.0.1	mbsolutions.ge
 127.0.0.1	mcapublicschool.com
 127.0.0.1	mdhov.ca
 127.0.0.1	medianews.ge
@@ -429,6 +429,7 @@
 127.0.0.1	namthaibinh.net
 127.0.0.1	nazreghadir.ir
 127.0.0.1	nenlineasv.com
+127.0.0.1	networkwheels.co.za
 127.0.0.1	newdevjyq.devjyq.com
 127.0.0.1	newgoplus.com
 127.0.0.1	newkano.com
@@ -443,7 +444,6 @@
 127.0.0.1	nothnick.eu
 127.0.0.1	ntt-world.com
 127.0.0.1	nuca.com.au
-127.0.0.1	o3fileddl.xyz
 127.0.0.1	oazahotel.com.mk
 127.0.0.1	oceancityrentalbyowner.com
 127.0.0.1	octcargo.com
@@ -508,6 +508,7 @@
 127.0.0.1	qmsled.com
 127.0.0.1	radioboua.com.br
 127.0.0.1	raqmnh.com
+127.0.0.1	rccgthebrooks.org
 127.0.0.1	redmag-dz.com
 127.0.0.1	reifenquick.de
 127.0.0.1	relaxindulge.co.nz
@@ -516,7 +517,6 @@
 127.0.0.1	reshake-official.com
 127.0.0.1	retailelectricprovider.com
 127.0.0.1	retailexpertscloud.com
-127.0.0.1	rgyui.top
 127.0.0.1	ricambi.fixtofix.it
 127.0.0.1	riopiscinas.com.br
 127.0.0.1	robertmchilespe.com
@@ -527,7 +527,6 @@
 127.0.0.1	safetygear.pk
 127.0.0.1	saffronflourmill.com
 127.0.0.1	saintjosemariaschool.edu.pe
-127.0.0.1	sainzim.co.za
 127.0.0.1	sareeshaper.com
 127.0.0.1	sbss.com.pk
 127.0.0.1	scglobal.co.th
@@ -566,7 +565,6 @@
 127.0.0.1	static.cz01.cn
 127.0.0.1	stayinoceancitymd.com
 127.0.0.1	stnperu.com
-127.0.0.1	streamtvbox.net
 127.0.0.1	stylesheet.faseaegasdfase.com
 127.0.0.1	sudariocontabilidade.com.br
 127.0.0.1	sun2u.com
@@ -633,7 +631,6 @@
 127.0.0.1	viphawan.com
 127.0.0.1	vipysknik.by
 127.0.0.1	visionnextgroup.net
-127.0.0.1	vitrifrig0.com
 127.0.0.1	vocoptions.net
 127.0.0.1	wahkiulogistics.com.hk
 127.0.0.1	walkindrivetoday.com
@@ -664,6 +661,7 @@
 127.0.0.1	www.cesasin.com.ar
 127.0.0.1	www.charmingsoftech.com
 127.0.0.1	www.chawkyfrenn.com
+127.0.0.1	www.chemsky.tn
 127.0.0.1	www.cisnc.it
 127.0.0.1	www.classicproduction.com
 127.0.0.1	www.corpandina.com.pe
@@ -671,6 +669,7 @@
 127.0.0.1	www.dacui.online
 127.0.0.1	www.davidludlow.com
 127.0.0.1	www.dental.xiaoxiao.media
+127.0.0.1	www.destinocuenca.com
 127.0.0.1	www.doctorcasenave.com
 127.0.0.1	www.easyprotocols.com
 127.0.0.1	www.elgatoconbotaseventos.es
@@ -681,7 +680,6 @@
 127.0.0.1	www.fixstudio.co.kr
 127.0.0.1	www.geowf.ge
 127.0.0.1	www.godfathersjunk.com
-127.0.0.1	www.graficadupress.com.br
 127.0.0.1	www.hellojohnwebb.com
 127.0.0.1	www.horotellernb.xyz
 127.0.0.1	www.hotelmourya.com
@@ -694,7 +692,6 @@
 127.0.0.1	www.kjcpromo.com
 127.0.0.1	www.ks.cn
 127.0.0.1	www.kspintidana.com
-127.0.0.1	www.lacallecreativa.pe
 127.0.0.1	www.littleplanetclass.com
 127.0.0.1	www.maxmoney.com
 127.0.0.1	www.mobiles-photostudio.com
@@ -735,4 +732,4 @@
 127.0.0.1	zarzamora.com.mx
 127.0.0.1	zhivir.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 729
+# Number of entries: 726
