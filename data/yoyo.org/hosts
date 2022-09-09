@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 03 Sep 2022 19:08:44 GMT
+# last updated:   Thu, 08 Sep 2022 19:30:09 GMT
 # entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 13 Sep 2002 00:00:00
+# start date:    Sat, 14 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1065,6 +1065,7 @@
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
 0.0.0.0 ato.mx
+0.0.0.0 attractionbanana.com
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attribution.report
 0.0.0.0 atwola.com
@@ -1216,7 +1217,6 @@
 0.0.0.0 bigclicks.com
 0.0.0.0 bigreal.org
 0.0.0.0 billboard.cz
-0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 bizarrebaseball.com
@@ -2240,7 +2240,6 @@
 0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 loopme.com
-0.0.0.0 lop.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
@@ -2408,6 +2407,7 @@
 0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mtree.com
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 mundanenail.com
 0.0.0.0 mundanepollution.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 muwmedia.com
