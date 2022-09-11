@@ -2,16 +2,16 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 08 Sep 2022 19:30:09 GMT
-# entries:        3671
+# last updated:   Sun, 11 Sep 2022 10:18:00 GMT
+# entries:        3674
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%5Bday%5D=7&startdate%5Bmonth%5D=2&startdate%5Byear%5D=2002&useip=0.0.0.0&mimetype=plaintext
+# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # Patreon:        https://patreon.com/blocklist
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 07 Feb 2002 00:00:00
+# start date:    Mon, 16 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -951,6 +951,7 @@
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
 0.0.0.0 afftracking.justanswer.com
+0.0.0.0 afraidlanguage.com
 0.0.0.0 agkn.com
 0.0.0.0 agreeablestew.com
 0.0.0.0 ah-ha.com
@@ -1484,6 +1485,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
+0.0.0.0 cosmosjackson.com
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
 0.0.0.0 counted.com
@@ -2300,6 +2302,7 @@
 0.0.0.0 mcdlks.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuremap.com
+0.0.0.0 meatydime.com
 0.0.0.0 media-adrunner.mycomputer.com
 0.0.0.0 media-servers.net
 0.0.0.0 media.funpic.de
