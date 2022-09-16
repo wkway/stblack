@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 11 Sep 2022 10:18:00 GMT
-# entries:        3674
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 20 Sep 2002 00:00:00
+# start date:    Sat, 21 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1384,7 +1384,6 @@
 0.0.0.0 click.twcwigs.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 click360v2-ingest.azurewebsites.net
-0.0.0.0 clickability.com
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
@@ -2470,7 +2469,6 @@
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newopenx.detik.com
-0.0.0.0 newsadsppush.com
 0.0.0.0 newsletter-link.com
 0.0.0.0 newstarads.com
 0.0.0.0 newt1.adultadworld.com
@@ -3203,7 +3201,6 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
 0.0.0.0 t.leady.com
-0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t.salesmatemail.com
 0.0.0.0 t.vacations.disneydestinations.com
@@ -3267,6 +3264,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
+0.0.0.0 theclickads.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
 0.0.0.0 thinkablerice.com
