@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sat, 17 Sep 2022 14:54:28 GMT
-# entries:        3673
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 27 Sep 2002 00:00:00
+# start date:    Sat, 28 Sep 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -112,7 +112,6 @@
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.allboxing.ru
-0.0.0.0 ad.allstar.cz
 0.0.0.0 ad.altervista.org
 0.0.0.0 ad.amgdgt.com
 0.0.0.0 ad.anuntis.com
@@ -907,7 +906,6 @@
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
 0.0.0.0 adworx.nl
-0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
 0.0.0.0 adx.gayboy.at
 0.0.0.0 adxpansion.com
@@ -921,7 +919,6 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzestocp.com
-0.0.0.0 adzones.com
 0.0.0.0 adzrevads.com
 0.0.0.0 aerserv.com
 0.0.0.0 af-ad.co.uk
@@ -2209,7 +2206,6 @@
 0.0.0.0 linkrain.com
 0.0.0.0 linkreferral.com
 0.0.0.0 links-ranking.de
-0.0.0.0 linkshighway.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
 0.0.0.0 linktarget.com
@@ -2441,7 +2437,6 @@
 0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
-0.0.0.0 naturalbid.com
 0.0.0.0 navegg.com
 0.0.0.0 navigator.io
 0.0.0.0 navrcholu.cz
@@ -3202,6 +3197,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
 0.0.0.0 t.leady.com
+0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.notif-colissimo-laposte.info
 0.0.0.0 t.salesmatemail.com
 0.0.0.0 t.vacations.disneydestinations.com
