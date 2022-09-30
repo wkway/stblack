@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 24 Sep 2022 04:31:57 GMT
-# entries:        3670
+# last updated:   Fri, 30 Sep 2022 12:31:31 GMT
+# entries:        3665
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 04 Oct 2002 00:00:00
+# start date:    Sat, 05 Oct 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -911,7 +911,6 @@
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
-0.0.0.0 adyea.com
 0.0.0.0 adyoulike.com
 0.0.0.0 adz.rashflash.com
 0.0.0.0 adz2you.com
@@ -1661,8 +1660,6 @@
 0.0.0.0 edaa.eu
 0.0.0.0 edgexads.com
 0.0.0.0 educationdynamics.com
-0.0.0.0 effectivemeasure.com
-0.0.0.0 effectivemeasure.net
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ejyymghi.com
@@ -1909,7 +1906,6 @@
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gracefulsock.com
 0.0.0.0 graizoah.com
-0.0.0.0 grandioseguide.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greetzebra.com
 0.0.0.0 greyinstrument.com
@@ -2257,7 +2253,6 @@
 0.0.0.0 madinad.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
-0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
@@ -2547,7 +2542,6 @@
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx2.kytary.cz
 0.0.0.0 operationchicken.com
-0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opmnstr.com
 0.0.0.0 oppuz.com
@@ -3373,6 +3367,7 @@
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
+0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
 0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.wetter.at
