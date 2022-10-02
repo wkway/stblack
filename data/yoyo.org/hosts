@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 30 Sep 2022 12:31:31 GMT
-# entries:        3665
+# last updated:   Sun, 02 Oct 2022 08:28:35 GMT
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 06 Oct 2002 00:00:00
+# start date:    Mon, 07 Oct 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1007,6 +1007,7 @@
 0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.swiggy.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsapi.happypancake.net
@@ -2291,6 +2292,8 @@
 0.0.0.0 maxonclick.com
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mcdlks.com
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuremap.com
 0.0.0.0 meatydime.com
@@ -2380,6 +2383,7 @@
 0.0.0.0 modernpricing.com
 0.0.0.0 modifyeyes.com
 0.0.0.0 moldyicicle.com
+0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 monarchads.com
 0.0.0.0 monetate.net
