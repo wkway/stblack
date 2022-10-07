@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 04 Oct 2022 10:56:27 GMT
-# entries:        3672
+# entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 11 Oct 2002 00:00:00
+# start date:    Sat, 12 Oct 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -911,6 +911,7 @@
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
 0.0.0.0 adxvalue.com
+0.0.0.0 adyea.com
 0.0.0.0 adyoulike.com
 0.0.0.0 adz.rashflash.com
 0.0.0.0 adz2you.com
@@ -1187,8 +1188,6 @@
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 beachfront.com
 0.0.0.0 beacon.gu-web.net
-0.0.0.0 beam-ws.giraffe360.com
-0.0.0.0 beam.giraffe360.com
 0.0.0.0 beamincrease.com
 0.0.0.0 bebi.com
 0.0.0.0 beemray.com
@@ -1788,7 +1787,6 @@
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
 0.0.0.0 feedmob.com
-0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
 0.0.0.0 findyourcasino.com
@@ -2256,6 +2254,7 @@
 0.0.0.0 madinad.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
+0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
@@ -2548,6 +2547,7 @@
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx2.kytary.cz
 0.0.0.0 operationchicken.com
+0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opmnstr.com
 0.0.0.0 oppuz.com
@@ -3501,7 +3501,6 @@
 0.0.0.0 venetrigni.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 venturead.com
-0.0.0.0 verblife-3.co
 0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
 0.0.0.0 vertamedia.com
