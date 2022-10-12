@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 04 Oct 2022 10:56:27 GMT
-# entries:        3671
+# last updated:   Wed, 12 Oct 2022 16:52:29 GMT
+# entries:        3673
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 16 Oct 2002 00:00:00
+# start date:    Thu, 17 Oct 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -809,6 +809,7 @@
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
 0.0.0.0 adskeeper.co.uk
+0.0.0.0 adskeeper.com
 0.0.0.0 adsklick.de
 0.0.0.0 adskpak.com
 0.0.0.0 adsmart.com
@@ -1530,6 +1531,7 @@
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.org
+0.0.0.0 cs.co
 0.0.0.0 ctnetwork.hu
 0.0.0.0 culturedcrayon.com
 0.0.0.0 cumbersomecloud.com
