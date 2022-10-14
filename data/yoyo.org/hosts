@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 12 Oct 2022 16:52:29 GMT
-# entries:        3673
+# last updated:   Fri, 14 Oct 2022 16:04:50 GMT
+# entries:        3675
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 18 Oct 2002 00:00:00
+# start date:    Sat, 19 Oct 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -664,7 +664,6 @@
 0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.walkiberia.com
-0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watson.ch
 0.0.0.0 ads.weather.ca
@@ -1216,6 +1215,7 @@
 0.0.0.0 bigclicks.com
 0.0.0.0 bigreal.org
 0.0.0.0 billboard.cz
+0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 bizarrebaseball.com
@@ -1513,6 +1513,7 @@
 0.0.0.0 crabbychin.com
 0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
+0.0.0.0 crashchance.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cratecamera.com
@@ -1663,6 +1664,7 @@
 0.0.0.0 edaa.eu
 0.0.0.0 edgexads.com
 0.0.0.0 educationdynamics.com
+0.0.0.0 effectivemeasure.com
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ejyymghi.com
@@ -1926,6 +1928,7 @@
 0.0.0.0 hadskiz.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
+0.0.0.0 handsomehose.com
 0.0.0.0 handyfield.com
 0.0.0.0 hardtofindmilk.com
 0.0.0.0 harrenmedia.com
@@ -2567,7 +2570,6 @@
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overture.com
-0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owlsr.us
 0.0.0.0 owneriq.net
