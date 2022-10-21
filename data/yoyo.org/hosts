@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 14 Oct 2022 16:04:50 GMT
-# entries:        3675
+# entries:        3671
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 25 Oct 2002 00:00:00
+# start date:    Sat, 26 Oct 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -321,7 +321,6 @@
 0.0.0.0 adnet.biz
 0.0.0.0 adnet.de
 0.0.0.0 adnet.ru
-0.0.0.0 adnetinteractive.com
 0.0.0.0 adnetwork.net
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adnews.maddog2000.de
@@ -562,7 +561,6 @@
 0.0.0.0 ads.newmedia.cz
 0.0.0.0 ads.newsint.co.uk
 0.0.0.0 ads.newsquest.co.uk
-0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.nj.com
 0.0.0.0 ads.nola.com
 0.0.0.0 ads.nordichardware.com
@@ -2065,7 +2063,6 @@
 0.0.0.0 insightexpress.com
 0.0.0.0 insightexpressai.com
 0.0.0.0 inskinad.com
-0.0.0.0 inslco.bar
 0.0.0.0 inspectlet.com
 0.0.0.0 install.365-stream.com
 0.0.0.0 instantmadness.com
@@ -2470,6 +2467,7 @@
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newopenx.detik.com
+0.0.0.0 newsadsppush.com
 0.0.0.0 newsletter-link.com
 0.0.0.0 newstarads.com
 0.0.0.0 newt1.adultadworld.com
@@ -2570,6 +2568,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overture.com
+0.0.0.0 owebanalytics.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owlsr.us
 0.0.0.0 owneriq.net
@@ -2636,7 +2635,6 @@
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
 0.0.0.0 pimproll.com
-0.0.0.0 ping.ublock.org
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
@@ -2660,7 +2658,6 @@
 0.0.0.0 pluckypocket.com
 0.0.0.0 pluckytaste.com
 0.0.0.0 plugrush.com
-0.0.0.0 pocketmath.com
 0.0.0.0 pointlesshour.com
 0.0.0.0 pointroll.com
 0.0.0.0 pokkt.com
@@ -3427,7 +3424,6 @@
 0.0.0.0 trickycelery.com
 0.0.0.0 triplelift.com
 0.0.0.0 triptease.io
-0.0.0.0 trk.bad-tool-tell-doubt.xyz
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.bee-data.com
 0.0.0.0 trk.pinterest.com
