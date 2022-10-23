@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 22 Oct 2022, 18:34 UTC+02:00
-# Version: 2022.10.22.2
+# Last modified: Sun, 23 Oct 2022, 18:34 UTC+02:00
+# Version: 2022.10.23.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6286,6 +6286,7 @@
 0.0.0.0 adriannakonieczko.pl
 0.0.0.0 adrikon-invest.pro
 0.0.0.0 adrpages.com
+0.0.0.0 ads-blablacar.com
 0.0.0.0 adsplanel.com
 0.0.0.0 aduhsemogalancarngab.com
 0.0.0.0 adulatorpr.com
@@ -7606,6 +7607,7 @@
 0.0.0.0 baz.roonss.xyz
 0.0.0.0 baz.zolaa.xyz
 0.0.0.0 bazafilm.pl
+0.0.0.0 bazave.online
 0.0.0.0 bb3459.wixsite.com
 0.0.0.0 bb.chatspro.site
 0.0.0.0 bbanc.com
@@ -11504,6 +11506,7 @@
 0.0.0.0 delivery-3265.xyz
 0.0.0.0 delivery-allegrolokalnie.5790865.xyz
 0.0.0.0 delivery-allegrolokalnie.48755112.xyz
+0.0.0.0 delivery-allegrolokalnie.6154215484.xyz
 0.0.0.0 delivery-dpd.6560000.xyz
 0.0.0.0 delivery-dpd.64684512.xyz
 0.0.0.0 delivery-dpd.64781200.xyz
@@ -11618,6 +11621,7 @@
 0.0.0.0 dellver-lnpostpl7.plnd-dostavanes1.pl
 0.0.0.0 dellverioljxpolska.plndspltmruw19.online
 0.0.0.0 dellverollx8polska.paedoctavplnds13.pl
+0.0.0.0 dellvers425ollxplns.wenplnddostawka32.buzz
 0.0.0.0 dellvers-inport9polska.peydostawahome58.pl
 0.0.0.0 dellvery-1pr0vlded23.54354254.xyz
 0.0.0.0 dellvery.7631545.xyz
@@ -13384,6 +13388,7 @@
 0.0.0.0 exactcurti.com
 0.0.0.0 exactitudepaginate.com
 0.0.0.0 exaggeratecolleague.com
+0.0.0.0 exalinca.cf
 0.0.0.0 exam827az-ple827a.martvsh.co.pl
 0.0.0.0 exam.icabd.com
 0.0.0.0 examcenter4you.com
@@ -14813,6 +14818,7 @@
 0.0.0.0 glte.dropcanoiles.com
 0.0.0.0 gluepotwea.pl
 0.0.0.0 gmai.com
+0.0.0.0 gmail-poczta.pl
 0.0.0.0 gmarketigita8.info
 0.0.0.0 gmarketit9.info
 0.0.0.0 gmwa.xyz
@@ -15919,6 +15925,7 @@
 0.0.0.0 impost-shop.659845122.xyz
 0.0.0.0 impost-shopping.08745121.xyz
 0.0.0.0 impost-store.03265154.xyz
+0.0.0.0 impost-store.6215484512.xyz
 0.0.0.0 impost.7656-sendinggoods.xyz
 0.0.0.0 impost.48750.xyz
 0.0.0.0 impost.548024.xyz
@@ -16836,6 +16843,7 @@
 0.0.0.0 inpost-fgcm.order442.info
 0.0.0.0 inpost-fgzh.order0912401.info
 0.0.0.0 inpost-fhha.order142.eu
+0.0.0.0 inpost-fino.order4149.biz
 0.0.0.0 inpost-fixlv.orders98511.info
 0.0.0.0 inpost-fjgv.neworder44799.info
 0.0.0.0 inpost-fk.order943.info
@@ -17132,6 +17140,7 @@
 0.0.0.0 inpost-pl-my-id2g3ys.gabrielacosta.live
 0.0.0.0 inpost-pl-my-id2g3ys.getthe.top
 0.0.0.0 inpost-pl-my-id2g3ys.grupozg.top
+0.0.0.0 inpost-pl-my-id2g3ys.haiwu.top
 0.0.0.0 inpost-pl-my-id2g3ys.helpix.top
 0.0.0.0 inpost-pl-my-id2g3ys.id-umowa458230.click
 0.0.0.0 inpost-pl-my-id2g3ys.idon.top
@@ -17239,6 +17248,7 @@
 0.0.0.0 inpost-pl-mynid2ihxa.biuha33.us
 0.0.0.0 inpost-pl-mynid2ihxa.buypaxil.shop
 0.0.0.0 inpost-pl-mynid2ihxa.cimaclub.live
+0.0.0.0 inpost-pl-mynid2ihxa.danri.top
 0.0.0.0 inpost-pl-mynid2ihxa.edenm.xyz
 0.0.0.0 inpost-pl-mynid2ihxa.eprix.live
 0.0.0.0 inpost-pl-mynid2ihxa.feige123.top
@@ -18696,6 +18706,7 @@
 0.0.0.0 inpost.265954212.xyz
 0.0.0.0 inpost.0321548745.xyz
 0.0.0.0 inpost.326594512.xyz
+0.0.0.0 inpost.1212554111.xyz
 0.0.0.0 inpost.6326051255.xyz
 0.0.0.0 inpost.advart.top
 0.0.0.0 inpost.badelobt.org
@@ -18816,6 +18827,7 @@
 0.0.0.0 inpost.order549.info
 0.0.0.0 inpost.order740.info
 0.0.0.0 inpost.order7826.info
+0.0.0.0 inpost.order8569.site
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.order-pl.store
 0.0.0.0 inpost.orders-dostawa.website
@@ -20352,6 +20364,7 @@
 0.0.0.0 kasa-sms.pl
 0.0.0.0 kashtrack.com
 0.0.0.0 kasi.plrogeu.site
+0.0.0.0 kaspalw.com
 0.0.0.0 kassa-dpd.id-umowa42390.buzz
 0.0.0.0 kassa-olx.295503plid.pics
 0.0.0.0 kassa-olx.837269plid.pics
@@ -24101,6 +24114,7 @@
 0.0.0.0 ochronakonta-mbank.com
 0.0.0.0 october-media.za.com
 0.0.0.0 octopus-concierge.com
+0.0.0.0 oculus-russia.digital
 0.0.0.0 oczekujacy700.site
 0.0.0.0 oczyszerokootwarte.com.pl
 0.0.0.0 oczywiscie-teraz.eu
@@ -25130,6 +25144,7 @@
 0.0.0.0 olx.837269plid.pics
 0.0.0.0 olx.9568451.xyz
 0.0.0.0 olx.365902154.xyz
+0.0.0.0 olx.6021548745.xyz
 0.0.0.0 olx.7321548745.xyz
 0.0.0.0 olx.52154986451.xyz
 0.0.0.0 olx.ads-public-worlds.shop
@@ -27580,6 +27595,7 @@
 0.0.0.0 payu-home-pl-4e969.ittiqadniaga.com
 0.0.0.0 payu-home-pl-032c6.ittiqadniaga.com
 0.0.0.0 payu-home-pl-f9b62.ittiqadniaga.com
+0.0.0.0 payu-loteria.pl
 0.0.0.0 payu.hmcloud.pl
 0.0.0.0 payu.id3858951.xyz
 0.0.0.0 payu.id27394942.xyz
@@ -31767,6 +31783,7 @@
 0.0.0.0 shop-o1x-user.5231678.xyz
 0.0.0.0 shop-olx.563300.xyz
 0.0.0.0 shop-vimted.3455411.xyz
+0.0.0.0 shop-winted.4411232656.xyz
 0.0.0.0 shopbest.online
 0.0.0.0 shopdpd-product.7546112434.xyz
 0.0.0.0 shopgirlso.com
@@ -36988,6 +37005,7 @@
 0.0.0.0 volkin-invest.pro
 0.0.0.0 voltaundef.com
 0.0.0.0 voltexwebphone.com
+0.0.0.0 volusmak.space
 0.0.0.0 vom.sheeds.site
 0.0.0.0 voolsop-website.preview-domain.com
 0.0.0.0 vop.bashus.site
@@ -38869,6 +38887,7 @@
 0.0.0.0 www.adriannakonieczko.pl
 0.0.0.0 www.adrikon-invest.pro
 0.0.0.0 www.adrpages.com
+0.0.0.0 www.ads-blablacar.com
 0.0.0.0 www.adsplanel.com
 0.0.0.0 www.aduhsemogalancarngab.com
 0.0.0.0 www.adulatorpr.com
@@ -40189,6 +40208,7 @@
 0.0.0.0 www.baz.roonss.xyz
 0.0.0.0 www.baz.zolaa.xyz
 0.0.0.0 www.bazafilm.pl
+0.0.0.0 www.bazave.online
 0.0.0.0 www.bb3459.wixsite.com
 0.0.0.0 www.bb.chatspro.site
 0.0.0.0 www.bbanc.com
@@ -44087,6 +44107,7 @@
 0.0.0.0 www.delivery-3265.xyz
 0.0.0.0 www.delivery-allegrolokalnie.5790865.xyz
 0.0.0.0 www.delivery-allegrolokalnie.48755112.xyz
+0.0.0.0 www.delivery-allegrolokalnie.6154215484.xyz
 0.0.0.0 www.delivery-dpd.6560000.xyz
 0.0.0.0 www.delivery-dpd.64684512.xyz
 0.0.0.0 www.delivery-dpd.64781200.xyz
@@ -44201,6 +44222,7 @@
 0.0.0.0 www.dellver-lnpostpl7.plnd-dostavanes1.pl
 0.0.0.0 www.dellverioljxpolska.plndspltmruw19.online
 0.0.0.0 www.dellverollx8polska.paedoctavplnds13.pl
+0.0.0.0 www.dellvers425ollxplns.wenplnddostawka32.buzz
 0.0.0.0 www.dellvers-inport9polska.peydostawahome58.pl
 0.0.0.0 www.dellvery-1pr0vlded23.54354254.xyz
 0.0.0.0 www.dellvery.7631545.xyz
@@ -45967,6 +45989,7 @@
 0.0.0.0 www.exactcurti.com
 0.0.0.0 www.exactitudepaginate.com
 0.0.0.0 www.exaggeratecolleague.com
+0.0.0.0 www.exalinca.cf
 0.0.0.0 www.exam827az-ple827a.martvsh.co.pl
 0.0.0.0 www.exam.icabd.com
 0.0.0.0 www.examcenter4you.com
@@ -47396,6 +47419,7 @@
 0.0.0.0 www.glte.dropcanoiles.com
 0.0.0.0 www.gluepotwea.pl
 0.0.0.0 www.gmai.com
+0.0.0.0 www.gmail-poczta.pl
 0.0.0.0 www.gmarketigita8.info
 0.0.0.0 www.gmarketit9.info
 0.0.0.0 www.gmwa.xyz
@@ -48502,6 +48526,7 @@
 0.0.0.0 www.impost-shop.659845122.xyz
 0.0.0.0 www.impost-shopping.08745121.xyz
 0.0.0.0 www.impost-store.03265154.xyz
+0.0.0.0 www.impost-store.6215484512.xyz
 0.0.0.0 www.impost.7656-sendinggoods.xyz
 0.0.0.0 www.impost.48750.xyz
 0.0.0.0 www.impost.548024.xyz
@@ -49419,6 +49444,7 @@
 0.0.0.0 www.inpost-fgcm.order442.info
 0.0.0.0 www.inpost-fgzh.order0912401.info
 0.0.0.0 www.inpost-fhha.order142.eu
+0.0.0.0 www.inpost-fino.order4149.biz
 0.0.0.0 www.inpost-fixlv.orders98511.info
 0.0.0.0 www.inpost-fjgv.neworder44799.info
 0.0.0.0 www.inpost-fk.order943.info
@@ -49715,6 +49741,7 @@
 0.0.0.0 www.inpost-pl-my-id2g3ys.gabrielacosta.live
 0.0.0.0 www.inpost-pl-my-id2g3ys.getthe.top
 0.0.0.0 www.inpost-pl-my-id2g3ys.grupozg.top
+0.0.0.0 www.inpost-pl-my-id2g3ys.haiwu.top
 0.0.0.0 www.inpost-pl-my-id2g3ys.helpix.top
 0.0.0.0 www.inpost-pl-my-id2g3ys.id-umowa458230.click
 0.0.0.0 www.inpost-pl-my-id2g3ys.idon.top
@@ -49822,6 +49849,7 @@
 0.0.0.0 www.inpost-pl-mynid2ihxa.biuha33.us
 0.0.0.0 www.inpost-pl-mynid2ihxa.buypaxil.shop
 0.0.0.0 www.inpost-pl-mynid2ihxa.cimaclub.live
+0.0.0.0 www.inpost-pl-mynid2ihxa.danri.top
 0.0.0.0 www.inpost-pl-mynid2ihxa.edenm.xyz
 0.0.0.0 www.inpost-pl-mynid2ihxa.eprix.live
 0.0.0.0 www.inpost-pl-mynid2ihxa.feige123.top
@@ -51279,6 +51307,7 @@
 0.0.0.0 www.inpost.265954212.xyz
 0.0.0.0 www.inpost.0321548745.xyz
 0.0.0.0 www.inpost.326594512.xyz
+0.0.0.0 www.inpost.1212554111.xyz
 0.0.0.0 www.inpost.6326051255.xyz
 0.0.0.0 www.inpost.advart.top
 0.0.0.0 www.inpost.badelobt.org
@@ -51399,6 +51428,7 @@
 0.0.0.0 www.inpost.order549.info
 0.0.0.0 www.inpost.order740.info
 0.0.0.0 www.inpost.order7826.info
+0.0.0.0 www.inpost.order8569.site
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.order-pl.store
 0.0.0.0 www.inpost.orders-dostawa.website
@@ -52935,6 +52965,7 @@
 0.0.0.0 www.kasa-sms.pl
 0.0.0.0 www.kashtrack.com
 0.0.0.0 www.kasi.plrogeu.site
+0.0.0.0 www.kaspalw.com
 0.0.0.0 www.kassa-dpd.id-umowa42390.buzz
 0.0.0.0 www.kassa-olx.295503plid.pics
 0.0.0.0 www.kassa-olx.837269plid.pics
@@ -56685,6 +56716,7 @@
 0.0.0.0 www.ochronakonta-mbank.com
 0.0.0.0 www.october-media.za.com
 0.0.0.0 www.octopus-concierge.com
+0.0.0.0 www.oculus-russia.digital
 0.0.0.0 www.oczekujacy700.site
 0.0.0.0 www.oczyszerokootwarte.com.pl
 0.0.0.0 www.oczywiscie-teraz.eu
@@ -57714,6 +57746,7 @@
 0.0.0.0 www.olx.837269plid.pics
 0.0.0.0 www.olx.9568451.xyz
 0.0.0.0 www.olx.365902154.xyz
+0.0.0.0 www.olx.6021548745.xyz
 0.0.0.0 www.olx.7321548745.xyz
 0.0.0.0 www.olx.52154986451.xyz
 0.0.0.0 www.olx.ads-public-worlds.shop
@@ -60164,6 +60197,7 @@
 0.0.0.0 www.payu-home-pl-4e969.ittiqadniaga.com
 0.0.0.0 www.payu-home-pl-032c6.ittiqadniaga.com
 0.0.0.0 www.payu-home-pl-f9b62.ittiqadniaga.com
+0.0.0.0 www.payu-loteria.pl
 0.0.0.0 www.payu.hmcloud.pl
 0.0.0.0 www.payu.id3858951.xyz
 0.0.0.0 www.payu.id27394942.xyz
@@ -64200,6 +64234,7 @@
 0.0.0.0 www.shop-o1x-user.5231678.xyz
 0.0.0.0 www.shop-olx.563300.xyz
 0.0.0.0 www.shop-vimted.3455411.xyz
+0.0.0.0 www.shop-winted.4411232656.xyz
 0.0.0.0 www.shopbest.online
 0.0.0.0 www.shopdpd-product.7546112434.xyz
 0.0.0.0 www.shopgirlso.com
@@ -69421,6 +69456,7 @@
 0.0.0.0 www.volkin-invest.pro
 0.0.0.0 www.voltaundef.com
 0.0.0.0 www.voltexwebphone.com
+0.0.0.0 www.volusmak.space
 0.0.0.0 www.vom.sheeds.site
 0.0.0.0 www.voolsop-website.preview-domain.com
 0.0.0.0 www.vop.bashus.site
