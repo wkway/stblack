@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 05 Nov 2022, 17:27 UTC+01:00
-# Version: 2022.11.5.2
+# Last modified: Sun, 06 Nov 2022, 17:28 UTC+01:00
+# Version: 2022.11.6.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -7146,6 +7146,7 @@
 0.0.0.0 appleid.com-local-id.com
 0.0.0.0 appleidworld.com
 0.0.0.0 appleinfo.support
+0.0.0.0 apples-assistance.live
 0.0.0.0 appleservicess.live
 0.0.0.0 applesite.live
 0.0.0.0 appletoken.club
@@ -13820,6 +13821,7 @@
 0.0.0.0 facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl
 0.0.0.0 facebook.gges.pl
 0.0.0.0 facebook.m918kiss.my
+0.0.0.0 facebook.pl5.shop
 0.0.0.0 facebook.pl-weryfikacja.net
 0.0.0.0 facebook.podpisz-petycje.eu
 0.0.0.0 facebook.pomorskie.pl
@@ -16310,6 +16312,7 @@
 0.0.0.0 impost.48750.xyz
 0.0.0.0 impost.548024.xyz
 0.0.0.0 impost.896594851.xyz
+0.0.0.0 impost.5265154515.xyz
 0.0.0.0 impost.7312457845.xyz
 0.0.0.0 impost.30265941521.xyz
 0.0.0.0 impost.36594345154.xyz
@@ -16339,6 +16342,7 @@
 0.0.0.0 in-f.info
 0.0.0.0 in-poland.web.app
 0.0.0.0 in-post-delliveri.dostawaplnds.pl
+0.0.0.0 in-post-pay-shop.565676764321.xyz
 0.0.0.0 in-post-pl-myid272xs.0xfee1dead.top
 0.0.0.0 in-post-pl-myid272xs.abbqza.top
 0.0.0.0 in-post-pl-myid272xs.all10thing.xyz
@@ -17482,6 +17486,7 @@
 0.0.0.0 inpost-pl-hid226ks.frische.top
 0.0.0.0 inpost-pl-hid226ks.ganei.top
 0.0.0.0 inpost-pl-hid226ks.gunwa.top
+0.0.0.0 inpost-pl-hid226ks.haberim.xyz
 0.0.0.0 inpost-pl-hid226ks.heehoo.shop
 0.0.0.0 inpost-pl-hid226ks.henglin.top
 0.0.0.0 inpost-pl-hid226ks.hollowhatter.live
@@ -17646,6 +17651,7 @@
 0.0.0.0 inpost-pl-myid271xs.ttimebr1.xyz
 0.0.0.0 inpost-pl-myid271xs.wmpac.live
 0.0.0.0 inpost-pl-myid271xs.wniosek790438.xyz
+0.0.0.0 inpost-pl-myid271xs.ygklt.xyz
 0.0.0.0 inpost-pl-myid271xs.znicze.info
 0.0.0.0 inpost-pl-mynid2ihxa.0xf0.xyz
 0.0.0.0 inpost-pl-mynid2ihxa.aa34.top
@@ -19030,6 +19036,7 @@
 0.0.0.0 inpost-ujbg.orders99551.info
 0.0.0.0 inpost-ujln.order2588322.info
 0.0.0.0 inpost-ujzs.order48382.info
+0.0.0.0 inpost-uku.order6091.info
 0.0.0.0 inpost-ultz.orders8354.com
 0.0.0.0 inpost-uqjk.orders9910.info
 0.0.0.0 inpost-uruo.orders23441.info
@@ -22617,6 +22624,7 @@
 0.0.0.0 mbankpl.online
 0.0.0.0 mbankpleu.online
 0.0.0.0 mbankprognozy2022.pl
+0.0.0.0 mbankscz.online
 0.0.0.0 mbchainmonlkj.xyz
 0.0.0.0 mbchainmonnba.xyz
 0.0.0.0 mbnk-bezpieczne.com
@@ -24689,6 +24697,7 @@
 0.0.0.0 ochkozavr.ru.net
 0.0.0.0 ochronakonta-mbank.com
 0.0.0.0 october-media.za.com
+0.0.0.0 october-pl.sa.com
 0.0.0.0 octopus-concierge.com
 0.0.0.0 oculus-russia.digital
 0.0.0.0 oczekujacy700.site
@@ -24882,6 +24891,7 @@
 0.0.0.0 ogloszenia-meble.pl
 0.0.0.0 ogloszenia-pieski.pl
 0.0.0.0 ogloszenia-zadarmo.pl
+0.0.0.0 ogloszenia.store
 0.0.0.0 ogloszenie01.waw.pl
 0.0.0.0 ogloszenie02.waw.pl
 0.0.0.0 ogloszenie-patrz.eu
@@ -30794,6 +30804,7 @@
 0.0.0.0 przeadresowac99.bankmillenium-pl.com
 0.0.0.0 przeadresowac.bankmillenium-pl.com
 0.0.0.0 przechodze-dalej.buzz
+0.0.0.0 przechodze-dalej.icu
 0.0.0.0 przechowywanie690.rest
 0.0.0.0 przeciwko-covid-19.pl
 0.0.0.0 przeciwny.sportbetsignupcode.com
@@ -33126,6 +33137,7 @@
 0.0.0.0 stationere.pl
 0.0.0.0 stationonline.sa.com
 0.0.0.0 stationsolutions.sa.com
+0.0.0.0 statscoord.xyz
 0.0.0.0 status24.5p.pl
 0.0.0.0 status-mark.com
 0.0.0.0 status.xn.pl
@@ -33807,6 +33819,7 @@
 0.0.0.0 tan428.site
 0.0.0.0 tanager.host
 0.0.0.0 tanchova.website
+0.0.0.0 tangerine-sorbet-981d76.netlify.app
 0.0.0.0 tangoier.site
 0.0.0.0 taniec-uzalezniony.site
 0.0.0.0 taniekonta.crayon2.net
@@ -35504,6 +35517,7 @@
 0.0.0.0 vdoldorog.host
 0.0.0.0 vdpd.id-9523.me
 0.0.0.0 veaio.store
+0.0.0.0 vebhoys.space
 0.0.0.0 vebnose.website
 0.0.0.0 vebomsa.com
 0.0.0.0 vebonu.website
@@ -38698,6 +38712,7 @@
 0.0.0.0 wizerunek-zdjecie.eu
 0.0.0.0 wjhfweiuwerfh37.xyz
 0.0.0.0 wjhted488marketpayy44.665521.xyz
+0.0.0.0 wjnted.5000032121545.xyz
 0.0.0.0 wklmas.pl
 0.0.0.0 wkybrr2ek.digital
 0.0.0.0 wlasciwy568.site
@@ -40597,6 +40612,7 @@
 0.0.0.0 www.appleid.com-local-id.com
 0.0.0.0 www.appleidworld.com
 0.0.0.0 www.appleinfo.support
+0.0.0.0 www.apples-assistance.live
 0.0.0.0 www.appleservicess.live
 0.0.0.0 www.applesite.live
 0.0.0.0 www.appletoken.club
@@ -47271,6 +47287,7 @@
 0.0.0.0 www.facebook.com-group-85937753175139875813857813751-post-3758137865768137.newsypolska.pl
 0.0.0.0 www.facebook.gges.pl
 0.0.0.0 www.facebook.m918kiss.my
+0.0.0.0 www.facebook.pl5.shop
 0.0.0.0 www.facebook.pl-weryfikacja.net
 0.0.0.0 www.facebook.podpisz-petycje.eu
 0.0.0.0 www.facebook.pomorskie.pl
@@ -49761,6 +49778,7 @@
 0.0.0.0 www.impost.48750.xyz
 0.0.0.0 www.impost.548024.xyz
 0.0.0.0 www.impost.896594851.xyz
+0.0.0.0 www.impost.5265154515.xyz
 0.0.0.0 www.impost.7312457845.xyz
 0.0.0.0 www.impost.30265941521.xyz
 0.0.0.0 www.impost.36594345154.xyz
@@ -49790,6 +49808,7 @@
 0.0.0.0 www.in-f.info
 0.0.0.0 www.in-poland.web.app
 0.0.0.0 www.in-post-delliveri.dostawaplnds.pl
+0.0.0.0 www.in-post-pay-shop.565676764321.xyz
 0.0.0.0 www.in-post-pl-myid272xs.0xfee1dead.top
 0.0.0.0 www.in-post-pl-myid272xs.abbqza.top
 0.0.0.0 www.in-post-pl-myid272xs.all10thing.xyz
@@ -50933,6 +50952,7 @@
 0.0.0.0 www.inpost-pl-hid226ks.frische.top
 0.0.0.0 www.inpost-pl-hid226ks.ganei.top
 0.0.0.0 www.inpost-pl-hid226ks.gunwa.top
+0.0.0.0 www.inpost-pl-hid226ks.haberim.xyz
 0.0.0.0 www.inpost-pl-hid226ks.heehoo.shop
 0.0.0.0 www.inpost-pl-hid226ks.henglin.top
 0.0.0.0 www.inpost-pl-hid226ks.hollowhatter.live
@@ -51097,6 +51117,7 @@
 0.0.0.0 www.inpost-pl-myid271xs.ttimebr1.xyz
 0.0.0.0 www.inpost-pl-myid271xs.wmpac.live
 0.0.0.0 www.inpost-pl-myid271xs.wniosek790438.xyz
+0.0.0.0 www.inpost-pl-myid271xs.ygklt.xyz
 0.0.0.0 www.inpost-pl-myid271xs.znicze.info
 0.0.0.0 www.inpost-pl-mynid2ihxa.0xf0.xyz
 0.0.0.0 www.inpost-pl-mynid2ihxa.aa34.top
@@ -52481,6 +52502,7 @@
 0.0.0.0 www.inpost-ujbg.orders99551.info
 0.0.0.0 www.inpost-ujln.order2588322.info
 0.0.0.0 www.inpost-ujzs.order48382.info
+0.0.0.0 www.inpost-uku.order6091.info
 0.0.0.0 www.inpost-ultz.orders8354.com
 0.0.0.0 www.inpost-uqjk.orders9910.info
 0.0.0.0 www.inpost-uruo.orders23441.info
@@ -56068,6 +56090,7 @@
 0.0.0.0 www.mbankpl.online
 0.0.0.0 www.mbankpleu.online
 0.0.0.0 www.mbankprognozy2022.pl
+0.0.0.0 www.mbankscz.online
 0.0.0.0 www.mbchainmonlkj.xyz
 0.0.0.0 www.mbchainmonnba.xyz
 0.0.0.0 www.mbnk-bezpieczne.com
@@ -58141,6 +58164,7 @@
 0.0.0.0 www.ochkozavr.ru.net
 0.0.0.0 www.ochronakonta-mbank.com
 0.0.0.0 www.october-media.za.com
+0.0.0.0 www.october-pl.sa.com
 0.0.0.0 www.octopus-concierge.com
 0.0.0.0 www.oculus-russia.digital
 0.0.0.0 www.oczekujacy700.site
@@ -58334,6 +58358,7 @@
 0.0.0.0 www.ogloszenia-meble.pl
 0.0.0.0 www.ogloszenia-pieski.pl
 0.0.0.0 www.ogloszenia-zadarmo.pl
+0.0.0.0 www.ogloszenia.store
 0.0.0.0 www.ogloszenie01.waw.pl
 0.0.0.0 www.ogloszenie02.waw.pl
 0.0.0.0 www.ogloszenie-patrz.eu
@@ -64091,6 +64116,7 @@
 0.0.0.0 www.przeadresowac99.bankmillenium-pl.com
 0.0.0.0 www.przeadresowac.bankmillenium-pl.com
 0.0.0.0 www.przechodze-dalej.buzz
+0.0.0.0 www.przechodze-dalej.icu
 0.0.0.0 www.przechowywanie690.rest
 0.0.0.0 www.przeciwko-covid-19.pl
 0.0.0.0 www.przeciwny.sportbetsignupcode.com
@@ -66423,6 +66449,7 @@
 0.0.0.0 www.stationere.pl
 0.0.0.0 www.stationonline.sa.com
 0.0.0.0 www.stationsolutions.sa.com
+0.0.0.0 www.statscoord.xyz
 0.0.0.0 www.status24.5p.pl
 0.0.0.0 www.status-mark.com
 0.0.0.0 www.status.xn.pl
@@ -67104,6 +67131,7 @@
 0.0.0.0 www.tan428.site
 0.0.0.0 www.tanager.host
 0.0.0.0 www.tanchova.website
+0.0.0.0 www.tangerine-sorbet-981d76.netlify.app
 0.0.0.0 www.tangoier.site
 0.0.0.0 www.taniec-uzalezniony.site
 0.0.0.0 www.taniekonta.crayon2.net
@@ -68801,6 +68829,7 @@
 0.0.0.0 www.vdoldorog.host
 0.0.0.0 www.vdpd.id-9523.me
 0.0.0.0 www.veaio.store
+0.0.0.0 www.vebhoys.space
 0.0.0.0 www.vebnose.website
 0.0.0.0 www.vebomsa.com
 0.0.0.0 www.vebonu.website
@@ -71995,6 +72024,7 @@
 0.0.0.0 www.wizerunek-zdjecie.eu
 0.0.0.0 www.wjhfweiuwerfh37.xyz
 0.0.0.0 www.wjhted488marketpayy44.665521.xyz
+0.0.0.0 www.wjnted.5000032121545.xyz
 0.0.0.0 www.wklmas.pl
 0.0.0.0 www.wkybrr2ek.digital
 0.0.0.0 www.wlasciwy568.site
