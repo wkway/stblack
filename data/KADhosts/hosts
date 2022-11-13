@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 12 Nov 2022, 17:28 UTC+01:00
-# Version: 2022.11.12.2
+# Last modified: Sun, 13 Nov 2022, 17:28 UTC+01:00
+# Version: 2022.11.13.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -8248,6 +8248,7 @@
 0.0.0.0 bitcoinrevolutionunitedkingdomreview.com
 0.0.0.0 bitcoins-era.io
 0.0.0.0 bitcoins-profit.com
+0.0.0.0 bitcoins-up.com
 0.0.0.0 bitcoinseraappl.co
 0.0.0.0 bitcoinset.pl
 0.0.0.0 bitcoinsmarter.net
@@ -9206,6 +9207,7 @@
 0.0.0.0 chambroch.com
 0.0.0.0 champkip.com
 0.0.0.0 chandlermover.com
+0.0.0.0 chandleru.com
 0.0.0.0 chaneynail.com
 0.0.0.0 changef.pl
 0.0.0.0 changemind.online
@@ -11990,6 +11992,7 @@
 0.0.0.0 dellvers469ollxplns.dostawnetsplns33.buzz
 0.0.0.0 dellvers488ollx.homescity73.one
 0.0.0.0 dellvers990ollx.citydelliverry72.one
+0.0.0.0 dellvers5099ollx.wentspey76.one
 0.0.0.0 dellvers-inport9polska.peydostawahome58.pl
 0.0.0.0 dellvery-1pr0vlded23.54354254.xyz
 0.0.0.0 dellvery.7631545.xyz
@@ -13888,6 +13891,7 @@
 0.0.0.0 explorelabs.com
 0.0.0.0 exposurecomputers.com
 0.0.0.0 expoundspu.com
+0.0.0.0 express-topical-news.com
 0.0.0.0 expresscash.pl
 0.0.0.0 expressconcreteltd.net
 0.0.0.0 expressionmavourneen.com
@@ -14166,6 +14170,7 @@
 0.0.0.0 fasyin.site
 0.0.0.0 fatalne-zdjecie.eu
 0.0.0.0 fatihakova.com
+0.0.0.0 fatithmicise.cf
 0.0.0.0 fatlyint.pl
 0.0.0.0 faughass.pl
 0.0.0.0 faulall.pl
@@ -16197,6 +16202,7 @@
 0.0.0.0 i-24-fakty-info.com.pl
 0.0.0.0 i-24-fakty-info.pl
 0.0.0.0 i-apple.fr
+0.0.0.0 i-applecare.cloud
 0.0.0.0 i-chomik.pl
 0.0.0.0 i-films.pl
 0.0.0.0 i-filmy.pl
@@ -17297,6 +17303,7 @@
 0.0.0.0 inp0st-store43.30641255.space
 0.0.0.0 inp0st-store.2312202.xyz
 0.0.0.0 inp0st-store.54644841.xyz
+0.0.0.0 inp0st-storeinform.5666565545.xyz
 0.0.0.0 inp0st.845-infodelivery.xyz
 0.0.0.0 inp0st.854-inpost-deljvery.xyz
 0.0.0.0 inp0st.387029twojid.beauty
@@ -24233,6 +24240,7 @@
 0.0.0.0 neuro2sdfhnl.xyz
 0.0.0.0 neuro2sdfmot.xyz
 0.0.0.0 neuro2sdfzwh.xyz
+0.0.0.0 neuro.blog1pl.site
 0.0.0.0 neurologiamt.com.br
 0.0.0.0 neuroneund.pl
 0.0.0.0 neurorehabtraining.com
@@ -27252,6 +27260,7 @@
 0.0.0.0 olx.sfastexpress.xyz
 0.0.0.0 olx.sitepay-deljvery.xyz
 0.0.0.0 olx.skedelen.org
+0.0.0.0 olx.sokgomegok.org
 0.0.0.0 olx.tcpay.ru
 0.0.0.0 olx.transakcja.pw
 0.0.0.0 olx.ua-pays.com
@@ -28513,6 +28522,7 @@
 0.0.0.0 payvinted-market.8656545433.xyz
 0.0.0.0 payvinted-purchase.7909856323.xyz
 0.0.0.0 paywash.se
+0.0.0.0 paywinted-delivery.7867876765.xyz
 0.0.0.0 payyinted-delivery.3544465008.xyz
 0.0.0.0 payyinted-product.6733121117.xyz
 0.0.0.0 pazazzquar.pl
@@ -29709,6 +29719,7 @@
 0.0.0.0 poisda.win
 0.0.0.0 poiska-gazeta.eu
 0.0.0.0 poiskienasze.eu
+0.0.0.0 poisrowsk.space
 0.0.0.0 poivesbedardemar.cf
 0.0.0.0 pojadetam.pl
 0.0.0.0 pojaz72a-soruce827az.tracntfoa.co.pl
@@ -31440,9 +31451,12 @@
 0.0.0.0 radio-eska.pol.beauty
 0.0.0.0 radio-stargard.onrender.com
 0.0.0.0 radio-zakopane.waw.pl
+0.0.0.0 radio-zet.pl.jui.asia
 0.0.0.0 radio-zet.pl.jui.autos
+0.0.0.0 radio-zet.pl.jui.boats
 0.0.0.0 radio-zet.pl.jui.cam
 0.0.0.0 radio-zet.pl.jui.gives
+0.0.0.0 radio-zet.pl.jui.icu
 0.0.0.0 radiomatchmaker.com
 0.0.0.0 radiorage.com
 0.0.0.0 radiospourlapaix.org
@@ -32839,6 +32853,7 @@
 0.0.0.0 shopinpost-product.5647809097.xyz
 0.0.0.0 shopinpost-purchase.766568.xyz
 0.0.0.0 shopjng-inp0st32-79info.7690345.xyz
+0.0.0.0 shopjnpost-market.5455344428.xyz
 0.0.0.0 shopo1x-purchase.9090987865.xyz
 0.0.0.0 shopolx-goods.8090000546.xyz
 0.0.0.0 shopolx-merchandise.23243353554323.xyz
@@ -34274,6 +34289,8 @@
 0.0.0.0 teamhalvarsnoren.se
 0.0.0.0 teamhunt.in
 0.0.0.0 teamowa124.weebly.com
+0.0.0.0 teamtrade-pl.homes
+0.0.0.0 teamtrade-pl.xyz
 0.0.0.0 tearnow.site
 0.0.0.0 teasvoi.online
 0.0.0.0 teaund.pl
@@ -35787,6 +35804,7 @@
 0.0.0.0 uwaga-wypadek24h.eu5.net
 0.0.0.0 uwaga-wypadek.waw.pl
 0.0.0.0 uwaga.dfirma.pl
+0.0.0.0 uwagadrogowcy.eu5.net
 0.0.0.0 uwb-edu.weebly.com
 0.0.0.0 uwhat.planticrysa.xyz
 0.0.0.0 uwm-edu-pl.weebly.com
@@ -36187,6 +36205,7 @@
 0.0.0.0 vihtedform-payment.6777545539.xyz
 0.0.0.0 vihtedinfo-goods.6787876564.xyz
 0.0.0.0 vihtedpage-market.8900008797.xyz
+0.0.0.0 vihtedshop-market.5666755545.xyz
 0.0.0.0 vihtedshop-site.7490615.xyz
 0.0.0.0 vihteduser-market.6879994354.xyz
 0.0.0.0 viinte-d-formsite.920612548455.xyz
@@ -37614,6 +37633,7 @@
 0.0.0.0 vintedl-polska023delfs.dellpolanddostawa014.homes
 0.0.0.0 vintedl-polska42delfs013.ink
 0.0.0.0 vintedl-polska163.plndspell71.one
+0.0.0.0 vintedl-polska299.paylment044.wiki
 0.0.0.0 vintedl-polska560.polskans043.wiki
 0.0.0.0 vintedl-polska973dellfns.polskapeydosrawa001.icu
 0.0.0.0 vintedl-polska2459delfs.peypldostavkaln019.homes
@@ -42129,6 +42149,7 @@
 0.0.0.0 www.bitcoinrevolutionunitedkingdomreview.com
 0.0.0.0 www.bitcoins-era.io
 0.0.0.0 www.bitcoins-profit.com
+0.0.0.0 www.bitcoins-up.com
 0.0.0.0 www.bitcoinseraappl.co
 0.0.0.0 www.bitcoinset.pl
 0.0.0.0 www.bitcoinsmarter.net
@@ -43087,6 +43108,7 @@
 0.0.0.0 www.chambroch.com
 0.0.0.0 www.champkip.com
 0.0.0.0 www.chandlermover.com
+0.0.0.0 www.chandleru.com
 0.0.0.0 www.chaneynail.com
 0.0.0.0 www.changef.pl
 0.0.0.0 www.changemind.online
@@ -45871,6 +45893,7 @@
 0.0.0.0 www.dellvers469ollxplns.dostawnetsplns33.buzz
 0.0.0.0 www.dellvers488ollx.homescity73.one
 0.0.0.0 www.dellvers990ollx.citydelliverry72.one
+0.0.0.0 www.dellvers5099ollx.wentspey76.one
 0.0.0.0 www.dellvers-inport9polska.peydostawahome58.pl
 0.0.0.0 www.dellvery-1pr0vlded23.54354254.xyz
 0.0.0.0 www.dellvery.7631545.xyz
@@ -47769,6 +47792,7 @@
 0.0.0.0 www.explorelabs.com
 0.0.0.0 www.exposurecomputers.com
 0.0.0.0 www.expoundspu.com
+0.0.0.0 www.express-topical-news.com
 0.0.0.0 www.expresscash.pl
 0.0.0.0 www.expressconcreteltd.net
 0.0.0.0 www.expressionmavourneen.com
@@ -48047,6 +48071,7 @@
 0.0.0.0 www.fasyin.site
 0.0.0.0 www.fatalne-zdjecie.eu
 0.0.0.0 www.fatihakova.com
+0.0.0.0 www.fatithmicise.cf
 0.0.0.0 www.fatlyint.pl
 0.0.0.0 www.faughass.pl
 0.0.0.0 www.faulall.pl
@@ -50078,6 +50103,7 @@
 0.0.0.0 www.i-24-fakty-info.com.pl
 0.0.0.0 www.i-24-fakty-info.pl
 0.0.0.0 www.i-apple.fr
+0.0.0.0 www.i-applecare.cloud
 0.0.0.0 www.i-chomik.pl
 0.0.0.0 www.i-films.pl
 0.0.0.0 www.i-filmy.pl
@@ -51178,6 +51204,7 @@
 0.0.0.0 www.inp0st-store43.30641255.space
 0.0.0.0 www.inp0st-store.2312202.xyz
 0.0.0.0 www.inp0st-store.54644841.xyz
+0.0.0.0 www.inp0st-storeinform.5666565545.xyz
 0.0.0.0 www.inp0st.845-infodelivery.xyz
 0.0.0.0 www.inp0st.854-inpost-deljvery.xyz
 0.0.0.0 www.inp0st.387029twojid.beauty
@@ -58115,6 +58142,7 @@
 0.0.0.0 www.neuro2sdfhnl.xyz
 0.0.0.0 www.neuro2sdfmot.xyz
 0.0.0.0 www.neuro2sdfzwh.xyz
+0.0.0.0 www.neuro.blog1pl.site
 0.0.0.0 www.neurologiamt.com.br
 0.0.0.0 www.neuroneund.pl
 0.0.0.0 www.neurorehabtraining.com
@@ -61134,6 +61162,7 @@
 0.0.0.0 www.olx.sfastexpress.xyz
 0.0.0.0 www.olx.sitepay-deljvery.xyz
 0.0.0.0 www.olx.skedelen.org
+0.0.0.0 www.olx.sokgomegok.org
 0.0.0.0 www.olx.tcpay.ru
 0.0.0.0 www.olx.transakcja.pw
 0.0.0.0 www.olx.ua-pays.com
@@ -62395,6 +62424,7 @@
 0.0.0.0 www.payvinted-market.8656545433.xyz
 0.0.0.0 www.payvinted-purchase.7909856323.xyz
 0.0.0.0 www.paywash.se
+0.0.0.0 www.paywinted-delivery.7867876765.xyz
 0.0.0.0 www.payyinted-delivery.3544465008.xyz
 0.0.0.0 www.payyinted-product.6733121117.xyz
 0.0.0.0 www.pazazzquar.pl
@@ -63431,6 +63461,7 @@
 0.0.0.0 www.poisda.win
 0.0.0.0 www.poiska-gazeta.eu
 0.0.0.0 www.poiskienasze.eu
+0.0.0.0 www.poisrowsk.space
 0.0.0.0 www.poivesbedardemar.cf
 0.0.0.0 www.pojadetam.pl
 0.0.0.0 www.pojaz72a-soruce827az.tracntfoa.co.pl
@@ -65162,9 +65193,12 @@
 0.0.0.0 www.radio-eska.pol.beauty
 0.0.0.0 www.radio-stargard.onrender.com
 0.0.0.0 www.radio-zakopane.waw.pl
+0.0.0.0 www.radio-zet.pl.jui.asia
 0.0.0.0 www.radio-zet.pl.jui.autos
+0.0.0.0 www.radio-zet.pl.jui.boats
 0.0.0.0 www.radio-zet.pl.jui.cam
 0.0.0.0 www.radio-zet.pl.jui.gives
+0.0.0.0 www.radio-zet.pl.jui.icu
 0.0.0.0 www.radiomatchmaker.com
 0.0.0.0 www.radiorage.com
 0.0.0.0 www.radiospourlapaix.org
@@ -66561,6 +66595,7 @@
 0.0.0.0 www.shopinpost-product.5647809097.xyz
 0.0.0.0 www.shopinpost-purchase.766568.xyz
 0.0.0.0 www.shopjng-inp0st32-79info.7690345.xyz
+0.0.0.0 www.shopjnpost-market.5455344428.xyz
 0.0.0.0 www.shopo1x-purchase.9090987865.xyz
 0.0.0.0 www.shopolx-goods.8090000546.xyz
 0.0.0.0 www.shopolx-merchandise.23243353554323.xyz
@@ -67996,6 +68031,8 @@
 0.0.0.0 www.teamhalvarsnoren.se
 0.0.0.0 www.teamhunt.in
 0.0.0.0 www.teamowa124.weebly.com
+0.0.0.0 www.teamtrade-pl.homes
+0.0.0.0 www.teamtrade-pl.xyz
 0.0.0.0 www.tearnow.site
 0.0.0.0 www.teasvoi.online
 0.0.0.0 www.teaund.pl
@@ -69509,6 +69546,7 @@
 0.0.0.0 www.uwaga-wypadek24h.eu5.net
 0.0.0.0 www.uwaga-wypadek.waw.pl
 0.0.0.0 www.uwaga.dfirma.pl
+0.0.0.0 www.uwagadrogowcy.eu5.net
 0.0.0.0 www.uwb-edu.weebly.com
 0.0.0.0 www.uwhat.planticrysa.xyz
 0.0.0.0 www.uwm-edu-pl.weebly.com
@@ -69909,6 +69947,7 @@
 0.0.0.0 www.vihtedform-payment.6777545539.xyz
 0.0.0.0 www.vihtedinfo-goods.6787876564.xyz
 0.0.0.0 www.vihtedpage-market.8900008797.xyz
+0.0.0.0 www.vihtedshop-market.5666755545.xyz
 0.0.0.0 www.vihtedshop-site.7490615.xyz
 0.0.0.0 www.vihteduser-market.6879994354.xyz
 0.0.0.0 www.viinte-d-formsite.920612548455.xyz
@@ -71336,6 +71375,7 @@
 0.0.0.0 www.vintedl-polska023delfs.dellpolanddostawa014.homes
 0.0.0.0 www.vintedl-polska42delfs013.ink
 0.0.0.0 www.vintedl-polska163.plndspell71.one
+0.0.0.0 www.vintedl-polska299.paylment044.wiki
 0.0.0.0 www.vintedl-polska560.polskans043.wiki
 0.0.0.0 www.vintedl-polska973dellfns.polskapeydosrawa001.icu
 0.0.0.0 www.vintedl-polska2459delfs.peypldostavkaln019.homes
@@ -73293,6 +73333,7 @@
 0.0.0.0 www.wzuay1fik.digital
 0.0.0.0 www.x0-iao.web.app
 0.0.0.0 www.x1-oai.web.app
+0.0.0.0 www.x1.mrvlbest.one
 0.0.0.0 www.x1.tslx.quest
 0.0.0.0 www.x1.unlim.beauty
 0.0.0.0 www.x1toptrade.mrvl.beauty
@@ -73863,6 +73904,7 @@
 0.0.0.0 www.zestawnaprawczy-do-wgniecen.com
 0.0.0.0 www.zestwienie.pl
 0.0.0.0 www.zet-info.pl
+0.0.0.0 www.zet-radio.pl.jui.beauty
 0.0.0.0 www.zet-wiadomosci.pl
 0.0.0.0 www.zetabook.com
 0.0.0.0 www.zeusfinancialtrades.com
@@ -74244,6 +74286,7 @@
 0.0.0.0 wzuay1fik.digital
 0.0.0.0 x0-iao.web.app
 0.0.0.0 x1-oai.web.app
+0.0.0.0 x1.mrvlbest.one
 0.0.0.0 x1.tslx.quest
 0.0.0.0 x1.unlim.beauty
 0.0.0.0 x1toptrade.mrvl.beauty
@@ -74814,6 +74857,7 @@
 0.0.0.0 zestawnaprawczy-do-wgniecen.com
 0.0.0.0 zestwienie.pl
 0.0.0.0 zet-info.pl
+0.0.0.0 zet-radio.pl.jui.beauty
 0.0.0.0 zet-wiadomosci.pl
 0.0.0.0 zetabook.com
 0.0.0.0 zeusfinancialtrades.com
