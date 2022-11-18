@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 17 Nov 2022 13:13:28 GMT
-# entries:        3674
+# last updated:   Fri, 18 Nov 2022 12:15:02 GMT
+# entries:        3668
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 22 Nov 2002 00:00:00
+# start date:    Sat, 23 Nov 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -154,7 +154,6 @@
 0.0.0.0 ad.nttnavi.co.jp
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.period-calendar.com
-0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.reachlocal.com
@@ -180,14 +179,12 @@
 0.0.0.0 ad1.emule-project.org
 0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
-0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.netriota.hu
 0.0.0.0 ad2.nmm.de
 0.0.0.0 ad2.xrea.com
 0.0.0.0 ad3.iinfo.cz
-0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.xrea.com
 0.0.0.0 ad4game.com
 0.0.0.0 ad4mat.com
@@ -347,7 +344,6 @@
 0.0.0.0 adreclaim.com
 0.0.0.0 adrecover.com
 0.0.0.0 adrecreate.com
-0.0.0.0 adremedy.com
 0.0.0.0 adreporting.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adriver.ru
@@ -425,7 +421,6 @@
 0.0.0.0 ads.com.com
 0.0.0.0 ads.comeon.com
 0.0.0.0 ads.contactmusic.com
-0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.dada.it
@@ -1288,7 +1283,6 @@
 0.0.0.0 buzzonclick.com
 0.0.0.0 bwp.download.com
 0.0.0.0 c.bigmir.net
-0.0.0.0 c1.nowlinux.com
 0.0.0.0 c1exchange.com
 0.0.0.0 c212.net
 0.0.0.0 calculatingcircle.com
@@ -1401,6 +1395,7 @@
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.equantum.com
+0.0.0.0 clicks.eventbrite.com
 0.0.0.0 clicks.mods.de
 0.0.0.0 clicks.monzo.com
 0.0.0.0 clickserve.cc-dt.com
@@ -1496,7 +1491,6 @@
 0.0.0.0 counter.dreamhost.com
 0.0.0.0 counter.mirohost.net
 0.0.0.0 counter.mojgorod.ru
-0.0.0.0 counter.nowlinux.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
@@ -2553,7 +2547,6 @@
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx2.kytary.cz
 0.0.0.0 operationchicken.com
-0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
 0.0.0.0 opmnstr.com
 0.0.0.0 oppuz.com
@@ -3159,6 +3152,7 @@
 0.0.0.0 storygize.net
 0.0.0.0 stoveseashore.com
 0.0.0.0 straightnest.com
+0.0.0.0 stretchsquirrel.com
 0.0.0.0 stripedburst.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 structurerod.com
