@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 21 Nov 2022 05:20:16 GMT
-# entries:        3667
+# last updated:   Mon, 28 Nov 2022 11:09:11 GMT
+# entries:        3677
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 02 Dec 2002 00:00:00
+# start date:    Tue, 03 Dec 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -193,6 +193,7 @@
 0.0.0.0 adaction.de
 0.0.0.0 adadvisor.net
 0.0.0.0 adalliance.io
+0.0.0.0 adanging.blog
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adaranth.com
@@ -741,6 +742,7 @@
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.cdnstream.com
+0.0.0.0 adserver.cherryfind.co.uk
 0.0.0.0 adserver.com
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
@@ -750,9 +752,11 @@
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
+0.0.0.0 adserver.industryarena.com
 0.0.0.0 adserver.info7.mx
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
+0.0.0.0 adserver.kontent.com
 0.0.0.0 adserver.lecool.com
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.msmb.biz
@@ -763,6 +767,7 @@
 0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.otthonom.hu
 0.0.0.0 adserver.pampa.com.br
+0.0.0.0 adserver.piksel.mk
 0.0.0.0 adserver.pl
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.pressboard.ca
@@ -775,10 +780,12 @@
 0.0.0.0 adserver.tupolska.com
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.virginmedia.com
+0.0.0.0 adserver.waggonerguide.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.mindshare.de
+0.0.0.0 adserver5b.xyz
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
@@ -788,6 +795,7 @@
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservingfront.com
+0.0.0.0 adservio.tech
 0.0.0.0 adservrs.com
 0.0.0.0 adservrs.com.edgekey.net
 0.0.0.0 adsfac.eu
@@ -2801,6 +2809,7 @@
 0.0.0.0 rate.ru
 0.0.0.0 ratings.lycos.com
 0.0.0.0 rayjump.com
+0.0.0.0 rcadserver.com
 0.0.0.0 re-directme.com
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
@@ -2862,6 +2871,7 @@
 0.0.0.0 revprotect.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
+0.0.0.0 rexadvert.xyz
 0.0.0.0 reyden-x.com
 0.0.0.0 rhombusads.com
 0.0.0.0 rhythmone.com
