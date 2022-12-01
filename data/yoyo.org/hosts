@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 30 Nov 2022 13:23:35 GMT
-# entries:        3678
+# last updated:   Wed, 30 Nov 2022 17:59:08 GMT
+# entries:        3679
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 05 Dec 2002 00:00:00
+# start date:    Fri, 06 Dec 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -3367,6 +3367,7 @@
 0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
+0.0.0.0 tracking.baypacketaddressepisode.makeup
 0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.exipure.com
