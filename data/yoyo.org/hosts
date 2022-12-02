@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 30 Nov 2022 17:59:08 GMT
-# entries:        3679
+# entries:        3675
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 06 Dec 2002 00:00:00
+# start date:    Sat, 07 Dec 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1007,7 +1007,6 @@
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.samdd.me
 0.0.0.0 analytics.santander.co.uk
-0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.xelondigital.com
@@ -1083,7 +1082,6 @@
 0.0.0.0 avazutracking.net
 0.0.0.0 avenuea.com
 0.0.0.0 avocet.io
-0.0.0.0 avpa.javalobby.org
 0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
 0.0.0.0 awesomeagreement.com
@@ -1467,7 +1465,6 @@
 0.0.0.0 consensad.com
 0.0.0.0 consensu.org
 0.0.0.0 contadores.miarroba.com
-0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
 0.0.0.0 content22.online.citi.com
@@ -1622,6 +1619,7 @@
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
+0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleclick.com
@@ -2158,7 +2156,6 @@
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
-0.0.0.0 leadingedgecash.com
 0.0.0.0 leadplace.fr
 0.0.0.0 leadspace.com
 0.0.0.0 leadzupc.com
@@ -2290,7 +2287,6 @@
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.crossiety.app
-0.0.0.0 matomo.hdweb.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
 0.0.0.0 maximiser.net
