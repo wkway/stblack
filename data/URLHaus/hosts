@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2022-12-11 17:07:33 (UTC)                      #
+# Last updated: 2022-12-12 17:02:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,9 +11,7 @@
 127.0.0.1	33rdderryscouts.com
 127.0.0.1	360.lcy2zzx.pw
 127.0.0.1	360down7.miiyun.cn
-127.0.0.1	430f.portraits.studio-94-photography.com
 127.0.0.1	9hym.com
-127.0.0.1	a.angel-tn.idv.tw
 127.0.0.1	aaa.hfaiuegii.com
 127.0.0.1	abbmedikal.com
 127.0.0.1	abibiall.com
@@ -28,11 +26,13 @@
 127.0.0.1	airhobi.com
 127.0.0.1	aldojuanpettiti.com.ar
 127.0.0.1	alinac.ca
+127.0.0.1	alternativohortolandia.com.br
 127.0.0.1	alzheimerzamora.com
 127.0.0.1	amarteargentina.com.ar
 127.0.0.1	americantv.online
 127.0.0.1	amorecuidados.com.br
 127.0.0.1	andrewpharma.com
+127.0.0.1	angel.bk.idv.tw
 127.0.0.1	anguklaw.com
 127.0.0.1	aosafrica.co.za
 127.0.0.1	apexcreative.co.kr
@@ -54,7 +54,6 @@
 127.0.0.1	bawatingbarter.com
 127.0.0.1	bbia.co.uk
 127.0.0.1	beachwood.ug
-127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beeabouttown.com
 127.0.0.1	belladama.fr
 127.0.0.1	bencevendeghaz.hu
@@ -91,7 +90,6 @@
 127.0.0.1	canconsulting.in
 127.0.0.1	careers-info.com
 127.0.0.1	cargoconnect.online
-127.0.0.1	casamuseoayerbe.co
 127.0.0.1	casepredict.com
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdn.doxbin.org
@@ -107,15 +105,16 @@
 127.0.0.1	cityoftransformation.com
 127.0.0.1	citypharmacylv.com
 127.0.0.1	classwoodcraft.com
+127.0.0.1	cleaning.homesecuritypc.com
 127.0.0.1	clovekwealth.com
 127.0.0.1	co.ltsmax.com
 127.0.0.1	coadymarine.com
 127.0.0.1	cocostrunket.com
 127.0.0.1	codiumsecurity.com
 127.0.0.1	colchoesagf.com.br
+127.0.0.1	cookie-coin.xyz
 127.0.0.1	coop-host.com
 127.0.0.1	copunupo.ac.zm
-127.0.0.1	corpernaija.com
 127.0.0.1	corpolevesuplementos.com.br
 127.0.0.1	corscania.com
 127.0.0.1	cothdesigns.com
@@ -143,7 +142,6 @@
 127.0.0.1	dev.sebpo.net
 127.0.0.1	dev2-admin.ycbnt.net
 127.0.0.1	dhnconstrucciones.com.ar
-127.0.0.1	diarioinformador.com
 127.0.0.1	diweshop.com
 127.0.0.1	dl.1003b.56a.com
 127.0.0.1	dl.9xu.com
@@ -169,7 +167,6 @@
 127.0.0.1	edoraseguros.com.br
 127.0.0.1	edu.pmvanini.rs.gov.br
 127.0.0.1	educajuris.cl
-127.0.0.1	elixirpharrna.in
 127.0.0.1	emaids.co.za
 127.0.0.1	erkaradyator.com.tr
 127.0.0.1	ert.ajn322bb.com
@@ -180,7 +177,6 @@
 127.0.0.1	evashopping.thietkewebsitechuanseo.com
 127.0.0.1	exilum.com
 127.0.0.1	exitofestas.com.br
-127.0.0.1	ezisc.com
 127.0.0.1	fabiolatreml.com.br
 127.0.0.1	falakmarketing.com
 127.0.0.1	famesa.com.ar
@@ -195,9 +191,9 @@
 127.0.0.1	gbsports.theapplab.org
 127.0.0.1	gccon.in
 127.0.0.1	gedebey-tvradio.info
-127.0.0.1	geovanisantos.adv.br
 127.0.0.1	gethomevaluerestoration.com
 127.0.0.1	gigantech.org
+127.0.0.1	globalmerch.net
 127.0.0.1	gobesitysurgery.com
 127.0.0.1	gokcevizyon.com
 127.0.0.1	goldrush.ug
@@ -249,6 +245,7 @@
 127.0.0.1	keyesforsteuben.com
 127.0.0.1	kimjikuk.luxeone.cn
 127.0.0.1	kimyen.net
+127.0.0.1	krisbadminton.com
 127.0.0.1	krusevo.gov.mk
 127.0.0.1	kuluckaci.com
 127.0.0.1	kustens.com
@@ -269,12 +266,8 @@
 127.0.0.1	longevitymeats.com
 127.0.0.1	lopespublicidade.com
 127.0.0.1	ltc.typoten.com
-127.0.0.1	luminouspneuma.com
 127.0.0.1	ly.yjlianyi.top
-127.0.0.1	lyndaa.ir
 127.0.0.1	m-ainsurance.com
-127.0.0.1	maddockmarketing.com
-127.0.0.1	madicon.co.za
 127.0.0.1	makeupuccino.com
 127.0.0.1	marcowine.com
 127.0.0.1	mario-sunjic.com
@@ -301,6 +294,7 @@
 127.0.0.1	mulmatdol.com
 127.0.0.1	mumgee.co.za
 127.0.0.1	mwu.com.mx
+127.0.0.1	mycyberumbrella.com
 127.0.0.1	myphamcuatui.com
 127.0.0.1	mysouthbay.com
 127.0.0.1	mysura.it
@@ -309,16 +303,15 @@
 127.0.0.1	namthaibinh.net
 127.0.0.1	natashads.com
 127.0.0.1	nerdtaku.com
+127.0.0.1	networkwheels.co.za
 127.0.0.1	newdevjyq.devjyq.com
 127.0.0.1	newgoplus.com
 127.0.0.1	nhorangtreem.com
-127.0.0.1	nienkz.nl
 127.0.0.1	noithathoanggiatn.com
 127.0.0.1	noonimpex.com
 127.0.0.1	nrc-soluciones.com.ar
 127.0.0.1	oazahotel.com.mk
 127.0.0.1	oceancityrentalbyowner.com
-127.0.0.1	omeryener.com.tr
 127.0.0.1	oms.pappai.com
 127.0.0.1	omscoc.pappai.com
 127.0.0.1	online.creedglobal.in
@@ -341,10 +334,8 @@
 127.0.0.1	pataphysics.net.au
 127.0.0.1	perfectguard.hu
 127.0.0.1	petparadise.biz
-127.0.0.1	philipdattilo.com
 127.0.0.1	pink99.com
 127.0.0.1	plasfan.ind.br
-127.0.0.1	platinumspas.ro
 127.0.0.1	pns.org.pk
 127.0.0.1	ponizinny.nl
 127.0.0.1	posmicrosystems.com
@@ -361,6 +352,7 @@
 127.0.0.1	qeextension.com
 127.0.0.1	qmsled.com
 127.0.0.1	rayonrehab.com
+127.0.0.1	rbmotorsdz.com
 127.0.0.1	redmag-dz.com
 127.0.0.1	reifenquick.de
 127.0.0.1	relaxindulge.co.nz
@@ -377,7 +369,6 @@
 127.0.0.1	royreid.co.uk
 127.0.0.1	ruitaiwz.com
 127.0.0.1	safetygear.pk
-127.0.0.1	sainzim.co.za
 127.0.0.1	sbss.com.pk
 127.0.0.1	scglobal.co.th
 127.0.0.1	schoolofspanish.co.za
@@ -387,6 +378,7 @@
 127.0.0.1	senbiaojita.com
 127.0.0.1	seniorweekoc.net
 127.0.0.1	server.easysalepage.in.th
+127.0.0.1	server.toeicswt.co.kr
 127.0.0.1	shahu66.com
 127.0.0.1	shehabelhariry.com
 127.0.0.1	shipminttracking.net
@@ -408,7 +400,6 @@
 127.0.0.1	sshd.run
 127.0.0.1	static.cz01.cn
 127.0.0.1	stayinoceancitymd.com
-127.0.0.1	stpindo.co.id
 127.0.0.1	strassenburgpharma.biz
 127.0.0.1	streamtvbox.net
 127.0.0.1	superstar.tibolts.co.uk
@@ -418,9 +409,9 @@
 127.0.0.1	tecni-soft.com
 127.0.0.1	temptmag.com
 127.0.0.1	tengfeidn.com
+127.0.0.1	tensoft.store
 127.0.0.1	test.typoten.com
 127.0.0.1	thecentury.edu.vn
-127.0.0.1	thedashami.com
 127.0.0.1	thedoctorsgym.net
 127.0.0.1	thegift.live
 127.0.0.1	thekassia.co.uk
@@ -457,14 +448,14 @@
 127.0.0.1	web.geomegasoft.net
 127.0.0.1	webhoanggia.com
 127.0.0.1	webs-up.com
-127.0.0.1	websound.ru
 127.0.0.1	weinsteincounseling.com
 127.0.0.1	wewilltoptheworld.top
 127.0.0.1	whatelles.nl
+127.0.0.1	whitegames.wepudas.guru
 127.0.0.1	wijsneusmedia.nl
 127.0.0.1	wildnights.co.uk
+127.0.0.1	windcomtechnologies.com
 127.0.0.1	wisewomanwarrior.com
-127.0.0.1	wizecenter.com
 127.0.0.1	wshsoft.company
 127.0.0.1	www.abelcare.co.uk
 127.0.0.1	www.agies.org
@@ -480,7 +471,6 @@
 127.0.0.1	www.chacaltattoo.com.br
 127.0.0.1	www.charmingsoftech.com
 127.0.0.1	www.chawkyfrenn.com
-127.0.0.1	www.chemsky.tn
 127.0.0.1	www.cisnc.it
 127.0.0.1	www.conectiva.pe
 127.0.0.1	www.dacui.online
@@ -492,9 +482,7 @@
 127.0.0.1	www.enc-tech.com
 127.0.0.1	www.fcstradesolutions.com
 127.0.0.1	www.fixstudio.co.kr
-127.0.0.1	www.geovanisantos.adv.br
 127.0.0.1	www.globallaborsupply.com
-127.0.0.1	www.godfathersjunk.com
 127.0.0.1	www.hebgb.top
 127.0.0.1	www.hellojohnwebb.com
 127.0.0.1	www.hotelmourya.com
@@ -508,6 +496,7 @@
 127.0.0.1	www.jpvnegocios.com
 127.0.0.1	www.kinfri.com
 127.0.0.1	www.kjcpromo.com
+127.0.0.1	www.loransheart.com
 127.0.0.1	www.manchesterot.co.uk
 127.0.0.1	www.maxmoney.com
 127.0.0.1	www.mobiles-photostudio.com
@@ -534,7 +523,6 @@
 127.0.0.1	www.tvculturaourofino.com.br
 127.0.0.1	www.universalcustomdesigns.com
 127.0.0.1	www.vivacuscoperu.com
-127.0.0.1	www.websound.ru
 127.0.0.1	www.weinsteincounseling.com
 127.0.0.1	www.ysbaojia.com
 127.0.0.1	www.z2vs.com
@@ -554,4 +542,4 @@
 127.0.0.1	zhivir.com
 127.0.0.1	zqpispa.it
 127.0.0.1	ztekkhosting.com
-# Number of entries: 548
+# Number of entries: 536
