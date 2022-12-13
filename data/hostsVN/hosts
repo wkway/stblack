@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 12 Dec 2022 22:42 UTC+7
-# Version: 2212122242
+# Last modified: 13 Dec 2022 14:33 UTC+7
+# Version: 2212131433
 # Blocked: 1.714 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -1384,6 +1384,7 @@
 0.0.0.0 ad.sunflower.vn
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
+0.0.0.0 ad.vkoolzzz.net
 0.0.0.0 ad.zinimedia.com
 0.0.0.0 adadmin.headlines.pw
 0.0.0.0 adapi.tuyensinh247.com
@@ -1830,7 +1831,6 @@
 0.0.0.0 track.lapa.pub
 0.0.0.0 track.lemonnovel.com
 0.0.0.0 track.pnj.com.vn
-0.0.0.0 track.rentracks.com.vn
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.vio.edu.vn
 0.0.0.0 tracker.anime47.com
