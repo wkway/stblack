@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 01 Jan 2023, 13:31 UTC+01:00
-# Version: 2023.1.1.2
+# Last modified: Mon, 02 Jan 2023, 17:23 UTC+01:00
+# Version: 2023.1.2.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -8175,6 +8175,8 @@
 0.0.0.0 bal.viztt.xyz
 0.0.0.0 bal.zostt.xyz
 0.0.0.0 bala.safars.online
+0.0.0.0 balama-sklep.pl
+0.0.0.0 balamasklep.pl
 0.0.0.0 balans-zycia.eu
 0.0.0.0 balefullyj.com
 0.0.0.0 balekis.com
@@ -8266,6 +8268,7 @@
 0.0.0.0 bankfotek.cleverapps.io
 0.0.0.0 bankierpl.com
 0.0.0.0 banking-bendingobank-au.com
+0.0.0.0 banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com
 0.0.0.0 banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 0.0.0.0 banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com
 0.0.0.0 banking-pl.site
@@ -8830,6 +8833,7 @@
 0.0.0.0 bitcoin-primeapp.com
 0.0.0.0 bitcoin-pro.live
 0.0.0.0 bitcoin-profit.org
+0.0.0.0 bitcoin-prosystem.financialmarketsworld.com
 0.0.0.0 bitcoin-revolution.org
 0.0.0.0 bitcoin-santiago.financialmarketsworld.com
 0.0.0.0 bitcoin-smarter.com
@@ -8950,6 +8954,7 @@
 0.0.0.0 biznesowo24.waw.pl
 0.0.0.0 biznesportal.eu
 0.0.0.0 bizzy-dev.com
+0.0.0.0 bjd2l8.webwave.dev
 0.0.0.0 bjjhiu.s3.us-west-004.backblazeb2.com
 0.0.0.0 bjolaz.com
 0.0.0.0 bjoska-inv.firebaseapp.com
@@ -10956,6 +10961,7 @@
 0.0.0.0 cryptotrade.capital
 0.0.0.0 cryptotrade.com.pl
 0.0.0.0 cryptotrader.software
+0.0.0.0 cryptounion.autos
 0.0.0.0 cryptoventaja.com
 0.0.0.0 cryptowgmi.com
 0.0.0.0 crypucy.xyz
@@ -12494,6 +12500,7 @@
 0.0.0.0 d389dbzfcsnpp2.cloudfront.net
 0.0.0.0 d389ki10w0608v.cloudfront.net
 0.0.0.0 d709wf8jcnhl9.cloudfront.net
+0.0.0.0 d794v4.webwave.dev
 0.0.0.0 d903kj34o3859.cloudfront.net
 0.0.0.0 d1068lp0qu69in.cloudfront.net
 0.0.0.0 d1159j234tlq9h.cloudfront.net
@@ -13250,11 +13257,15 @@
 0.0.0.0 dhi9ksq8khea1.cloudfront.net
 0.0.0.0 dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 dhl-b70571.ingress-erytho.ewp.live
+0.0.0.0 dhl-de1395.scuflicharthewer.ml
 0.0.0.0 dhl-de1492.swathsorsi.ml
 0.0.0.0 dhl-de1810.listitacepttenspe.ml
+0.0.0.0 dhl-de2561.quevasuhard.ml
 0.0.0.0 dhl-de2845.ramkcompy.ml
+0.0.0.0 dhl-de3285.lankoron.ml
 0.0.0.0 dhl-de4475.mutitexpfalechoo.ml
 0.0.0.0 dhl-de4964.sniferam.ml
+0.0.0.0 dhl-de5652.kinglonsipithoga.ml
 0.0.0.0 dhl-de5843.oslausiversimp.ml
 0.0.0.0 dhl-de6061.grifdyedracemdsipeas.ml
 0.0.0.0 dhl-de6293.knownolotancoa.ml
@@ -13263,6 +13274,7 @@
 0.0.0.0 dhl-de8645.compgalamore.ml
 0.0.0.0 dhl-de8739.gaihuara.ml
 0.0.0.0 dhl-de9144.okarak.ml
+0.0.0.0 dhl-de9413.winblawgamoulneumo.ml
 0.0.0.0 dhl-de9504.granorbotrola.ml
 0.0.0.0 dhl-de9905.inraconla.ml
 0.0.0.0 dhl-paket-express-international.cfolks.pl
@@ -13276,17 +13288,24 @@
 0.0.0.0 dhlbazeos.tiokickrenimb.cf
 0.0.0.0 dhlfh1l8xj4e6.cloudfront.net
 0.0.0.0 dhlukbvti.listitacepttenspe.ml
+0.0.0.0 dhlukfnyl.clognurtco.ml
+0.0.0.0 dhlukhsbq.winblawgamoulneumo.ml
 0.0.0.0 dhlukmdwj.tesnitenaho.ml
 0.0.0.0 dhlukmhyp.nuetever.ml
 0.0.0.0 dhlukmxqm.oralderpo.ml
+0.0.0.0 dhluknfsb.lankoron.ml
+0.0.0.0 dhlukoubm.peacofmu.ml
 0.0.0.0 dhluksiph.okarak.ml
+0.0.0.0 dhluktbvo.quevasuhard.ml
 0.0.0.0 dhluktsbh.erreto.ml
 0.0.0.0 dhluktysv.rassnonsdeconsiewhor.ml
 0.0.0.0 dhlukunzq.mutitexpfalechoo.ml
+0.0.0.0 dhlukuwgv.kinglonsipithoga.ml
 0.0.0.0 dhlukvfwp.granorbotrola.ml
 0.0.0.0 dhlukvijg.gytari.ml
 0.0.0.0 dhlukwkwy.nlinernowebtu.ml
 0.0.0.0 dhlukwtbb.vostwohncrim.ml
+0.0.0.0 dhlukyfsb.hecello.ml
 0.0.0.0 dhm8324ka79wc.cloudfront.net
 0.0.0.0 dhougvqhyr.cfolks.pl
 0.0.0.0 dhreak.com
@@ -14160,9 +14179,11 @@
 0.0.0.0 dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 dpdpldghz.mutitexpfalechoo.ml
 0.0.0.0 dpdplglgx.listitacepttenspe.ml
+0.0.0.0 dpdplhmea.clognurtco.ml
 0.0.0.0 dpdpliohu.compgalamore.ml
 0.0.0.0 dpdpliyqm.vostwohncrim.ml
 0.0.0.0 dpdplkpbq.onenespi.ml
+0.0.0.0 dpdplkrct.winblawgamoulneumo.ml
 0.0.0.0 dpdpllewj.tuimeptaderpoltgin.ml
 0.0.0.0 dpdpllyfu.gytari.ml
 0.0.0.0 dpdplmbat.rassnonsdeconsiewhor.ml
@@ -14173,6 +14194,7 @@
 0.0.0.0 dpdplpkhj.knownolotancoa.ml
 0.0.0.0 dpdplqcrd.dioturnpestsi.ml
 0.0.0.0 dpdpltwab.gaihuara.ml
+0.0.0.0 dpdpltxzx.hecello.ml
 0.0.0.0 dpdpluirh.erreto.ml
 0.0.0.0 dpdplwcrn.tesnitenaho.ml
 0.0.0.0 dpdplwwuu.tupixmoupo.ml
@@ -16641,6 +16663,7 @@
 0.0.0.0 gcijewel.com
 0.0.0.0 gd-l.site
 0.0.0.0 gdansk-l.site
+0.0.0.0 gdfgdfgdfgdfghhhdfgdgdff.blogspot.com
 0.0.0.0 gdnsk-lts.site
 0.0.0.0 gdojmkt1s6e.digital
 0.0.0.0 gdsis.cl
@@ -17443,9 +17466,12 @@
 0.0.0.0 hal.viztt.xyz
 0.0.0.0 hala.onlinepow.xyz
 0.0.0.0 halachicfeirie.xyz
+0.0.0.0 halama-sklep.pl
+0.0.0.0 halamasklep.pl
 0.0.0.0 halassmycz.site
 0.0.0.0 halavahmonoglyceride.pl
 0.0.0.0 halble.pl
+0.0.0.0 haldanasklep.pl
 0.0.0.0 haldomiate.pl
 0.0.0.0 halitosesi.xyz
 0.0.0.0 halknsvt.space
@@ -17660,6 +17686,7 @@
 0.0.0.0 hellogoa360.com
 0.0.0.0 hellonaira.com
 0.0.0.0 helloworld.ddnsking.com
+0.0.0.0 helmansklep.pl
 0.0.0.0 helona-resort.com
 0.0.0.0 help12344440.wixsite.com
 0.0.0.0 help-feedback-amzn1.xyz
@@ -22270,6 +22297,7 @@
 0.0.0.0 invest-global.cyou
 0.0.0.0 invest-global.online
 0.0.0.0 invest-global.site
+0.0.0.0 invest-in-amazon.financialmarketsworld.com
 0.0.0.0 invest-lotos.web.app
 0.0.0.0 invest-online.work
 0.0.0.0 invest-orl.com
@@ -25809,12 +25837,17 @@
 0.0.0.0 mingovplberw.rassnonsdeconsiewhor.ml
 0.0.0.0 mingovplepui.tesnitenaho.ml
 0.0.0.0 mingovplgdhf.oslausiversimp.ml
+0.0.0.0 mingovplgfjc.reochilbyo.ml
+0.0.0.0 mingovplidtn.kinglonsipithoga.ml
+0.0.0.0 mingovpliuvc.scuflicharthewer.ml
+0.0.0.0 mingovpliytc.winblawgamoulneumo.ml
 0.0.0.0 mingovpljfcm.swathsorsi.ml
 0.0.0.0 mingovpljlie.mutitexpfalechoo.ml
 0.0.0.0 mingovpljmuw.ketpdertantclud.ml
 0.0.0.0 mingovplkpkx.dioturnpestsi.ml
 0.0.0.0 mingovpllaak.oslausiversimp.ml
 0.0.0.0 mingovpllciu.spiroxbar.ml
+0.0.0.0 mingovpllgjn.quevasuhard.ml
 0.0.0.0 mingovplmxxg.faycesbdeals.ml
 0.0.0.0 mingovplnjpo.reacibill.ml
 0.0.0.0 mingovplobnw.tupixmoupo.ml
@@ -25828,6 +25861,8 @@
 0.0.0.0 mingovpltkud.tuimeptaderpoltgin.ml
 0.0.0.0 mingovplvlgo.olunimkallero.ml
 0.0.0.0 mingovplwchc.toughsitehalan.ml
+0.0.0.0 mingovplxheq.peacofmu.ml
+0.0.0.0 mingovplynuq.clognurtco.ml
 0.0.0.0 mingovplyxhy.gaihuara.ml
 0.0.0.0 mini-pl.stat-pr.site
 0.0.0.0 minicant.xyz
@@ -26992,6 +27027,7 @@
 0.0.0.0 netfli.org.pl
 0.0.0.0 netfli.waw.pl
 0.0.0.0 netflieza.com
+0.0.0.0 netflilpl.com
 0.0.0.0 netflipl.com
 0.0.0.0 netflipld.com
 0.0.0.0 netflispl.com
@@ -27229,6 +27265,7 @@
 0.0.0.0 newspoland.biz
 0.0.0.0 newspoland.us
 0.0.0.0 newsport2.com
+0.0.0.0 newspost.pro
 0.0.0.0 newsproduct.site
 0.0.0.0 newsreform.info
 0.0.0.0 newsspypro.com
@@ -28149,6 +28186,7 @@
 0.0.0.0 oidj3o4ipccggg.rdl.pl
 0.0.0.0 oigosiw.space
 0.0.0.0 oil-pl.web.app
+0.0.0.0 oil-profit-app.financialmarketsworld.com
 0.0.0.0 oil-profits.com
 0.0.0.0 oilforpeoplecan.site
 0.0.0.0 oilnews.online
@@ -31699,7 +31737,6 @@
 0.0.0.0 pekao24.jh0.site
 0.0.0.0 pekao24.llc
 0.0.0.0 pekao24.one
-0.0.0.0 pekao24.pl.mcas-df.ms
 0.0.0.0 pekao24.site
 0.0.0.0 pekao24.top
 0.0.0.0 pekao24indiwidualnekonto.pw
@@ -38612,6 +38649,7 @@
 0.0.0.0 the-bitcoin-era-pro.com
 0.0.0.0 the-bitcoin-profit.com
 0.0.0.0 the-bitcoin-smarter.com
+0.0.0.0 the-bitcoinboom.financialmarketsworld.com
 0.0.0.0 the-bitcoineedom.financialmarketsworld.com
 0.0.0.0 the-bitcoinprime.com
 0.0.0.0 the-bitcoinpro.com
@@ -38620,6 +38658,7 @@
 0.0.0.0 the-dogecoin-millionaire.financialmarketsworld.com
 0.0.0.0 the-dubailifestyle-pro.financialmarketsworld.com
 0.0.0.0 the-immediate-advantage.financialmarketsworld.com
+0.0.0.0 the-millionaires-blueprintapp.financialmarketsworld.com
 0.0.0.0 the-new.alxprogs.xyz
 0.0.0.0 the-news-spy.info
 0.0.0.0 the-nft-profit.financialmarketsworld.com
@@ -40664,6 +40703,7 @@
 0.0.0.0 vinted-pl-gj32d.angkahoki.top
 0.0.0.0 vinted-pl-gj32d.angkajitu.top
 0.0.0.0 vinted-pl-gj32d.anoth.top
+0.0.0.0 vinted-pl-gj32d.antenaj3.xyz
 0.0.0.0 vinted-pl-gj32d.aocshop.shop
 0.0.0.0 vinted-pl-gj32d.apfb.xyz
 0.0.0.0 vinted-pl-gj32d.apriori.top
@@ -40696,6 +40736,7 @@
 0.0.0.0 vinted-pl-gj32d.bitster.top
 0.0.0.0 vinted-pl-gj32d.bitxion.top
 0.0.0.0 vinted-pl-gj32d.bizful.top
+0.0.0.0 vinted-pl-gj32d.bjmxcyd.top
 0.0.0.0 vinted-pl-gj32d.blissdom.shop
 0.0.0.0 vinted-pl-gj32d.blmfm.top
 0.0.0.0 vinted-pl-gj32d.bna-dan.live
@@ -40788,6 +40829,7 @@
 0.0.0.0 vinted-pl-gj32d.dsgl8.top
 0.0.0.0 vinted-pl-gj32d.dsmart.live
 0.0.0.0 vinted-pl-gj32d.dubrava.top
+0.0.0.0 vinted-pl-gj32d.duiqi.top
 0.0.0.0 vinted-pl-gj32d.dundu.xyz
 0.0.0.0 vinted-pl-gj32d.duotu.top
 0.0.0.0 vinted-pl-gj32d.duslir.top
@@ -40857,6 +40899,7 @@
 0.0.0.0 vinted-pl-gj32d.gc2hx.top
 0.0.0.0 vinted-pl-gj32d.gedia.top
 0.0.0.0 vinted-pl-gj32d.geekv.xyz
+0.0.0.0 vinted-pl-gj32d.geicp.top
 0.0.0.0 vinted-pl-gj32d.ggdev.xyz
 0.0.0.0 vinted-pl-gj32d.ghb2b.live
 0.0.0.0 vinted-pl-gj32d.ghmnb74.xyz
@@ -40883,6 +40926,7 @@
 0.0.0.0 vinted-pl-gj32d.hbyyw.top
 0.0.0.0 vinted-pl-gj32d.hdnow.xyz
 0.0.0.0 vinted-pl-gj32d.heehoo.shop
+0.0.0.0 vinted-pl-gj32d.hellx.top
 0.0.0.0 vinted-pl-gj32d.helpaq.live
 0.0.0.0 vinted-pl-gj32d.helpix.top
 0.0.0.0 vinted-pl-gj32d.henglin.top
@@ -40911,6 +40955,7 @@
 0.0.0.0 vinted-pl-gj32d.ifiksr44.top
 0.0.0.0 vinted-pl-gj32d.iheartmkz1.xyz
 0.0.0.0 vinted-pl-gj32d.iimono.top
+0.0.0.0 vinted-pl-gj32d.iknown.top
 0.0.0.0 vinted-pl-gj32d.iliketogo.shop
 0.0.0.0 vinted-pl-gj32d.import4.xyz
 0.0.0.0 vinted-pl-gj32d.imvod.top
@@ -40980,6 +41025,7 @@
 0.0.0.0 vinted-pl-gj32d.kohase.xyz
 0.0.0.0 vinted-pl-gj32d.kongxin.xyz
 0.0.0.0 vinted-pl-gj32d.krafta.live
+0.0.0.0 vinted-pl-gj32d.krontab.xyz
 0.0.0.0 vinted-pl-gj32d.ku771.top
 0.0.0.0 vinted-pl-gj32d.kuantu.top
 0.0.0.0 vinted-pl-gj32d.kuzhuang.top
@@ -41009,6 +41055,7 @@
 0.0.0.0 vinted-pl-gj32d.liuwudy.xyz
 0.0.0.0 vinted-pl-gj32d.lldaohang.xyz
 0.0.0.0 vinted-pl-gj32d.loanid.xyz
+0.0.0.0 vinted-pl-gj32d.lovelb.top
 0.0.0.0 vinted-pl-gj32d.lspgdh.top
 0.0.0.0 vinted-pl-gj32d.lu2396.top
 0.0.0.0 vinted-pl-gj32d.lugmtdn7534fng.xyz
@@ -41037,6 +41084,7 @@
 0.0.0.0 vinted-pl-gj32d.mourses.com
 0.0.0.0 vinted-pl-gj32d.mptri.xyz
 0.0.0.0 vinted-pl-gj32d.msnsd.top
+0.0.0.0 vinted-pl-gj32d.mtl17.xyz
 0.0.0.0 vinted-pl-gj32d.mtxsw.top
 0.0.0.0 vinted-pl-gj32d.muabanxe.xyz
 0.0.0.0 vinted-pl-gj32d.muamay.xyz
@@ -41074,6 +41122,7 @@
 0.0.0.0 vinted-pl-gj32d.nyssw.top
 0.0.0.0 vinted-pl-gj32d.nzyoga.live
 0.0.0.0 vinted-pl-gj32d.oask.life
+0.0.0.0 vinted-pl-gj32d.oasweb.xyz
 0.0.0.0 vinted-pl-gj32d.obiworld.xyz
 0.0.0.0 vinted-pl-gj32d.obras.life
 0.0.0.0 vinted-pl-gj32d.ocgreenrelief.shop
@@ -41140,6 +41189,7 @@
 0.0.0.0 vinted-pl-gj32d.reforma.live
 0.0.0.0 vinted-pl-gj32d.refpaaqx.top
 0.0.0.0 vinted-pl-gj32d.refpavib.top
+0.0.0.0 vinted-pl-gj32d.refpaxqt.top
 0.0.0.0 vinted-pl-gj32d.reify.live
 0.0.0.0 vinted-pl-gj32d.reikiren.xyz
 0.0.0.0 vinted-pl-gj32d.rejin.top
@@ -41228,6 +41278,7 @@
 0.0.0.0 vinted-pl-gj32d.tawekrtu.xyz
 0.0.0.0 vinted-pl-gj32d.techsoft.top
 0.0.0.0 vinted-pl-gj32d.tekurun.xyz
+0.0.0.0 vinted-pl-gj32d.tenan.xyz
 0.0.0.0 vinted-pl-gj32d.tenrys.xyz
 0.0.0.0 vinted-pl-gj32d.tersedia.xyz
 0.0.0.0 vinted-pl-gj32d.tetown.top
@@ -41254,6 +41305,7 @@
 0.0.0.0 vinted-pl-gj32d.tron-x.top
 0.0.0.0 vinted-pl-gj32d.trudlet.top
 0.0.0.0 vinted-pl-gj32d.tsns.xyz
+0.0.0.0 vinted-pl-gj32d.tuanai.top
 0.0.0.0 vinted-pl-gj32d.tucaow.top
 0.0.0.0 vinted-pl-gj32d.tuihak.xyz
 0.0.0.0 vinted-pl-gj32d.tuilibiji.top
@@ -41283,6 +41335,7 @@
 0.0.0.0 vinted-pl-gj32d.vipmb.shop
 0.0.0.0 vinted-pl-gj32d.vision2030.life
 0.0.0.0 vinted-pl-gj32d.vivant.top
+0.0.0.0 vinted-pl-gj32d.voiaj.xyz
 0.0.0.0 vinted-pl-gj32d.vokep.live
 0.0.0.0 vinted-pl-gj32d.vostfr.top
 0.0.0.0 vinted-pl-gj32d.vuilam.xyz
@@ -41322,6 +41375,7 @@
 0.0.0.0 vinted-pl-gj32d.xname.top
 0.0.0.0 vinted-pl-gj32d.xnhdh.live
 0.0.0.0 vinted-pl-gj32d.xusan.top
+0.0.0.0 vinted-pl-gj32d.xutang.top
 0.0.0.0 vinted-pl-gj32d.xvnpzhe.top
 0.0.0.0 vinted-pl-gj32d.xz5.xyz
 0.0.0.0 vinted-pl-gj32d.xzdfs.top
@@ -41353,6 +41407,7 @@
 0.0.0.0 vinted-pl-gj32d.zscwan.top
 0.0.0.0 vinted-pl-gj32d.zultdd.top
 0.0.0.0 vinted-pl-gj32d.zvhj74dvsj563.top
+0.0.0.0 vinted-pl-gj32d.zxcdf.top
 0.0.0.0 vinted-pl-gj32d.zxcvbnhgfds75.top
 0.0.0.0 vinted-pl-gj32d.zyngaqq.xyz
 0.0.0.0 vinted-pl-gj32d.zywhc.top
@@ -41959,6 +42014,7 @@
 0.0.0.0 vinted.gespeku.org
 0.0.0.0 vinted.gezfumdo.org
 0.0.0.0 vinted.gkablosf.org
+0.0.0.0 vinted.hapnewyearse.org
 0.0.0.0 vinted.hesjevot.org
 0.0.0.0 vinted.hybeinog.org
 0.0.0.0 vinted.id379134.cfd
@@ -46577,6 +46633,8 @@
 0.0.0.0 www.bal.viztt.xyz
 0.0.0.0 www.bal.zostt.xyz
 0.0.0.0 www.bala.safars.online
+0.0.0.0 www.balama-sklep.pl
+0.0.0.0 www.balamasklep.pl
 0.0.0.0 www.balans-zycia.eu
 0.0.0.0 www.balefullyj.com
 0.0.0.0 www.balekis.com
@@ -46668,6 +46726,7 @@
 0.0.0.0 www.bankfotek.cleverapps.io
 0.0.0.0 www.bankierpl.com
 0.0.0.0 www.banking-bendingobank-au.com
+0.0.0.0 www.banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com
 0.0.0.0 www.banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 0.0.0.0 www.banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com
 0.0.0.0 www.banking-pl.site
@@ -47232,6 +47291,7 @@
 0.0.0.0 www.bitcoin-primeapp.com
 0.0.0.0 www.bitcoin-pro.live
 0.0.0.0 www.bitcoin-profit.org
+0.0.0.0 www.bitcoin-prosystem.financialmarketsworld.com
 0.0.0.0 www.bitcoin-revolution.org
 0.0.0.0 www.bitcoin-santiago.financialmarketsworld.com
 0.0.0.0 www.bitcoin-smarter.com
@@ -47352,6 +47412,7 @@
 0.0.0.0 www.biznesowo24.waw.pl
 0.0.0.0 www.biznesportal.eu
 0.0.0.0 www.bizzy-dev.com
+0.0.0.0 www.bjd2l8.webwave.dev
 0.0.0.0 www.bjjhiu.s3.us-west-004.backblazeb2.com
 0.0.0.0 www.bjolaz.com
 0.0.0.0 www.bjoska-inv.firebaseapp.com
@@ -49358,6 +49419,7 @@
 0.0.0.0 www.cryptotrade.capital
 0.0.0.0 www.cryptotrade.com.pl
 0.0.0.0 www.cryptotrader.software
+0.0.0.0 www.cryptounion.autos
 0.0.0.0 www.cryptoventaja.com
 0.0.0.0 www.cryptowgmi.com
 0.0.0.0 www.crypucy.xyz
@@ -50896,6 +50958,7 @@
 0.0.0.0 www.d389dbzfcsnpp2.cloudfront.net
 0.0.0.0 www.d389ki10w0608v.cloudfront.net
 0.0.0.0 www.d709wf8jcnhl9.cloudfront.net
+0.0.0.0 www.d794v4.webwave.dev
 0.0.0.0 www.d903kj34o3859.cloudfront.net
 0.0.0.0 www.d1068lp0qu69in.cloudfront.net
 0.0.0.0 www.d1159j234tlq9h.cloudfront.net
@@ -51652,11 +51715,15 @@
 0.0.0.0 www.dhi9ksq8khea1.cloudfront.net
 0.0.0.0 www.dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 www.dhl-b70571.ingress-erytho.ewp.live
+0.0.0.0 www.dhl-de1395.scuflicharthewer.ml
 0.0.0.0 www.dhl-de1492.swathsorsi.ml
 0.0.0.0 www.dhl-de1810.listitacepttenspe.ml
+0.0.0.0 www.dhl-de2561.quevasuhard.ml
 0.0.0.0 www.dhl-de2845.ramkcompy.ml
+0.0.0.0 www.dhl-de3285.lankoron.ml
 0.0.0.0 www.dhl-de4475.mutitexpfalechoo.ml
 0.0.0.0 www.dhl-de4964.sniferam.ml
+0.0.0.0 www.dhl-de5652.kinglonsipithoga.ml
 0.0.0.0 www.dhl-de5843.oslausiversimp.ml
 0.0.0.0 www.dhl-de6061.grifdyedracemdsipeas.ml
 0.0.0.0 www.dhl-de6293.knownolotancoa.ml
@@ -51665,6 +51732,7 @@
 0.0.0.0 www.dhl-de8645.compgalamore.ml
 0.0.0.0 www.dhl-de8739.gaihuara.ml
 0.0.0.0 www.dhl-de9144.okarak.ml
+0.0.0.0 www.dhl-de9413.winblawgamoulneumo.ml
 0.0.0.0 www.dhl-de9504.granorbotrola.ml
 0.0.0.0 www.dhl-de9905.inraconla.ml
 0.0.0.0 www.dhl-paket-express-international.cfolks.pl
@@ -51678,17 +51746,24 @@
 0.0.0.0 www.dhlbazeos.tiokickrenimb.cf
 0.0.0.0 www.dhlfh1l8xj4e6.cloudfront.net
 0.0.0.0 www.dhlukbvti.listitacepttenspe.ml
+0.0.0.0 www.dhlukfnyl.clognurtco.ml
+0.0.0.0 www.dhlukhsbq.winblawgamoulneumo.ml
 0.0.0.0 www.dhlukmdwj.tesnitenaho.ml
 0.0.0.0 www.dhlukmhyp.nuetever.ml
 0.0.0.0 www.dhlukmxqm.oralderpo.ml
+0.0.0.0 www.dhluknfsb.lankoron.ml
+0.0.0.0 www.dhlukoubm.peacofmu.ml
 0.0.0.0 www.dhluksiph.okarak.ml
+0.0.0.0 www.dhluktbvo.quevasuhard.ml
 0.0.0.0 www.dhluktsbh.erreto.ml
 0.0.0.0 www.dhluktysv.rassnonsdeconsiewhor.ml
 0.0.0.0 www.dhlukunzq.mutitexpfalechoo.ml
+0.0.0.0 www.dhlukuwgv.kinglonsipithoga.ml
 0.0.0.0 www.dhlukvfwp.granorbotrola.ml
 0.0.0.0 www.dhlukvijg.gytari.ml
 0.0.0.0 www.dhlukwkwy.nlinernowebtu.ml
 0.0.0.0 www.dhlukwtbb.vostwohncrim.ml
+0.0.0.0 www.dhlukyfsb.hecello.ml
 0.0.0.0 www.dhm8324ka79wc.cloudfront.net
 0.0.0.0 www.dhougvqhyr.cfolks.pl
 0.0.0.0 www.dhreak.com
@@ -52562,9 +52637,11 @@
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 www.dpdpldghz.mutitexpfalechoo.ml
 0.0.0.0 www.dpdplglgx.listitacepttenspe.ml
+0.0.0.0 www.dpdplhmea.clognurtco.ml
 0.0.0.0 www.dpdpliohu.compgalamore.ml
 0.0.0.0 www.dpdpliyqm.vostwohncrim.ml
 0.0.0.0 www.dpdplkpbq.onenespi.ml
+0.0.0.0 www.dpdplkrct.winblawgamoulneumo.ml
 0.0.0.0 www.dpdpllewj.tuimeptaderpoltgin.ml
 0.0.0.0 www.dpdpllyfu.gytari.ml
 0.0.0.0 www.dpdplmbat.rassnonsdeconsiewhor.ml
@@ -52575,6 +52652,7 @@
 0.0.0.0 www.dpdplpkhj.knownolotancoa.ml
 0.0.0.0 www.dpdplqcrd.dioturnpestsi.ml
 0.0.0.0 www.dpdpltwab.gaihuara.ml
+0.0.0.0 www.dpdpltxzx.hecello.ml
 0.0.0.0 www.dpdpluirh.erreto.ml
 0.0.0.0 www.dpdplwcrn.tesnitenaho.ml
 0.0.0.0 www.dpdplwwuu.tupixmoupo.ml
@@ -55043,6 +55121,7 @@
 0.0.0.0 www.gcijewel.com
 0.0.0.0 www.gd-l.site
 0.0.0.0 www.gdansk-l.site
+0.0.0.0 www.gdfgdfgdfgdfghhhdfgdgdff.blogspot.com
 0.0.0.0 www.gdnsk-lts.site
 0.0.0.0 www.gdojmkt1s6e.digital
 0.0.0.0 www.gdsis.cl
@@ -55845,9 +55924,12 @@
 0.0.0.0 www.hal.viztt.xyz
 0.0.0.0 www.hala.onlinepow.xyz
 0.0.0.0 www.halachicfeirie.xyz
+0.0.0.0 www.halama-sklep.pl
+0.0.0.0 www.halamasklep.pl
 0.0.0.0 www.halassmycz.site
 0.0.0.0 www.halavahmonoglyceride.pl
 0.0.0.0 www.halble.pl
+0.0.0.0 www.haldanasklep.pl
 0.0.0.0 www.haldomiate.pl
 0.0.0.0 www.halitosesi.xyz
 0.0.0.0 www.halknsvt.space
@@ -56062,6 +56144,7 @@
 0.0.0.0 www.hellogoa360.com
 0.0.0.0 www.hellonaira.com
 0.0.0.0 www.helloworld.ddnsking.com
+0.0.0.0 www.helmansklep.pl
 0.0.0.0 www.helona-resort.com
 0.0.0.0 www.help12344440.wixsite.com
 0.0.0.0 www.help-feedback-amzn1.xyz
@@ -60672,6 +60755,7 @@
 0.0.0.0 www.invest-global.cyou
 0.0.0.0 www.invest-global.online
 0.0.0.0 www.invest-global.site
+0.0.0.0 www.invest-in-amazon.financialmarketsworld.com
 0.0.0.0 www.invest-lotos.web.app
 0.0.0.0 www.invest-online.work
 0.0.0.0 www.invest-orl.com
@@ -64211,12 +64295,17 @@
 0.0.0.0 www.mingovplberw.rassnonsdeconsiewhor.ml
 0.0.0.0 www.mingovplepui.tesnitenaho.ml
 0.0.0.0 www.mingovplgdhf.oslausiversimp.ml
+0.0.0.0 www.mingovplgfjc.reochilbyo.ml
+0.0.0.0 www.mingovplidtn.kinglonsipithoga.ml
+0.0.0.0 www.mingovpliuvc.scuflicharthewer.ml
+0.0.0.0 www.mingovpliytc.winblawgamoulneumo.ml
 0.0.0.0 www.mingovpljfcm.swathsorsi.ml
 0.0.0.0 www.mingovpljlie.mutitexpfalechoo.ml
 0.0.0.0 www.mingovpljmuw.ketpdertantclud.ml
 0.0.0.0 www.mingovplkpkx.dioturnpestsi.ml
 0.0.0.0 www.mingovpllaak.oslausiversimp.ml
 0.0.0.0 www.mingovpllciu.spiroxbar.ml
+0.0.0.0 www.mingovpllgjn.quevasuhard.ml
 0.0.0.0 www.mingovplmxxg.faycesbdeals.ml
 0.0.0.0 www.mingovplnjpo.reacibill.ml
 0.0.0.0 www.mingovplobnw.tupixmoupo.ml
@@ -64230,6 +64319,8 @@
 0.0.0.0 www.mingovpltkud.tuimeptaderpoltgin.ml
 0.0.0.0 www.mingovplvlgo.olunimkallero.ml
 0.0.0.0 www.mingovplwchc.toughsitehalan.ml
+0.0.0.0 www.mingovplxheq.peacofmu.ml
+0.0.0.0 www.mingovplynuq.clognurtco.ml
 0.0.0.0 www.mingovplyxhy.gaihuara.ml
 0.0.0.0 www.mini-pl.stat-pr.site
 0.0.0.0 www.minicant.xyz
@@ -65395,6 +65486,7 @@
 0.0.0.0 www.netfli.org.pl
 0.0.0.0 www.netfli.waw.pl
 0.0.0.0 www.netflieza.com
+0.0.0.0 www.netflilpl.com
 0.0.0.0 www.netflipl.com
 0.0.0.0 www.netflipld.com
 0.0.0.0 www.netflispl.com
@@ -65632,6 +65724,7 @@
 0.0.0.0 www.newspoland.biz
 0.0.0.0 www.newspoland.us
 0.0.0.0 www.newsport2.com
+0.0.0.0 www.newspost.pro
 0.0.0.0 www.newsproduct.site
 0.0.0.0 www.newsreform.info
 0.0.0.0 www.newsspypro.com
@@ -66552,6 +66645,7 @@
 0.0.0.0 www.oidj3o4ipccggg.rdl.pl
 0.0.0.0 www.oigosiw.space
 0.0.0.0 www.oil-pl.web.app
+0.0.0.0 www.oil-profit-app.financialmarketsworld.com
 0.0.0.0 www.oil-profits.com
 0.0.0.0 www.oilforpeoplecan.site
 0.0.0.0 www.oilnews.online
@@ -70102,7 +70196,6 @@
 0.0.0.0 www.pekao24.jh0.site
 0.0.0.0 www.pekao24.llc
 0.0.0.0 www.pekao24.one
-0.0.0.0 www.pekao24.pl.mcas-df.ms
 0.0.0.0 www.pekao24.site
 0.0.0.0 www.pekao24.top
 0.0.0.0 www.pekao24indiwidualnekonto.pw
@@ -76842,6 +76935,7 @@
 0.0.0.0 www.the-bitcoin-era-pro.com
 0.0.0.0 www.the-bitcoin-profit.com
 0.0.0.0 www.the-bitcoin-smarter.com
+0.0.0.0 www.the-bitcoinboom.financialmarketsworld.com
 0.0.0.0 www.the-bitcoineedom.financialmarketsworld.com
 0.0.0.0 www.the-bitcoinprime.com
 0.0.0.0 www.the-bitcoinpro.com
@@ -76850,6 +76944,7 @@
 0.0.0.0 www.the-dogecoin-millionaire.financialmarketsworld.com
 0.0.0.0 www.the-dubailifestyle-pro.financialmarketsworld.com
 0.0.0.0 www.the-immediate-advantage.financialmarketsworld.com
+0.0.0.0 www.the-millionaires-blueprintapp.financialmarketsworld.com
 0.0.0.0 www.the-new.alxprogs.xyz
 0.0.0.0 www.the-news-spy.info
 0.0.0.0 www.the-nft-profit.financialmarketsworld.com
@@ -78894,6 +78989,7 @@
 0.0.0.0 www.vinted-pl-gj32d.angkahoki.top
 0.0.0.0 www.vinted-pl-gj32d.angkajitu.top
 0.0.0.0 www.vinted-pl-gj32d.anoth.top
+0.0.0.0 www.vinted-pl-gj32d.antenaj3.xyz
 0.0.0.0 www.vinted-pl-gj32d.aocshop.shop
 0.0.0.0 www.vinted-pl-gj32d.apfb.xyz
 0.0.0.0 www.vinted-pl-gj32d.apriori.top
@@ -78926,6 +79022,7 @@
 0.0.0.0 www.vinted-pl-gj32d.bitster.top
 0.0.0.0 www.vinted-pl-gj32d.bitxion.top
 0.0.0.0 www.vinted-pl-gj32d.bizful.top
+0.0.0.0 www.vinted-pl-gj32d.bjmxcyd.top
 0.0.0.0 www.vinted-pl-gj32d.blissdom.shop
 0.0.0.0 www.vinted-pl-gj32d.blmfm.top
 0.0.0.0 www.vinted-pl-gj32d.bna-dan.live
@@ -79018,6 +79115,7 @@
 0.0.0.0 www.vinted-pl-gj32d.dsgl8.top
 0.0.0.0 www.vinted-pl-gj32d.dsmart.live
 0.0.0.0 www.vinted-pl-gj32d.dubrava.top
+0.0.0.0 www.vinted-pl-gj32d.duiqi.top
 0.0.0.0 www.vinted-pl-gj32d.dundu.xyz
 0.0.0.0 www.vinted-pl-gj32d.duotu.top
 0.0.0.0 www.vinted-pl-gj32d.duslir.top
@@ -79087,6 +79185,7 @@
 0.0.0.0 www.vinted-pl-gj32d.gc2hx.top
 0.0.0.0 www.vinted-pl-gj32d.gedia.top
 0.0.0.0 www.vinted-pl-gj32d.geekv.xyz
+0.0.0.0 www.vinted-pl-gj32d.geicp.top
 0.0.0.0 www.vinted-pl-gj32d.ggdev.xyz
 0.0.0.0 www.vinted-pl-gj32d.ghb2b.live
 0.0.0.0 www.vinted-pl-gj32d.ghmnb74.xyz
@@ -79113,6 +79212,7 @@
 0.0.0.0 www.vinted-pl-gj32d.hbyyw.top
 0.0.0.0 www.vinted-pl-gj32d.hdnow.xyz
 0.0.0.0 www.vinted-pl-gj32d.heehoo.shop
+0.0.0.0 www.vinted-pl-gj32d.hellx.top
 0.0.0.0 www.vinted-pl-gj32d.helpaq.live
 0.0.0.0 www.vinted-pl-gj32d.helpix.top
 0.0.0.0 www.vinted-pl-gj32d.henglin.top
@@ -79141,6 +79241,7 @@
 0.0.0.0 www.vinted-pl-gj32d.ifiksr44.top
 0.0.0.0 www.vinted-pl-gj32d.iheartmkz1.xyz
 0.0.0.0 www.vinted-pl-gj32d.iimono.top
+0.0.0.0 www.vinted-pl-gj32d.iknown.top
 0.0.0.0 www.vinted-pl-gj32d.iliketogo.shop
 0.0.0.0 www.vinted-pl-gj32d.import4.xyz
 0.0.0.0 www.vinted-pl-gj32d.imvod.top
@@ -79210,6 +79311,7 @@
 0.0.0.0 www.vinted-pl-gj32d.kohase.xyz
 0.0.0.0 www.vinted-pl-gj32d.kongxin.xyz
 0.0.0.0 www.vinted-pl-gj32d.krafta.live
+0.0.0.0 www.vinted-pl-gj32d.krontab.xyz
 0.0.0.0 www.vinted-pl-gj32d.ku771.top
 0.0.0.0 www.vinted-pl-gj32d.kuantu.top
 0.0.0.0 www.vinted-pl-gj32d.kuzhuang.top
@@ -79239,6 +79341,7 @@
 0.0.0.0 www.vinted-pl-gj32d.liuwudy.xyz
 0.0.0.0 www.vinted-pl-gj32d.lldaohang.xyz
 0.0.0.0 www.vinted-pl-gj32d.loanid.xyz
+0.0.0.0 www.vinted-pl-gj32d.lovelb.top
 0.0.0.0 www.vinted-pl-gj32d.lspgdh.top
 0.0.0.0 www.vinted-pl-gj32d.lu2396.top
 0.0.0.0 www.vinted-pl-gj32d.lugmtdn7534fng.xyz
@@ -79267,6 +79370,7 @@
 0.0.0.0 www.vinted-pl-gj32d.mourses.com
 0.0.0.0 www.vinted-pl-gj32d.mptri.xyz
 0.0.0.0 www.vinted-pl-gj32d.msnsd.top
+0.0.0.0 www.vinted-pl-gj32d.mtl17.xyz
 0.0.0.0 www.vinted-pl-gj32d.mtxsw.top
 0.0.0.0 www.vinted-pl-gj32d.muabanxe.xyz
 0.0.0.0 www.vinted-pl-gj32d.muamay.xyz
@@ -79304,6 +79408,7 @@
 0.0.0.0 www.vinted-pl-gj32d.nyssw.top
 0.0.0.0 www.vinted-pl-gj32d.nzyoga.live
 0.0.0.0 www.vinted-pl-gj32d.oask.life
+0.0.0.0 www.vinted-pl-gj32d.oasweb.xyz
 0.0.0.0 www.vinted-pl-gj32d.obiworld.xyz
 0.0.0.0 www.vinted-pl-gj32d.obras.life
 0.0.0.0 www.vinted-pl-gj32d.ocgreenrelief.shop
@@ -79370,6 +79475,7 @@
 0.0.0.0 www.vinted-pl-gj32d.reforma.live
 0.0.0.0 www.vinted-pl-gj32d.refpaaqx.top
 0.0.0.0 www.vinted-pl-gj32d.refpavib.top
+0.0.0.0 www.vinted-pl-gj32d.refpaxqt.top
 0.0.0.0 www.vinted-pl-gj32d.reify.live
 0.0.0.0 www.vinted-pl-gj32d.reikiren.xyz
 0.0.0.0 www.vinted-pl-gj32d.rejin.top
@@ -79458,6 +79564,7 @@
 0.0.0.0 www.vinted-pl-gj32d.tawekrtu.xyz
 0.0.0.0 www.vinted-pl-gj32d.techsoft.top
 0.0.0.0 www.vinted-pl-gj32d.tekurun.xyz
+0.0.0.0 www.vinted-pl-gj32d.tenan.xyz
 0.0.0.0 www.vinted-pl-gj32d.tenrys.xyz
 0.0.0.0 www.vinted-pl-gj32d.tersedia.xyz
 0.0.0.0 www.vinted-pl-gj32d.tetown.top
@@ -79484,6 +79591,7 @@
 0.0.0.0 www.vinted-pl-gj32d.tron-x.top
 0.0.0.0 www.vinted-pl-gj32d.trudlet.top
 0.0.0.0 www.vinted-pl-gj32d.tsns.xyz
+0.0.0.0 www.vinted-pl-gj32d.tuanai.top
 0.0.0.0 www.vinted-pl-gj32d.tucaow.top
 0.0.0.0 www.vinted-pl-gj32d.tuihak.xyz
 0.0.0.0 www.vinted-pl-gj32d.tuilibiji.top
@@ -79513,6 +79621,7 @@
 0.0.0.0 www.vinted-pl-gj32d.vipmb.shop
 0.0.0.0 www.vinted-pl-gj32d.vision2030.life
 0.0.0.0 www.vinted-pl-gj32d.vivant.top
+0.0.0.0 www.vinted-pl-gj32d.voiaj.xyz
 0.0.0.0 www.vinted-pl-gj32d.vokep.live
 0.0.0.0 www.vinted-pl-gj32d.vostfr.top
 0.0.0.0 www.vinted-pl-gj32d.vuilam.xyz
@@ -79552,6 +79661,7 @@
 0.0.0.0 www.vinted-pl-gj32d.xname.top
 0.0.0.0 www.vinted-pl-gj32d.xnhdh.live
 0.0.0.0 www.vinted-pl-gj32d.xusan.top
+0.0.0.0 www.vinted-pl-gj32d.xutang.top
 0.0.0.0 www.vinted-pl-gj32d.xvnpzhe.top
 0.0.0.0 www.vinted-pl-gj32d.xz5.xyz
 0.0.0.0 www.vinted-pl-gj32d.xzdfs.top
@@ -79583,6 +79693,7 @@
 0.0.0.0 www.vinted-pl-gj32d.zscwan.top
 0.0.0.0 www.vinted-pl-gj32d.zultdd.top
 0.0.0.0 www.vinted-pl-gj32d.zvhj74dvsj563.top
+0.0.0.0 www.vinted-pl-gj32d.zxcdf.top
 0.0.0.0 www.vinted-pl-gj32d.zxcvbnhgfds75.top
 0.0.0.0 www.vinted-pl-gj32d.zyngaqq.xyz
 0.0.0.0 www.vinted-pl-gj32d.zywhc.top
@@ -80189,6 +80300,7 @@
 0.0.0.0 www.vinted.gespeku.org
 0.0.0.0 www.vinted.gezfumdo.org
 0.0.0.0 www.vinted.gkablosf.org
+0.0.0.0 www.vinted.hapnewyearse.org
 0.0.0.0 www.vinted.hesjevot.org
 0.0.0.0 www.vinted.hybeinog.org
 0.0.0.0 www.vinted.id379134.cfd
@@ -82401,6 +82513,7 @@
 0.0.0.0 www.wypadek-info24news.pl
 0.0.0.0 www.wypadek-szaflary.waw.pl
 0.0.0.0 www.wypadek-ttv.xyz
+0.0.0.0 www.wypadek-videosy.eu
 0.0.0.0 www.wypadek-wp.eu5.net
 0.0.0.0 www.wypadek-zakopianka.waw.pl
 0.0.0.0 www.wypadekenergia.waw.pl
@@ -83490,6 +83603,7 @@
 0.0.0.0 wypadek-info24news.pl
 0.0.0.0 wypadek-szaflary.waw.pl
 0.0.0.0 wypadek-ttv.xyz
+0.0.0.0 wypadek-videosy.eu
 0.0.0.0 wypadek-wp.eu5.net
 0.0.0.0 wypadek-zakopianka.waw.pl
 0.0.0.0 wypadekenergia.waw.pl
