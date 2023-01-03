@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Mon, 02 Jan 2023, 17:23 UTC+01:00
-# Version: 2023.1.2.2
+# Last modified: Tue, 03 Jan 2023, 17:24 UTC+01:00
+# Version: 2023.1.3.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -6381,6 +6381,7 @@
 0.0.0.0 19248-33066.bacloud.info
 0.0.0.0 21026.cn
 0.0.0.0 21212shipping.site
+0.0.0.0 22465-4807.s3.webspace.re
 0.0.0.0 26159-dot-custom-history-301500.appspot.com
 0.0.0.0 27618-zaplata.com
 0.0.0.0 31667.laborartfilm.com
@@ -7304,6 +7305,8 @@
 0.0.0.0 alliegrolokcksn.knownolotancoa.ml
 0.0.0.0 alliegrolokemkk.mosthiborafgafu.tk
 0.0.0.0 alliegrolokpzuw.glorunaporpres.tk
+0.0.0.0 alliegrolokshec.izdiebreak.ml
+0.0.0.0 alliegrolokulek.doabaldepolcell.ml
 0.0.0.0 alliegrolokvgvt.smalfallnalsirup.cf
 0.0.0.0 alliegrolokvzvv.listitacepttenspe.ml
 0.0.0.0 allinhauling.com
@@ -8159,6 +8162,7 @@
 0.0.0.0 bahamasbaby.com
 0.0.0.0 bahmach.space
 0.0.0.0 bahore.online
+0.0.0.0 bai2898a0s-di828a.ptsitev.co.pl
 0.0.0.0 baik.plrogeu.site
 0.0.0.0 baisopdrohra.tk
 0.0.0.0 baitew.pl
@@ -8265,9 +8269,11 @@
 0.0.0.0 bankemilenium.top
 0.0.0.0 bankemilennium.one
 0.0.0.0 bankemillenium.one
+0.0.0.0 bankerfinancedefense.online
 0.0.0.0 bankfotek.cleverapps.io
 0.0.0.0 bankierpl.com
 0.0.0.0 banking-bendingobank-au.com
+0.0.0.0 banking-ing.pl-id19an1uahd1ibvaidb1vaki19ah1hua91.com
 0.0.0.0 banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com
 0.0.0.0 banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 0.0.0.0 banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com
@@ -8362,6 +8368,7 @@
 0.0.0.0 basiakurier.top
 0.0.0.0 basic.hospitalmap.website
 0.0.0.0 basicproduce.com
+0.0.0.0 basigwan.space
 0.0.0.0 baskinat.com
 0.0.0.0 basmerso.space
 0.0.0.0 basophiljo.com
@@ -11809,6 +11816,7 @@
 0.0.0.0 d3b08cuq86ta6b.cloudfront.net
 0.0.0.0 d3bltzl87xkw0x.cloudfront.net
 0.0.0.0 d3bua9i2xra5ab.cloudfront.net
+0.0.0.0 d3byrt.webwave.dev
 0.0.0.0 d3c0ml0dawhfue.cloudfront.net
 0.0.0.0 d3c7o9yfeowi63.cloudfront.net
 0.0.0.0 d3c8a2wpk66um4.cloudfront.net
@@ -12741,6 +12749,7 @@
 0.0.0.0 de1.program-capital.site
 0.0.0.0 de1ivery.6597451.xyz
 0.0.0.0 de7o82mzreipe.cloudfront.net
+0.0.0.0 de727a98-b27a78a.marek914.co.pl
 0.0.0.0 de.newinformacija.xyz
 0.0.0.0 de.program-capital.site
 0.0.0.0 deadel.pl
@@ -12794,6 +12803,7 @@
 0.0.0.0 deg3cjlesbqcg.cloudfront.net
 0.0.0.0 deg.ltd-programtop.xyz
 0.0.0.0 degoo.xyz
+0.0.0.0 deh0rb.webwave.dev
 0.0.0.0 dehasaagency.buzz
 0.0.0.0 dehlees.com
 0.0.0.0 deinorg.com
@@ -13259,9 +13269,12 @@
 0.0.0.0 dhl-b70571.ingress-erytho.ewp.live
 0.0.0.0 dhl-de1395.scuflicharthewer.ml
 0.0.0.0 dhl-de1492.swathsorsi.ml
+0.0.0.0 dhl-de1655.izdiebreak.ml
 0.0.0.0 dhl-de1810.listitacepttenspe.ml
 0.0.0.0 dhl-de2561.quevasuhard.ml
 0.0.0.0 dhl-de2845.ramkcompy.ml
+0.0.0.0 dhl-de3070.statemap.ml
+0.0.0.0 dhl-de3171.guemapdownsedenan.ml
 0.0.0.0 dhl-de3285.lankoron.ml
 0.0.0.0 dhl-de4475.mutitexpfalechoo.ml
 0.0.0.0 dhl-de4964.sniferam.ml
@@ -13273,12 +13286,14 @@
 0.0.0.0 dhl-de8179.dioturnpestsi.ml
 0.0.0.0 dhl-de8645.compgalamore.ml
 0.0.0.0 dhl-de8739.gaihuara.ml
+0.0.0.0 dhl-de8965.risepon.ml
 0.0.0.0 dhl-de9144.okarak.ml
 0.0.0.0 dhl-de9413.winblawgamoulneumo.ml
 0.0.0.0 dhl-de9504.granorbotrola.ml
 0.0.0.0 dhl-de9905.inraconla.ml
 0.0.0.0 dhl-paket-express-international.cfolks.pl
 0.0.0.0 dhl-parcel.co
+0.0.0.0 dhl.14675.cross-gates.uk
 0.0.0.0 dhl.express.faktura.lahuertadelsegura.com
 0.0.0.0 dhl.get-a.space
 0.0.0.0 dhl.lotnicze.squaredesign.pl
@@ -13287,14 +13302,17 @@
 0.0.0.0 dhl.tracking.sdelivery.net
 0.0.0.0 dhlbazeos.tiokickrenimb.cf
 0.0.0.0 dhlfh1l8xj4e6.cloudfront.net
+0.0.0.0 dhlukbaqi.doabaldepolcell.ml
 0.0.0.0 dhlukbvti.listitacepttenspe.ml
 0.0.0.0 dhlukfnyl.clognurtco.ml
+0.0.0.0 dhlukfxdq.guemapdownsedenan.ml
 0.0.0.0 dhlukhsbq.winblawgamoulneumo.ml
 0.0.0.0 dhlukmdwj.tesnitenaho.ml
 0.0.0.0 dhlukmhyp.nuetever.ml
 0.0.0.0 dhlukmxqm.oralderpo.ml
 0.0.0.0 dhluknfsb.lankoron.ml
 0.0.0.0 dhlukoubm.peacofmu.ml
+0.0.0.0 dhlukrxhm.statemap.ml
 0.0.0.0 dhluksiph.okarak.ml
 0.0.0.0 dhluktbvo.quevasuhard.ml
 0.0.0.0 dhluktsbh.erreto.ml
@@ -13807,6 +13825,7 @@
 0.0.0.0 dop.prosysb.site
 0.0.0.0 dopaslassis.com
 0.0.0.0 dopduv87yijyr.cloudfront.net
+0.0.0.0 doplac24.pl
 0.0.0.0 dopuszczalnyudekoruj.site
 0.0.0.0 dopyop.com
 0.0.0.0 doradca318.rest
@@ -14177,6 +14196,7 @@
 0.0.0.0 dpdpl-info.myparcel-orderinfo.xyz
 0.0.0.0 dpdpl-receipt.xyz
 0.0.0.0 dpdpl.dostawa-order-6744132.xyz
+0.0.0.0 dpdplbxnn.statemap.ml
 0.0.0.0 dpdpldghz.mutitexpfalechoo.ml
 0.0.0.0 dpdplglgx.listitacepttenspe.ml
 0.0.0.0 dpdplhmea.clognurtco.ml
@@ -14196,7 +14216,9 @@
 0.0.0.0 dpdpltwab.gaihuara.ml
 0.0.0.0 dpdpltxzx.hecello.ml
 0.0.0.0 dpdpluirh.erreto.ml
+0.0.0.0 dpdplvdvn.guemapdownsedenan.ml
 0.0.0.0 dpdplwcrn.tesnitenaho.ml
+0.0.0.0 dpdplwnky.izdiebreak.ml
 0.0.0.0 dpdplwwuu.tupixmoupo.ml
 0.0.0.0 dpdpoland.orderingdlvry-courierpoland.xyz
 0.0.0.0 dpdrmo.geosetthudofak.cf
@@ -16875,6 +16897,7 @@
 0.0.0.0 gisz.net.pl
 0.0.0.0 gitconvex.com
 0.0.0.0 gitepd.com
+0.0.0.0 githubkonkurs.000webhostapp.com
 0.0.0.0 gitsponsored.com
 0.0.0.0 giuatpzhd9dytiw.choobin-co.ir
 0.0.0.0 giuliodrei.it
@@ -17765,6 +17788,7 @@
 0.0.0.0 hh.ppaco.xyz
 0.0.0.0 hhi.gaznf.xyz
 0.0.0.0 hhu.fondblagorus.xyz
+0.0.0.0 hi8287a9-t8282.edwardkolek.pl
 0.0.0.0 hi.anprogramonline.site
 0.0.0.0 hiahhfghjrjehs7.web.app
 0.0.0.0 hiahhfghjrjehs9.web.app
@@ -21897,6 +21921,7 @@
 0.0.0.0 inpost.pronartek.org
 0.0.0.0 inpost.qismfl.org
 0.0.0.0 inpost.rawonekt.org
+0.0.0.0 inpost.sedanoxo.click
 0.0.0.0 inpost.send-productuser.xyz
 0.0.0.0 inpost.sending-informpay.xyz
 0.0.0.0 inpost.shipmentproduct-pay.xyz
@@ -22339,6 +22364,7 @@
 0.0.0.0 investloheckle.info
 0.0.0.0 investloving.online
 0.0.0.0 investluwest.info
+0.0.0.0 investmentforbusiness.design
 0.0.0.0 investmento-it.online
 0.0.0.0 investments4all.club
 0.0.0.0 investments-lt.space
@@ -22690,6 +22716,7 @@
 0.0.0.0 ivpgepl.web.app
 0.0.0.0 ivuhuv.com
 0.0.0.0 ivy-imaginary-freckle.glitch.me
+0.0.0.0 iw0590.webwave.dev
 0.0.0.0 iwakute.com
 0.0.0.0 iwcmatua15.digital
 0.0.0.0 iwent-cd.web.app
@@ -23893,6 +23920,7 @@
 0.0.0.0 kwadrans1.pl
 0.0.0.0 kwakwa.com.pl
 0.0.0.0 kwalifikowac.site
+0.0.0.0 kwangwoer.com
 0.0.0.0 kwasnybaseball.site
 0.0.0.0 kybgvf7zzq.digital
 0.0.0.0 kyn3e6.webwave.dev
@@ -25844,6 +25872,7 @@
 0.0.0.0 mingovpljfcm.swathsorsi.ml
 0.0.0.0 mingovpljlie.mutitexpfalechoo.ml
 0.0.0.0 mingovpljmuw.ketpdertantclud.ml
+0.0.0.0 mingovplkdnf.sucbopar.ml
 0.0.0.0 mingovplkpkx.dioturnpestsi.ml
 0.0.0.0 mingovpllaak.oslausiversimp.ml
 0.0.0.0 mingovpllciu.spiroxbar.ml
@@ -25856,12 +25885,14 @@
 0.0.0.0 mingovplppxj.ceirolered.ml
 0.0.0.0 mingovplqaif.vostwohncrim.ml
 0.0.0.0 mingovplqobr.okarak.ml
+0.0.0.0 mingovplqsnv.perrighreta.ml
 0.0.0.0 mingovplqswb.knownolotancoa.ml
 0.0.0.0 mingovplszji.feldmerab.ml
 0.0.0.0 mingovpltkud.tuimeptaderpoltgin.ml
 0.0.0.0 mingovplvlgo.olunimkallero.ml
 0.0.0.0 mingovplwchc.toughsitehalan.ml
 0.0.0.0 mingovplxheq.peacofmu.ml
+0.0.0.0 mingovplxqjc.izdiebreak.ml
 0.0.0.0 mingovplynuq.clognurtco.ml
 0.0.0.0 mingovplyxhy.gaihuara.ml
 0.0.0.0 mini-pl.stat-pr.site
@@ -26990,6 +27021,7 @@
 0.0.0.0 nerminyazar.com
 0.0.0.0 nersaflix-online.preview-domain.com
 0.0.0.0 nerstas.link
+0.0.0.0 nertflpl.com
 0.0.0.0 nertode.space
 0.0.0.0 nervu.ltvsistem.site
 0.0.0.0 nerwa.space
@@ -27054,6 +27086,7 @@
 0.0.0.0 netflxhd.tv-ae.net
 0.0.0.0 netflxpl.com
 0.0.0.0 netflxpld.com
+0.0.0.0 netflxplld.com
 0.0.0.0 netflxpoland.com
 0.0.0.0 netfnix-support-ae90d0.ingress-comporellon.easywp.com
 0.0.0.0 netfpl.com
@@ -29057,6 +29090,7 @@
 0.0.0.0 olx.bdimonet.org
 0.0.0.0 olx.bedikjalepd.org
 0.0.0.0 olx.begjazomen.org
+0.0.0.0 olx.bugfasohuj.org
 0.0.0.0 olx.buying-57849.xyz
 0.0.0.0 olx.byosktin.org
 0.0.0.0 olx.cards2pays.online
@@ -30302,6 +30336,7 @@
 0.0.0.0 olx.umelsoe.org
 0.0.0.0 olx.umowa927455.top
 0.0.0.0 olx.vemikladon.org
+0.0.0.0 olx.verksaloy.org
 0.0.0.0 olx.viajero.live
 0.0.0.0 olx.viajero.net
 0.0.0.0 olx.waleupl.org
@@ -30455,6 +30490,7 @@
 0.0.0.0 one.procytne.site
 0.0.0.0 one.program-pro1.xyz
 0.0.0.0 oneaudio.world
+0.0.0.0 onebademiya.com
 0.0.0.0 onedrive-folder-24d80.web.app
 0.0.0.0 oneinvestfond.online
 0.0.0.0 onekutk.com
@@ -30546,13 +30582,16 @@
 0.0.0.0 onlinelearningup.site
 0.0.0.0 onlinemovies.uno
 0.0.0.0 onlinenews32.com
+0.0.0.0 onlineorganization.design
 0.0.0.0 onlineparibas.us
 0.0.0.0 onlineparibas.xyz
 0.0.0.0 onlineplcenter.site
 0.0.0.0 onlineservicetech.website
 0.0.0.0 onlineshops2021.ru
+0.0.0.0 onlinetrading.design
 0.0.0.0 onlinevod.pl
 0.0.0.0 onlinewideo.pl
+0.0.0.0 onlineworks.design
 0.0.0.0 onlisitiesvd.grweb.site
 0.0.0.0 onlregpro.online
 0.0.0.0 onlyfiles.net
@@ -30739,6 +30778,7 @@
 0.0.0.0 organicble.top
 0.0.0.0 organicmediasolution.com
 0.0.0.0 organiizers.xyz
+0.0.0.0 organizationonline.design
 0.0.0.0 orgesactioner.xyz
 0.0.0.0 originalguiadoscore.com
 0.0.0.0 orillasdelmayo.com
@@ -31188,6 +31228,7 @@
 0.0.0.0 outsleepin.com
 0.0.0.0 outwarredw.pl
 0.0.0.0 outwasting.com
+0.0.0.0 ov846i.webwave.dev
 0.0.0.0 ovcommendsa.gq
 0.0.0.0 overallbetter.com
 0.0.0.0 overbearun.pl
@@ -31352,6 +31393,7 @@
 0.0.0.0 palatablen.xyz
 0.0.0.0 palcewestchnac.site
 0.0.0.0 palenate.com
+0.0.0.0 paleodietmenu.xyz
 0.0.0.0 paleoecolo.com
 0.0.0.0 paliv-cent.protrobit.site
 0.0.0.0 palivo-compan.protrobit.site
@@ -32612,6 +32654,7 @@
 0.0.0.0 plearthon.com
 0.0.0.0 plebiscyt-krakow.v00.pl
 0.0.0.0 plebiscyt-lublin.vot.pl
+0.0.0.0 pleetno.com
 0.0.0.0 pleise.com
 0.0.0.0 plejada24.online
 0.0.0.0 plera.goodlife.host
@@ -34610,6 +34653,8 @@
 0.0.0.0 przechodze-dalej.buzz
 0.0.0.0 przechodze-dalej.icu
 0.0.0.0 przechodze-dalej.live
+0.0.0.0 przechodze-dalej.monster
+0.0.0.0 przechodze-dalej.top
 0.0.0.0 przechowywanie690.rest
 0.0.0.0 przeciwko-covid-19.pl
 0.0.0.0 przeciwny.sportbetsignupcode.com
@@ -34732,6 +34777,7 @@
 0.0.0.0 puronicssanantonio.com
 0.0.0.0 pusatjualtimbangandigital.com
 0.0.0.0 pusfort.xyz
+0.0.0.0 pushfitnessclub.vip
 0.0.0.0 pustka-swiat.click
 0.0.0.0 pusty077.site
 0.0.0.0 puszukiwania-polskie.eu
@@ -34770,6 +34816,7 @@
 0.0.0.0 qajufiu8.xyz
 0.0.0.0 qalleb.xyz
 0.0.0.0 qameer.space
+0.0.0.0 qatarfoundprom.wixsite.com
 0.0.0.0 qavenus.website
 0.0.0.0 qccc.maxiprogs.xyz
 0.0.0.0 qcty-offers.com
@@ -39084,6 +39131,7 @@
 0.0.0.0 trackingvmedinew.is
 0.0.0.0 trackoffnext.top
 0.0.0.0 trackpackteam.co
+0.0.0.0 tracktrace-dpd.ru
 0.0.0.0 tracyfsafranklin.space
 0.0.0.0 trad-khanga.com
 0.0.0.0 tradacki.ga
@@ -39141,6 +39189,7 @@
 0.0.0.0 trading.com
 0.0.0.0 tradingbloom.com
 0.0.0.0 tradingcongress.com
+0.0.0.0 tradingonline.design
 0.0.0.0 trafieniezintegrowany.site
 0.0.0.0 trafindex.com
 0.0.0.0 trafisz.com
@@ -40354,6 +40403,7 @@
 0.0.0.0 vidplayer.pl
 0.0.0.0 vienadq.uno
 0.0.0.0 vienio.store
+0.0.0.0 vierkloe.uno
 0.0.0.0 vietoterceno.cf
 0.0.0.0 view-post.pl
 0.0.0.0 view-recipt.web.app
@@ -44839,6 +44889,7 @@
 0.0.0.0 www.19248-33066.bacloud.info
 0.0.0.0 www.21026.cn
 0.0.0.0 www.21212shipping.site
+0.0.0.0 www.22465-4807.s3.webspace.re
 0.0.0.0 www.26159-dot-custom-history-301500.appspot.com
 0.0.0.0 www.27618-zaplata.com
 0.0.0.0 www.31667.laborartfilm.com
@@ -45762,6 +45813,8 @@
 0.0.0.0 www.alliegrolokcksn.knownolotancoa.ml
 0.0.0.0 www.alliegrolokemkk.mosthiborafgafu.tk
 0.0.0.0 www.alliegrolokpzuw.glorunaporpres.tk
+0.0.0.0 www.alliegrolokshec.izdiebreak.ml
+0.0.0.0 www.alliegrolokulek.doabaldepolcell.ml
 0.0.0.0 www.alliegrolokvgvt.smalfallnalsirup.cf
 0.0.0.0 www.alliegrolokvzvv.listitacepttenspe.ml
 0.0.0.0 www.allinhauling.com
@@ -46617,6 +46670,7 @@
 0.0.0.0 www.bahamasbaby.com
 0.0.0.0 www.bahmach.space
 0.0.0.0 www.bahore.online
+0.0.0.0 www.bai2898a0s-di828a.ptsitev.co.pl
 0.0.0.0 www.baik.plrogeu.site
 0.0.0.0 www.baisopdrohra.tk
 0.0.0.0 www.baitew.pl
@@ -46723,9 +46777,11 @@
 0.0.0.0 www.bankemilenium.top
 0.0.0.0 www.bankemilennium.one
 0.0.0.0 www.bankemillenium.one
+0.0.0.0 www.bankerfinancedefense.online
 0.0.0.0 www.bankfotek.cleverapps.io
 0.0.0.0 www.bankierpl.com
 0.0.0.0 www.banking-bendingobank-au.com
+0.0.0.0 www.banking-ing.pl-id19an1uahd1ibvaidb1vaki19ah1hua91.com
 0.0.0.0 www.banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com
 0.0.0.0 www.banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 0.0.0.0 www.banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com
@@ -46820,6 +46876,7 @@
 0.0.0.0 www.basiakurier.top
 0.0.0.0 www.basic.hospitalmap.website
 0.0.0.0 www.basicproduce.com
+0.0.0.0 www.basigwan.space
 0.0.0.0 www.baskinat.com
 0.0.0.0 www.basmerso.space
 0.0.0.0 www.basophiljo.com
@@ -50267,6 +50324,7 @@
 0.0.0.0 www.d3b08cuq86ta6b.cloudfront.net
 0.0.0.0 www.d3bltzl87xkw0x.cloudfront.net
 0.0.0.0 www.d3bua9i2xra5ab.cloudfront.net
+0.0.0.0 www.d3byrt.webwave.dev
 0.0.0.0 www.d3c0ml0dawhfue.cloudfront.net
 0.0.0.0 www.d3c7o9yfeowi63.cloudfront.net
 0.0.0.0 www.d3c8a2wpk66um4.cloudfront.net
@@ -51199,6 +51257,7 @@
 0.0.0.0 www.de1.program-capital.site
 0.0.0.0 www.de1ivery.6597451.xyz
 0.0.0.0 www.de7o82mzreipe.cloudfront.net
+0.0.0.0 www.de727a98-b27a78a.marek914.co.pl
 0.0.0.0 www.de.newinformacija.xyz
 0.0.0.0 www.de.program-capital.site
 0.0.0.0 www.deadel.pl
@@ -51252,6 +51311,7 @@
 0.0.0.0 www.deg3cjlesbqcg.cloudfront.net
 0.0.0.0 www.deg.ltd-programtop.xyz
 0.0.0.0 www.degoo.xyz
+0.0.0.0 www.deh0rb.webwave.dev
 0.0.0.0 www.dehasaagency.buzz
 0.0.0.0 www.dehlees.com
 0.0.0.0 www.deinorg.com
@@ -51717,9 +51777,12 @@
 0.0.0.0 www.dhl-b70571.ingress-erytho.ewp.live
 0.0.0.0 www.dhl-de1395.scuflicharthewer.ml
 0.0.0.0 www.dhl-de1492.swathsorsi.ml
+0.0.0.0 www.dhl-de1655.izdiebreak.ml
 0.0.0.0 www.dhl-de1810.listitacepttenspe.ml
 0.0.0.0 www.dhl-de2561.quevasuhard.ml
 0.0.0.0 www.dhl-de2845.ramkcompy.ml
+0.0.0.0 www.dhl-de3070.statemap.ml
+0.0.0.0 www.dhl-de3171.guemapdownsedenan.ml
 0.0.0.0 www.dhl-de3285.lankoron.ml
 0.0.0.0 www.dhl-de4475.mutitexpfalechoo.ml
 0.0.0.0 www.dhl-de4964.sniferam.ml
@@ -51731,12 +51794,14 @@
 0.0.0.0 www.dhl-de8179.dioturnpestsi.ml
 0.0.0.0 www.dhl-de8645.compgalamore.ml
 0.0.0.0 www.dhl-de8739.gaihuara.ml
+0.0.0.0 www.dhl-de8965.risepon.ml
 0.0.0.0 www.dhl-de9144.okarak.ml
 0.0.0.0 www.dhl-de9413.winblawgamoulneumo.ml
 0.0.0.0 www.dhl-de9504.granorbotrola.ml
 0.0.0.0 www.dhl-de9905.inraconla.ml
 0.0.0.0 www.dhl-paket-express-international.cfolks.pl
 0.0.0.0 www.dhl-parcel.co
+0.0.0.0 www.dhl.14675.cross-gates.uk
 0.0.0.0 www.dhl.express.faktura.lahuertadelsegura.com
 0.0.0.0 www.dhl.get-a.space
 0.0.0.0 www.dhl.lotnicze.squaredesign.pl
@@ -51745,14 +51810,17 @@
 0.0.0.0 www.dhl.tracking.sdelivery.net
 0.0.0.0 www.dhlbazeos.tiokickrenimb.cf
 0.0.0.0 www.dhlfh1l8xj4e6.cloudfront.net
+0.0.0.0 www.dhlukbaqi.doabaldepolcell.ml
 0.0.0.0 www.dhlukbvti.listitacepttenspe.ml
 0.0.0.0 www.dhlukfnyl.clognurtco.ml
+0.0.0.0 www.dhlukfxdq.guemapdownsedenan.ml
 0.0.0.0 www.dhlukhsbq.winblawgamoulneumo.ml
 0.0.0.0 www.dhlukmdwj.tesnitenaho.ml
 0.0.0.0 www.dhlukmhyp.nuetever.ml
 0.0.0.0 www.dhlukmxqm.oralderpo.ml
 0.0.0.0 www.dhluknfsb.lankoron.ml
 0.0.0.0 www.dhlukoubm.peacofmu.ml
+0.0.0.0 www.dhlukrxhm.statemap.ml
 0.0.0.0 www.dhluksiph.okarak.ml
 0.0.0.0 www.dhluktbvo.quevasuhard.ml
 0.0.0.0 www.dhluktsbh.erreto.ml
@@ -52265,6 +52333,7 @@
 0.0.0.0 www.dop.prosysb.site
 0.0.0.0 www.dopaslassis.com
 0.0.0.0 www.dopduv87yijyr.cloudfront.net
+0.0.0.0 www.doplac24.pl
 0.0.0.0 www.dopuszczalnyudekoruj.site
 0.0.0.0 www.dopyop.com
 0.0.0.0 www.doradca318.rest
@@ -52635,6 +52704,7 @@
 0.0.0.0 www.dpdpl-info.myparcel-orderinfo.xyz
 0.0.0.0 www.dpdpl-receipt.xyz
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
+0.0.0.0 www.dpdplbxnn.statemap.ml
 0.0.0.0 www.dpdpldghz.mutitexpfalechoo.ml
 0.0.0.0 www.dpdplglgx.listitacepttenspe.ml
 0.0.0.0 www.dpdplhmea.clognurtco.ml
@@ -52654,7 +52724,9 @@
 0.0.0.0 www.dpdpltwab.gaihuara.ml
 0.0.0.0 www.dpdpltxzx.hecello.ml
 0.0.0.0 www.dpdpluirh.erreto.ml
+0.0.0.0 www.dpdplvdvn.guemapdownsedenan.ml
 0.0.0.0 www.dpdplwcrn.tesnitenaho.ml
+0.0.0.0 www.dpdplwnky.izdiebreak.ml
 0.0.0.0 www.dpdplwwuu.tupixmoupo.ml
 0.0.0.0 www.dpdpoland.orderingdlvry-courierpoland.xyz
 0.0.0.0 www.dpdrmo.geosetthudofak.cf
@@ -55333,6 +55405,7 @@
 0.0.0.0 www.gisz.net.pl
 0.0.0.0 www.gitconvex.com
 0.0.0.0 www.gitepd.com
+0.0.0.0 www.githubkonkurs.000webhostapp.com
 0.0.0.0 www.gitsponsored.com
 0.0.0.0 www.giuatpzhd9dytiw.choobin-co.ir
 0.0.0.0 www.giuliodrei.it
@@ -56223,6 +56296,7 @@
 0.0.0.0 www.hh.ppaco.xyz
 0.0.0.0 www.hhi.gaznf.xyz
 0.0.0.0 www.hhu.fondblagorus.xyz
+0.0.0.0 www.hi8287a9-t8282.edwardkolek.pl
 0.0.0.0 www.hi.anprogramonline.site
 0.0.0.0 www.hiahhfghjrjehs7.web.app
 0.0.0.0 www.hiahhfghjrjehs9.web.app
@@ -60355,6 +60429,7 @@
 0.0.0.0 www.inpost.pronartek.org
 0.0.0.0 www.inpost.qismfl.org
 0.0.0.0 www.inpost.rawonekt.org
+0.0.0.0 www.inpost.sedanoxo.click
 0.0.0.0 www.inpost.send-productuser.xyz
 0.0.0.0 www.inpost.sending-informpay.xyz
 0.0.0.0 www.inpost.shipmentproduct-pay.xyz
@@ -60797,6 +60872,7 @@
 0.0.0.0 www.investloheckle.info
 0.0.0.0 www.investloving.online
 0.0.0.0 www.investluwest.info
+0.0.0.0 www.investmentforbusiness.design
 0.0.0.0 www.investmento-it.online
 0.0.0.0 www.investments4all.club
 0.0.0.0 www.investments-lt.space
@@ -61148,6 +61224,7 @@
 0.0.0.0 www.ivpgepl.web.app
 0.0.0.0 www.ivuhuv.com
 0.0.0.0 www.ivy-imaginary-freckle.glitch.me
+0.0.0.0 www.iw0590.webwave.dev
 0.0.0.0 www.iwakute.com
 0.0.0.0 www.iwcmatua15.digital
 0.0.0.0 www.iwent-cd.web.app
@@ -62351,6 +62428,7 @@
 0.0.0.0 www.kwadrans1.pl
 0.0.0.0 www.kwakwa.com.pl
 0.0.0.0 www.kwalifikowac.site
+0.0.0.0 www.kwangwoer.com
 0.0.0.0 www.kwasnybaseball.site
 0.0.0.0 www.kybgvf7zzq.digital
 0.0.0.0 www.kyn3e6.webwave.dev
@@ -64302,6 +64380,7 @@
 0.0.0.0 www.mingovpljfcm.swathsorsi.ml
 0.0.0.0 www.mingovpljlie.mutitexpfalechoo.ml
 0.0.0.0 www.mingovpljmuw.ketpdertantclud.ml
+0.0.0.0 www.mingovplkdnf.sucbopar.ml
 0.0.0.0 www.mingovplkpkx.dioturnpestsi.ml
 0.0.0.0 www.mingovpllaak.oslausiversimp.ml
 0.0.0.0 www.mingovpllciu.spiroxbar.ml
@@ -64314,12 +64393,14 @@
 0.0.0.0 www.mingovplppxj.ceirolered.ml
 0.0.0.0 www.mingovplqaif.vostwohncrim.ml
 0.0.0.0 www.mingovplqobr.okarak.ml
+0.0.0.0 www.mingovplqsnv.perrighreta.ml
 0.0.0.0 www.mingovplqswb.knownolotancoa.ml
 0.0.0.0 www.mingovplszji.feldmerab.ml
 0.0.0.0 www.mingovpltkud.tuimeptaderpoltgin.ml
 0.0.0.0 www.mingovplvlgo.olunimkallero.ml
 0.0.0.0 www.mingovplwchc.toughsitehalan.ml
 0.0.0.0 www.mingovplxheq.peacofmu.ml
+0.0.0.0 www.mingovplxqjc.izdiebreak.ml
 0.0.0.0 www.mingovplynuq.clognurtco.ml
 0.0.0.0 www.mingovplyxhy.gaihuara.ml
 0.0.0.0 www.mini-pl.stat-pr.site
@@ -65449,6 +65530,7 @@
 0.0.0.0 www.nerminyazar.com
 0.0.0.0 www.nersaflix-online.preview-domain.com
 0.0.0.0 www.nerstas.link
+0.0.0.0 www.nertflpl.com
 0.0.0.0 www.nertode.space
 0.0.0.0 www.nervu.ltvsistem.site
 0.0.0.0 www.nerwa.space
@@ -65513,6 +65595,7 @@
 0.0.0.0 www.netflxhd.tv-ae.net
 0.0.0.0 www.netflxpl.com
 0.0.0.0 www.netflxpld.com
+0.0.0.0 www.netflxplld.com
 0.0.0.0 www.netflxpoland.com
 0.0.0.0 www.netfnix-support-ae90d0.ingress-comporellon.easywp.com
 0.0.0.0 www.netfpl.com
@@ -67516,6 +67599,7 @@
 0.0.0.0 www.olx.bdimonet.org
 0.0.0.0 www.olx.bedikjalepd.org
 0.0.0.0 www.olx.begjazomen.org
+0.0.0.0 www.olx.bugfasohuj.org
 0.0.0.0 www.olx.buying-57849.xyz
 0.0.0.0 www.olx.byosktin.org
 0.0.0.0 www.olx.cards2pays.online
@@ -68761,6 +68845,7 @@
 0.0.0.0 www.olx.umelsoe.org
 0.0.0.0 www.olx.umowa927455.top
 0.0.0.0 www.olx.vemikladon.org
+0.0.0.0 www.olx.verksaloy.org
 0.0.0.0 www.olx.viajero.live
 0.0.0.0 www.olx.viajero.net
 0.0.0.0 www.olx.waleupl.org
@@ -68914,6 +68999,7 @@
 0.0.0.0 www.one.procytne.site
 0.0.0.0 www.one.program-pro1.xyz
 0.0.0.0 www.oneaudio.world
+0.0.0.0 www.onebademiya.com
 0.0.0.0 www.onedrive-folder-24d80.web.app
 0.0.0.0 www.oneinvestfond.online
 0.0.0.0 www.onekutk.com
@@ -69005,13 +69091,16 @@
 0.0.0.0 www.onlinelearningup.site
 0.0.0.0 www.onlinemovies.uno
 0.0.0.0 www.onlinenews32.com
+0.0.0.0 www.onlineorganization.design
 0.0.0.0 www.onlineparibas.us
 0.0.0.0 www.onlineparibas.xyz
 0.0.0.0 www.onlineplcenter.site
 0.0.0.0 www.onlineservicetech.website
 0.0.0.0 www.onlineshops2021.ru
+0.0.0.0 www.onlinetrading.design
 0.0.0.0 www.onlinevod.pl
 0.0.0.0 www.onlinewideo.pl
+0.0.0.0 www.onlineworks.design
 0.0.0.0 www.onlisitiesvd.grweb.site
 0.0.0.0 www.onlregpro.online
 0.0.0.0 www.onlyfiles.net
@@ -69198,6 +69287,7 @@
 0.0.0.0 www.organicble.top
 0.0.0.0 www.organicmediasolution.com
 0.0.0.0 www.organiizers.xyz
+0.0.0.0 www.organizationonline.design
 0.0.0.0 www.orgesactioner.xyz
 0.0.0.0 www.originalguiadoscore.com
 0.0.0.0 www.orillasdelmayo.com
@@ -69647,6 +69737,7 @@
 0.0.0.0 www.outsleepin.com
 0.0.0.0 www.outwarredw.pl
 0.0.0.0 www.outwasting.com
+0.0.0.0 www.ov846i.webwave.dev
 0.0.0.0 www.ovcommendsa.gq
 0.0.0.0 www.overallbetter.com
 0.0.0.0 www.overbearun.pl
@@ -69811,6 +69902,7 @@
 0.0.0.0 www.palatablen.xyz
 0.0.0.0 www.palcewestchnac.site
 0.0.0.0 www.palenate.com
+0.0.0.0 www.paleodietmenu.xyz
 0.0.0.0 www.paleoecolo.com
 0.0.0.0 www.paliv-cent.protrobit.site
 0.0.0.0 www.palivo-compan.protrobit.site
@@ -70898,6 +70990,7 @@
 0.0.0.0 www.plearthon.com
 0.0.0.0 www.plebiscyt-krakow.v00.pl
 0.0.0.0 www.plebiscyt-lublin.vot.pl
+0.0.0.0 www.pleetno.com
 0.0.0.0 www.pleise.com
 0.0.0.0 www.plejada24.online
 0.0.0.0 www.plera.goodlife.host
@@ -72896,6 +72989,8 @@
 0.0.0.0 www.przechodze-dalej.buzz
 0.0.0.0 www.przechodze-dalej.icu
 0.0.0.0 www.przechodze-dalej.live
+0.0.0.0 www.przechodze-dalej.monster
+0.0.0.0 www.przechodze-dalej.top
 0.0.0.0 www.przechowywanie690.rest
 0.0.0.0 www.przeciwko-covid-19.pl
 0.0.0.0 www.przeciwny.sportbetsignupcode.com
@@ -73018,6 +73113,7 @@
 0.0.0.0 www.puronicssanantonio.com
 0.0.0.0 www.pusatjualtimbangandigital.com
 0.0.0.0 www.pusfort.xyz
+0.0.0.0 www.pushfitnessclub.vip
 0.0.0.0 www.pustka-swiat.click
 0.0.0.0 www.pusty077.site
 0.0.0.0 www.puszukiwania-polskie.eu
@@ -73056,6 +73152,7 @@
 0.0.0.0 www.qajufiu8.xyz
 0.0.0.0 www.qalleb.xyz
 0.0.0.0 www.qameer.space
+0.0.0.0 www.qatarfoundprom.wixsite.com
 0.0.0.0 www.qavenus.website
 0.0.0.0 www.qccc.maxiprogs.xyz
 0.0.0.0 www.qcty-offers.com
@@ -77370,6 +77467,7 @@
 0.0.0.0 www.trackingvmedinew.is
 0.0.0.0 www.trackoffnext.top
 0.0.0.0 www.trackpackteam.co
+0.0.0.0 www.tracktrace-dpd.ru
 0.0.0.0 www.tracyfsafranklin.space
 0.0.0.0 www.trad-khanga.com
 0.0.0.0 www.tradacki.ga
@@ -77427,6 +77525,7 @@
 0.0.0.0 www.trading.com
 0.0.0.0 www.tradingbloom.com
 0.0.0.0 www.tradingcongress.com
+0.0.0.0 www.tradingonline.design
 0.0.0.0 www.trafieniezintegrowany.site
 0.0.0.0 www.trafindex.com
 0.0.0.0 www.trafisz.com
@@ -78640,6 +78739,7 @@
 0.0.0.0 www.vidplayer.pl
 0.0.0.0 www.vienadq.uno
 0.0.0.0 www.vienio.store
+0.0.0.0 www.vierkloe.uno
 0.0.0.0 www.vietoterceno.cf
 0.0.0.0 www.view-post.pl
 0.0.0.0 www.view-recipt.web.app
@@ -83041,6 +83141,7 @@
 0.0.0.0 www.zamowienie.info
 0.0.0.0 www.zamowienie.website
 0.0.0.0 www.zamowienietowaru.com
+0.0.0.0 www.zamowieniewegla.com
 0.0.0.0 www.zamowilienie-ollx34.predsesifi.cf
 0.0.0.0 www.zamowljeniie-ollx44.weitunha.cf
 0.0.0.0 www.zancallump.com
@@ -84131,6 +84232,7 @@
 0.0.0.0 zamowienie.info
 0.0.0.0 zamowienie.website
 0.0.0.0 zamowienietowaru.com
+0.0.0.0 zamowieniewegla.com
 0.0.0.0 zamowilienie-ollx34.predsesifi.cf
 0.0.0.0 zamowljeniie-ollx44.weitunha.cf
 0.0.0.0 zancallump.com

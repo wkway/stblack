@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-01-02 17:03:12 (UTC)                      #
+# Last updated: 2023-01-03 17:09:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -16,6 +16,8 @@
 127.0.0.1	360.lcy2zzx.pw
 127.0.0.1	360down7.miiyun.cn
 127.0.0.1	5d1b3.shrubs.emptyisland.pics
+127.0.0.1	94greentv.com
+127.0.0.1	a.angel-tn.idv.tw
 127.0.0.1	a.dowgmua.com
 127.0.0.1	aaa.ajn322dd.com
 127.0.0.1	abbmedikal.com
@@ -54,6 +56,7 @@
 127.0.0.1	areyoulivingwell.com
 127.0.0.1	arlation.com
 127.0.0.1	arriaza.net
+127.0.0.1	artos.network
 127.0.0.1	asgharintl.net
 127.0.0.1	asitaliado.com
 127.0.0.1	assets.dsztfso.cn
@@ -71,6 +74,7 @@
 127.0.0.1	beachwood.ug
 127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beeabouttown.com
+127.0.0.1	beingvegetarian.org
 127.0.0.1	bencevendeghaz.hu
 127.0.0.1	benwellgroup.co.uk
 127.0.0.1	bestwebdesignerz.com
@@ -102,10 +106,12 @@
 127.0.0.1	bwsengineering.co.za
 127.0.0.1	byh.ajn322bb.com
 127.0.0.1	bytesendesign.nl
+127.0.0.1	cad29.shrubs.emptyisland.pics
 127.0.0.1	caioaraujo.vip
 127.0.0.1	canconsulting.in
 127.0.0.1	careers-info.com
 127.0.0.1	cargoconnect.online
+127.0.0.1	casamuseoayerbe.co
 127.0.0.1	casepredict.com
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdasspaints.com
@@ -136,6 +142,7 @@
 127.0.0.1	crashedff.xyz
 127.0.0.1	crecerco.com
 127.0.0.1	crm.roodraksh.co.in
+127.0.0.1	cronoatletas.uy
 127.0.0.1	ctel.com.my
 127.0.0.1	cursodeparapsicologia.org
 127.0.0.1	d.tocat.co
@@ -200,7 +207,6 @@
 127.0.0.1	estiloymadera.com.py
 127.0.0.1	etisalatbuyback.com
 127.0.0.1	evashopping.thietkewebsitechuanseo.com
-127.0.0.1	ex3mall.com
 127.0.0.1	exilum.com
 127.0.0.1	exitofestas.com.br
 127.0.0.1	fabiolatreml.com.br
@@ -294,9 +300,9 @@
 127.0.0.1	lastimaners.ug
 127.0.0.1	lceventos.net
 127.0.0.1	leasiacherise.com
-127.0.0.1	lennart.serv.se
 127.0.0.1	letsggoo.com
 127.0.0.1	library.arihantmbainstitute.ac.in
+127.0.0.1	lifebotl.com
 127.0.0.1	lindenprofessionalservices.com
 127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	linkvilleplayers.org
@@ -318,6 +324,7 @@
 127.0.0.1	maxximbrasil.com
 127.0.0.1	mbgrm.com
 127.0.0.1	mcapublicschool.com
+127.0.0.1	medmompharma.com
 127.0.0.1	meeweb.com
 127.0.0.1	mendezplumbingservicellc.com
 127.0.0.1	meonhanong.com
@@ -334,7 +341,6 @@
 127.0.0.1	mnh.ajn322bb.com
 127.0.0.1	moarkgcc.com
 127.0.0.1	moorworld.com
-127.0.0.1	mssresource.com
 127.0.0.1	mulmatdol.com
 127.0.0.1	multiplace.com.ar
 127.0.0.1	multivisionapps.com
@@ -346,7 +352,6 @@
 127.0.0.1	mysura.it
 127.0.0.1	mytheacademy.com
 127.0.0.1	namthaibinh.net
-127.0.0.1	nerdtaku.com
 127.0.0.1	networkwheels.co.za
 127.0.0.1	newdevjyq.devjyq.com
 127.0.0.1	newgoplus.com
@@ -375,7 +380,6 @@
 127.0.0.1	pablobrothel.com.ar
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	parallel.rockvideos.at
-127.0.0.1	parcelinvoice.com
 127.0.0.1	parrotbay.net
 127.0.0.1	paste-bin.xyz
 127.0.0.1	pataphysics.net.au
@@ -385,6 +389,7 @@
 127.0.0.1	petparadise.biz
 127.0.0.1	pgn-dkppsby.com
 127.0.0.1	pgtsouq.com
+127.0.0.1	pilesfistulasurgery.com
 127.0.0.1	pns.org.pk
 127.0.0.1	ponizinny.nl
 127.0.0.1	posmicrosystems.com
@@ -395,6 +400,7 @@
 127.0.0.1	primefind.com
 127.0.0.1	prisma.ae
 127.0.0.1	privacy-tools-for-you-453.com
+127.0.0.1	projects.affordableimage.com
 127.0.0.1	protechasia.com
 127.0.0.1	psychologistsindia.net
 127.0.0.1	punjabdevelopersassociation.com.pk
@@ -431,11 +437,11 @@
 127.0.0.1	scientific.pk
 127.0.0.1	sealicensing.com
 127.0.0.1	secretmindcontrol.com
-127.0.0.1	senbiaojita.com
 127.0.0.1	seniorweekoc.net
 127.0.0.1	server.easysalepage.in.th
 127.0.0.1	server.toeicswt.co.kr
 127.0.0.1	servproviders.com.br
+127.0.0.1	shahu66.com
 127.0.0.1	shaikut.com
 127.0.0.1	shalimarlpg.com
 127.0.0.1	shipminttracking.net
@@ -463,7 +469,6 @@
 127.0.0.1	sunpos.in
 127.0.0.1	superstar.tibolts.co.uk
 127.0.0.1	support.clz.kr
-127.0.0.1	systemctl.me
 127.0.0.1	t.honker.info
 127.0.0.1	tara.globodyinc.biz
 127.0.0.1	tecni-soft.com
@@ -471,6 +476,7 @@
 127.0.0.1	tengfeidn.com
 127.0.0.1	test.typoten.com
 127.0.0.1	thecentury.edu.vn
+127.0.0.1	thedashami.com
 127.0.0.1	thedoctorsgym.net
 127.0.0.1	thefeathercompany.co
 127.0.0.1	thegift.live
@@ -481,19 +487,19 @@
 127.0.0.1	tianangdep.com
 127.0.0.1	tiemvangngoctham.com
 127.0.0.1	timamollo.co.za
-127.0.0.1	tiqany.net
 127.0.0.1	tmglawpalawan.com
 127.0.0.1	tobecoaching.co.uk
-127.0.0.1	tonydong.com
 127.0.0.1	topsepatu.com
 127.0.0.1	torresquinterocorp.com
 127.0.0.1	training.globodyinc.biz
+127.0.0.1	travelwithmanta.co.za
 127.0.0.1	tridencheats.com
 127.0.0.1	trieutin.com
 127.0.0.1	udboxes.com
 127.0.0.1	ukguk71.ru
 127.0.0.1	unicorpbrunei.com
 127.0.0.1	unisoftcc.com
+127.0.0.1	universecity.land
 127.0.0.1	unlockingdreamsfinancial.com
 127.0.0.1	update.cg100iii.com
 127.0.0.1	uxsingh.com
@@ -534,6 +540,7 @@
 127.0.0.1	www.cesasin.com.ar
 127.0.0.1	www.chacaltattoo.com.br
 127.0.0.1	www.chawkyfrenn.com
+127.0.0.1	www.chemsky.tn
 127.0.0.1	www.cisnc.it
 127.0.0.1	www.conectiva.pe
 127.0.0.1	www.dacui.online
@@ -582,7 +589,6 @@
 127.0.0.1	www.universalcustomdesigns.com
 127.0.0.1	www.vivacuscoperu.com
 127.0.0.1	www.weinsteincounseling.com
-127.0.0.1	www.ysbaojia.com
 127.0.0.1	x-soft.re
 127.0.0.1	x.233sy.cn
 127.0.0.1	xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
@@ -600,4 +606,4 @@
 127.0.0.1	zillmereautomotive.com.au
 127.0.0.1	zqpispa.it
 127.0.0.1	ztekkhosting.com
-# Number of entries: 594
+# Number of entries: 600
