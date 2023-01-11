@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-01-10 17:07:11 (UTC)                      #
+# Last updated: 2023-01-11 17:14:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,13 +8,14 @@
 #
 127.0.0.1	02coverlab.com
 127.0.0.1	1008691.com
+127.0.0.1	10239.asset.tradingvein.xyz
 127.0.0.1	11degrees.org
-127.0.0.1	15380.shrubs.emptyisland.pics
 127.0.0.1	1ecosolution.it
 127.0.0.1	1h3art.me
 127.0.0.1	33rdderryscouts.com
 127.0.0.1	360.lcy2zzx.pw
 127.0.0.1	360down7.miiyun.cn
+127.0.0.1	5f9a4.asset.tradingvein.xyz
 127.0.0.1	88c3a.shrubs.emptyisland.pics
 127.0.0.1	a.angel-tn.idv.tw
 127.0.0.1	aaa.ajn322dd.com
@@ -45,22 +46,23 @@
 127.0.0.1	amrecafrica.org
 127.0.0.1	andrewpharma.com
 127.0.0.1	angel.bk.idv.tw
+127.0.0.1	anguklaw.com
 127.0.0.1	ankatiyatro.com
+127.0.0.1	anydesk-software.site
 127.0.0.1	anydeskdownload.icu
 127.0.0.1	aosafrica.co.za
 127.0.0.1	api-ms.cobainaja.id
 127.0.0.1	api.52kkg.com
 127.0.0.1	apkcehennemi.app
-127.0.0.1	apple-service93.ru
 127.0.0.1	apps.saintsoporte.com
 127.0.0.1	aquapools.in
 127.0.0.1	archives-program.com
 127.0.0.1	areyoulivingwell.com
 127.0.0.1	arlation.com
 127.0.0.1	arriaza.net
-127.0.0.1	asgharintl.net
 127.0.0.1	asitaliado.com
 127.0.0.1	assets.dsztfso.cn
+127.0.0.1	asu.com.vn
 127.0.0.1	atomm.com.br
 127.0.0.1	awiresoftware.xyz
 127.0.0.1	azmeasurement.com
@@ -70,7 +72,9 @@
 127.0.0.1	bangplamahospital.com
 127.0.0.1	bawatingbarter.com
 127.0.0.1	bbia.co.uk
+127.0.0.1	be02b.asset.tradingvein.xyz
 127.0.0.1	beachwood.ug
+127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beeabouttown.com
 127.0.0.1	beingvegetarian.org
 127.0.0.1	bencevendeghaz.hu
@@ -81,6 +85,7 @@
 127.0.0.1	bevos-training.com
 127.0.0.1	bigmikesupplies.co.za
 127.0.0.1	bigs.bikershop.biz
+127.0.0.1	bigsale100.com
 127.0.0.1	bikkviz.com
 127.0.0.1	bitlog.shop
 127.0.0.1	blacktequila.com.br
@@ -144,6 +149,7 @@
 127.0.0.1	ctel.com.my
 127.0.0.1	cursodeparapsicologia.org
 127.0.0.1	d.tocat.co
+127.0.0.1	d4719.shrubs.emptyisland.pics
 127.0.0.1	da.alibuf.com
 127.0.0.1	dacsandongthapmuoi.vn
 127.0.0.1	dailynation.info
@@ -168,6 +174,7 @@
 127.0.0.1	devoterfo.com
 127.0.0.1	dhnconstrucciones.com.ar
 127.0.0.1	diarioinformador.com
+127.0.0.1	dist.discoappio.com
 127.0.0.1	diweshop.com
 127.0.0.1	dl.1003b.56a.com
 127.0.0.1	dl.9xu.com
@@ -182,10 +189,10 @@
 127.0.0.1	download.pdf00.cn
 127.0.0.1	downloadpdf-fattura.de
 127.0.0.1	downloads.bcweb.org.uk
+127.0.0.1	drcosti.com
 127.0.0.1	drhanneserasmus.co.za
 127.0.0.1	drive.google.com.it-barcelona.com
 127.0.0.1	dukaree.com
-127.0.0.1	dynapowerusa.com
 127.0.0.1	e-commerce.saleensuporte.com.br
 127.0.0.1	e-hemsire.net
 127.0.0.1	easybrand.vn
@@ -235,7 +242,6 @@
 127.0.0.1	harperhouseproducts.com
 127.0.0.1	harshotz.com
 127.0.0.1	hausseeblickscheidegg.de
-127.0.0.1	hellomr.observer
 127.0.0.1	helmprecision.com
 127.0.0.1	herchinfitout.com.sg
 127.0.0.1	hideme-vpn.com
@@ -247,13 +253,11 @@
 127.0.0.1	howebeautiful.com
 127.0.0.1	hr2019.vrcom7.com
 127.0.0.1	hrfrance.net
-127.0.0.1	hseda.com
 127.0.0.1	htownbars.com
 127.0.0.1	hugersi.com
 127.0.0.1	hunggiang.vn
 127.0.0.1	hybrid-mma.com
 127.0.0.1	i-dots.com
-127.0.0.1	idacoromania.ro
 127.0.0.1	ignitenews24.com
 127.0.0.1	imbueautoworx.co.za
 127.0.0.1	imit.ac.in
@@ -263,7 +267,6 @@
 127.0.0.1	indrani-therapy.com
 127.0.0.1	indrasbikaner.com
 127.0.0.1	infiniteloop.co.in
-127.0.0.1	ingproyectdelacosta.com
 127.0.0.1	janiking.xyz
 127.0.0.1	japlatec.com
 127.0.0.1	jcedu.org
@@ -308,6 +311,7 @@
 127.0.0.1	livetrack.in
 127.0.0.1	lizzhotel.com.br
 127.0.0.1	llo.eiwagggg.com
+127.0.0.1	login.securewares.site
 127.0.0.1	loja.eulillian.com
 127.0.0.1	longevitymeats.com
 127.0.0.1	lopespublicidade.com
@@ -324,7 +328,6 @@
 127.0.0.1	maxximbrasil.com
 127.0.0.1	mbgrm.com
 127.0.0.1	mcapublicschool.com
-127.0.0.1	medmompharma.com
 127.0.0.1	meeweb.com
 127.0.0.1	mendezplumbingservicellc.com
 127.0.0.1	meonhanong.com
@@ -340,6 +343,7 @@
 127.0.0.1	mnh.ajn322bb.com
 127.0.0.1	moarkgcc.com
 127.0.0.1	moorworld.com
+127.0.0.1	mudaongoc.xyz
 127.0.0.1	mulmatdol.com
 127.0.0.1	multiplace.com.ar
 127.0.0.1	multivisionapps.com
@@ -380,6 +384,7 @@
 127.0.0.1	pablobrothel.com.ar
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	parallel.rockvideos.at
+127.0.0.1	parcelinvoice.com
 127.0.0.1	paris.newemprirez.com
 127.0.0.1	parrotbay.net
 127.0.0.1	paste-bin.xyz
@@ -391,6 +396,7 @@
 127.0.0.1	petparadise.biz
 127.0.0.1	pgn-dkppsby.com
 127.0.0.1	pilesfistulasurgery.com
+127.0.0.1	pink99.com
 127.0.0.1	pipi.orxy.online
 127.0.0.1	pns.org.pk
 127.0.0.1	ponizinny.nl
@@ -415,6 +421,7 @@
 127.0.0.1	qmsled.com
 127.0.0.1	radiantneetacademy.in
 127.0.0.1	rainbowscans.com
+127.0.0.1	ramactools.net
 127.0.0.1	redmag-dz.com
 127.0.0.1	reifenquick.de
 127.0.0.1	relaxindulge.co.nz
@@ -451,7 +458,6 @@
 127.0.0.1	skytecheducation.in
 127.0.0.1	sociallysavvyseo.com
 127.0.0.1	soft.110route.com
-127.0.0.1	solenica.com
 127.0.0.1	soporteindustrialmexico.com
 127.0.0.1	sourcecool.com
 127.0.0.1	sox-photo.com
@@ -466,6 +472,7 @@
 127.0.0.1	stayinoceancitymd.com
 127.0.0.1	strassenburgpharma.biz
 127.0.0.1	streamtvbox.net
+127.0.0.1	sugandhvatika.com
 127.0.0.1	sunpos.in
 127.0.0.1	superstar.tibolts.co.uk
 127.0.0.1	support.clz.kr
@@ -485,7 +492,6 @@
 127.0.0.1	thekassia.co.uk
 127.0.0.1	thetechdevelopers.com
 127.0.0.1	thewebserv.com
-127.0.0.1	thrifasonline.net
 127.0.0.1	thuexevanphong.com
 127.0.0.1	tianangdep.com
 127.0.0.1	tiemvangngoctham.com
@@ -499,6 +505,7 @@
 127.0.0.1	travelwithmanta.co.za
 127.0.0.1	tridencheats.com
 127.0.0.1	trieutin.com
+127.0.0.1	udboxes.com
 127.0.0.1	ukguk71.ru
 127.0.0.1	unicorpbrunei.com
 127.0.0.1	unisoftcc.com
@@ -512,6 +519,7 @@
 127.0.0.1	vipysknik.by
 127.0.0.1	virtualbox.greengoblin.net
 127.0.0.1	virtualbse.com
+127.0.0.1	vmfd.in
 127.0.0.1	vocoptions.net
 127.0.0.1	w1.zypaint.com
 127.0.0.1	walkindrivetoday.com
@@ -519,6 +527,7 @@
 127.0.0.1	web.geomegasoft.net
 127.0.0.1	webhoanggia.com
 127.0.0.1	webs-up.com
+127.0.0.1	weinsteincounseling.com
 127.0.0.1	wharfehealthcare.org
 127.0.0.1	whatelles.nl
 127.0.0.1	whitegames.wepudas.guru
@@ -547,6 +556,7 @@
 127.0.0.1	www.dental.xiaoxiao.media
 127.0.0.1	www.destinocuenca.com
 127.0.0.1	www.doctorcasenave.com
+127.0.0.1	www.dudajevagatve.lv
 127.0.0.1	www.empowercareer.com
 127.0.0.1	www.enc-tech.com
 127.0.0.1	www.fcstradesolutions.com
@@ -562,11 +572,11 @@
 127.0.0.1	www.ipcishop.com
 127.0.0.1	www.isurucabs.lk
 127.0.0.1	www.izeltelekom.com
-127.0.0.1	www.ks.cn
 127.0.0.1	www.manchesterot.co.uk
 127.0.0.1	www.maxmoney.com
 127.0.0.1	www.mobiles-photostudio.com
 127.0.0.1	www.moninediy.com
+127.0.0.1	www.movingloads.com
 127.0.0.1	www.neshuafoods.com
 127.0.0.1	www.nipunpharmaskill.com
 127.0.0.1	www.opolis.io
@@ -581,12 +591,14 @@
 127.0.0.1	www.skyscan.com
 127.0.0.1	www.starcountry.net
 127.0.0.1	www.sunglassesninja.com
+127.0.0.1	www.teeoffinscotland.com
 127.0.0.1	www.time4unow.com
 127.0.0.1	www.tractorandinas.com
 127.0.0.1	www.TradeInsights.net
 127.0.0.1	www.tvculturaourofino.com.br
 127.0.0.1	www.universalcustomdesigns.com
 127.0.0.1	www.vivacuscoperu.com
+127.0.0.1	www.weinsteincounseling.com
 127.0.0.1	www.ysbaojia.com
 127.0.0.1	x-soft.re
 127.0.0.1	x.233sy.cn
@@ -604,4 +616,4 @@
 127.0.0.1	zhivir.com
 127.0.0.1	zolotayavitrina.com
 127.0.0.1	ztekkhosting.com
-# Number of entries: 598
+# Number of entries: 610
