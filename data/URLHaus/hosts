@@ -1,15 +1,15 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-01-24 17:04:31 (UTC)                      #
+# Last updated: 2023-01-25 17:07:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1	02coverlab.com
+127.0.0.1	1008691.com
 127.0.0.1	11degrees.org
 127.0.0.1	1ecosolution.it
-127.0.0.1	256a7.rendezvous.tophandsome.gay
 127.0.0.1	33rdderryscouts.com
 127.0.0.1	360down7.miiyun.cn
 127.0.0.1	6yddxah0lq.buchalska.com
@@ -23,6 +23,7 @@
 127.0.0.1	admartshops.com
 127.0.0.1	admin.classified.pointsource.ng
 127.0.0.1	ads-check.com
+127.0.0.1	advertising-check.ru
 127.0.0.1	affito.amiyon.com
 127.0.0.1	afromerchants.co.zw
 127.0.0.1	agemn.co.za
@@ -53,10 +54,10 @@
 127.0.0.1	apps.saintsoporte.com
 127.0.0.1	aquapools.in
 127.0.0.1	archives-program.com
-127.0.0.1	areyoulivingwell.com
 127.0.0.1	arlation.com
 127.0.0.1	arriaza.net
 127.0.0.1	asfamilystyle.ru
+127.0.0.1	asgharintl.net
 127.0.0.1	asitaliado.com
 127.0.0.1	assets.dsztfso.cn
 127.0.0.1	asu.com.vn
@@ -69,6 +70,7 @@
 127.0.0.1	bawatingbarter.com
 127.0.0.1	bbia.co.uk
 127.0.0.1	beachwood.ug
+127.0.0.1	bearcatpumps.com.cn
 127.0.0.1	beeabouttown.com
 127.0.0.1	beingvegetarian.org
 127.0.0.1	bencevendeghaz.hu
@@ -107,7 +109,10 @@
 127.0.0.1	cargoconnect.online
 127.0.0.1	casamuseoayerbe.co
 127.0.0.1	cbob.cuchulain.co.za
+127.0.0.1	cd242.signing.unitynotarypublic.com
 127.0.0.1	cdaonline.com.ar
+127.0.0.1	cdn-download.top
+127.0.0.1	cdn.radar.game
 127.0.0.1	cemageng.com.br
 127.0.0.1	centralcnc.co.uk
 127.0.0.1	cetakdisini.com
@@ -116,6 +121,7 @@
 127.0.0.1	chist.com
 127.0.0.1	chuckozeas.com
 127.0.0.1	ciadecompras.com
+127.0.0.1	cienciano.com
 127.0.0.1	cipro.mx
 127.0.0.1	cityoftransformation.com
 127.0.0.1	citypharmacylv.com
@@ -130,15 +136,17 @@
 127.0.0.1	corpernaija.com
 127.0.0.1	corpolevesuplementos.com.br
 127.0.0.1	cothdesigns.com
+127.0.0.1	crackload.net
 127.0.0.1	cracksmsa.ug
 127.0.0.1	crashedff.xyz
-127.0.0.1	creasoft.me
 127.0.0.1	crecerco.com
 127.0.0.1	crm.roodraksh.co.in
 127.0.0.1	cronoatletas.uy
 127.0.0.1	ctel.com.my
 127.0.0.1	cursodeparapsicologia.org
+127.0.0.1	customgoodiebag.com
 127.0.0.1	d.tocat.co
+127.0.0.1	da.alibuf.com
 127.0.0.1	dacsandongthapmuoi.vn
 127.0.0.1	danaevara.com
 127.0.0.1	danoblab.com
@@ -146,7 +154,6 @@
 127.0.0.1	darwinistic.com
 127.0.0.1	dating.khokhas.co.za
 127.0.0.1	davidkujawa.com
-127.0.0.1	davidmcguinness.info
 127.0.0.1	ddlakava.ac.ug
 127.0.0.1	deine-bewerbung.com
 127.0.0.1	delhidental.com
@@ -161,12 +168,14 @@
 127.0.0.1	dhnconstrucciones.com.ar
 127.0.0.1	diweshop.com
 127.0.0.1	djqnef.gives
+127.0.0.1	djqnef.link
 127.0.0.1	dl.1003b.56a.com
 127.0.0.1	dl.9xu.com
 127.0.0.1	dlqsclub.com
 127.0.0.1	dmequest.com
 127.0.0.1	dnn.alibuf.com
 127.0.0.1	dns.alibuf.com
+127.0.0.1	domltechnology.com.au
 127.0.0.1	donbaham.com
 127.0.0.1	dongnaitw.com
 127.0.0.1	down.pcclear.com
@@ -191,12 +200,12 @@
 127.0.0.1	erkaradyator.com.tr
 127.0.0.1	ert.ajn322bb.com
 127.0.0.1	ert.eiwagggg.com
+127.0.0.1	especialistasencasa.com
 127.0.0.1	esquiudigital.com
 127.0.0.1	estiloymadera.com.py
 127.0.0.1	etisalatbuyback.com
 127.0.0.1	evashopping.thietkewebsitechuanseo.com
 127.0.0.1	exilum.com
-127.0.0.1	exitofestas.com.br
 127.0.0.1	expertstraders.com
 127.0.0.1	expressionsofwood.ca
 127.0.0.1	extremebot.software
@@ -214,6 +223,7 @@
 127.0.0.1	free-progs.net
 127.0.0.1	funletters.net
 127.0.0.1	gan-n.cloud-downloader.com
+127.0.0.1	gang.monster
 127.0.0.1	gapegape.co.za
 127.0.0.1	gbsports.theapplab.org
 127.0.0.1	gccon.in
@@ -229,6 +239,7 @@
 127.0.0.1	goldrush.ug
 127.0.0.1	goofygoob.cf
 127.0.0.1	gotovacoil.com
+127.0.0.1	gozamx.com
 127.0.0.1	greenlizard.co.za
 127.0.0.1	grimmcm.com
 127.0.0.1	gsmobile.es
@@ -238,6 +249,7 @@
 127.0.0.1	hausseeblickscheidegg.de
 127.0.0.1	helmprecision.com
 127.0.0.1	herchinfitout.com.sg
+127.0.0.1	hernandezclean.com
 127.0.0.1	hitstation.nl
 127.0.0.1	hostechnet.com.br
 127.0.0.1	hoteldostyk.com
@@ -259,6 +271,7 @@
 127.0.0.1	incotel.com.pk
 127.0.0.1	indigonails.ie
 127.0.0.1	indonesias.me
+127.0.0.1	indrani-therapy.com
 127.0.0.1	infiniteloop.co.in
 127.0.0.1	inthbc.com
 127.0.0.1	isurucabs.lk
@@ -292,6 +305,7 @@
 127.0.0.1	ksuinvclub.com
 127.0.0.1	kustens.com
 127.0.0.1	kutegiagoc.com
+127.0.0.1	lameguard.ru
 127.0.0.1	lanrungnamtau.com
 127.0.0.1	lara.amiyon.com
 127.0.0.1	lasermobilesounds.co.uk
@@ -299,6 +313,8 @@
 127.0.0.1	lceventos.net
 127.0.0.1	letsggoo.com
 127.0.0.1	library.arihantmbainstitute.ac.in
+127.0.0.1	libreeofice.com
+127.0.0.1	libte-offise.store
 127.0.0.1	lifebotl.com
 127.0.0.1	lindnerelektroanlagen.de
 127.0.0.1	linkvilleplayers.org
@@ -312,6 +328,7 @@
 127.0.0.1	m-ainsurance.com
 127.0.0.1	madicon.co.za
 127.0.0.1	mail.eec.dz
+127.0.0.1	main.cloudfronts.net
 127.0.0.1	makeupuccino.com
 127.0.0.1	marcowine.com
 127.0.0.1	mario-sunjic.com
@@ -322,14 +339,13 @@
 127.0.0.1	mcapublicschool.com
 127.0.0.1	medmompharma.com
 127.0.0.1	meeweb.com
-127.0.0.1	mendezplumbingservicellc.com
 127.0.0.1	meonhanong.com
 127.0.0.1	mepstein.com
 127.0.0.1	mer30.ru
 127.0.0.1	meridianites.com
+127.0.0.1	microsecurityupdate.com
 127.0.0.1	milanstaffing.com
 127.0.0.1	min.canadacodeses.com
-127.0.0.1	ministerioagape.net
 127.0.0.1	mistitis.ug
 127.0.0.1	mistydeblasiophotography.com
 127.0.0.1	mnh.ajn322bb.com
@@ -359,6 +375,7 @@
 127.0.0.1	novatumtech.com
 127.0.0.1	nrc-soluciones.com.ar
 127.0.0.1	oazahotel.com.mk
+127.0.0.1	obsprojek.com
 127.0.0.1	oceancityrentalbyowner.com
 127.0.0.1	olugun.co.za
 127.0.0.1	oms.pappai.com
@@ -413,7 +430,6 @@
 127.0.0.1	redmag-dz.com
 127.0.0.1	reifenquick.de
 127.0.0.1	relaxindulge.co.nz
-127.0.0.1	renton.apttechsol.com
 127.0.0.1	repairhubpat.com
 127.0.0.1	respekt5567.com
 127.0.0.1	respekt5568.com
@@ -423,7 +439,6 @@
 127.0.0.1	robertmchilespe.com
 127.0.0.1	rogerschultz.com
 127.0.0.1	rootedlifeinc.ca
-127.0.0.1	royalrangerseurope.net
 127.0.0.1	royreid.co.uk
 127.0.0.1	safetygear.pk
 127.0.0.1	salessteer.com
@@ -445,7 +460,7 @@
 127.0.0.1	sieuthiphutungxenang.com
 127.0.0.1	sociallysavvyseo.com
 127.0.0.1	soft.110route.com
-127.0.0.1	soporteindustrialmexico.com
+127.0.0.1	softs-lab.ru
 127.0.0.1	sox-photo.com
 127.0.0.1	spaceframe.mobi.space-frame.co.za
 127.0.0.1	spices.com.sg
@@ -454,6 +469,7 @@
 127.0.0.1	sshd.run
 127.0.0.1	static.cz01.cn
 127.0.0.1	stayinoceancitymd.com
+127.0.0.1	stellarlmpact.io
 127.0.0.1	strassenburgpharma.biz
 127.0.0.1	streamtvbox.net
 127.0.0.1	studentkeep.org
@@ -468,13 +484,12 @@
 127.0.0.1	temptmag.com
 127.0.0.1	tengfeidn.com
 127.0.0.1	test.typoten.com
-127.0.0.1	the2faces.com
 127.0.0.1	thecentury.edu.vn
+127.0.0.1	thedashami.com
 127.0.0.1	thedoctorsgym.net
 127.0.0.1	thehomeharvest.com
 127.0.0.1	thekassia.co.uk
 127.0.0.1	thetechdevelopers.com
-127.0.0.1	thuexevanphong.com
 127.0.0.1	tianangdep.com
 127.0.0.1	tiemvangngoctham.com
 127.0.0.1	timamollo.co.za
@@ -537,12 +552,12 @@
 127.0.0.1	www.globallaborsupply.com
 127.0.0.1	www.hebgb.top
 127.0.0.1	www.hellojohnwebb.com
+127.0.0.1	www.holybaby.com.tw
 127.0.0.1	www.hotelmourya.com
 127.0.0.1	www.hseda.com
 127.0.0.1	www.ideaplusjal.in
 127.0.0.1	www.ingonherbal.com
 127.0.0.1	www.ipcishop.com
-127.0.0.1	www.isurucabs.lk
 127.0.0.1	www.izeltelekom.com
 127.0.0.1	www.ks.cn
 127.0.0.1	www.lasikofmichigan.com
@@ -564,7 +579,6 @@
 127.0.0.1	www.skyscan.com
 127.0.0.1	www.starcountry.net
 127.0.0.1	www.sunglassesninja.com
-127.0.0.1	www.teeoffinscotland.com
 127.0.0.1	www.time4unow.com
 127.0.0.1	www.tractorandinas.com
 127.0.0.1	www.TradeInsights.net
@@ -577,6 +591,7 @@
 127.0.0.1	xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1	xn--cheggl-videos-fr-gastronomie-g7c.de
 127.0.0.1	xperterp.net
+127.0.0.1	xt.lykj988.com
 127.0.0.1	yclightmexico.com.mx
 127.0.0.1	yeichner.com
 127.0.0.1	yesdeko.com
@@ -586,4 +601,4 @@
 127.0.0.1	zf.gouzapay.cn
 127.0.0.1	zoomapp.tech
 127.0.0.1	ztekkhosting.com
-# Number of entries: 580
+# Number of entries: 595
