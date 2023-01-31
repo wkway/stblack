@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Jan 2023 14:36:09 GMT
+# last updated:   Mon, 30 Jan 2023 17:56:25 GMT
 # entries:        3668
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 04 Feb 2003 00:00:00
+# start date:    Wed, 05 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1255,6 +1255,7 @@
 0.0.0.0 brandreachsys.com
 0.0.0.0 braze.eu
 0.0.0.0 breadbalance.com
+0.0.0.0 breahant.site
 0.0.0.0 breakableinsurance.com
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brealtime.com
@@ -1507,7 +1508,6 @@
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
 0.0.0.0 crabbychin.com
-0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crashchance.com
 0.0.0.0 crashlytics.com
