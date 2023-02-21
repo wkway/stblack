@@ -1,19 +1,24 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-02-20 17:09:05 (UTC)                      #
+# Last updated: 2023-02-21 17:09:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
+127.0.0.1	02coverlab.com
 127.0.0.1	1008691.com
 127.0.0.1	11degrees.org
 127.0.0.1	1ecosolution.it
+127.0.0.1	2021new.lietuzhe.com
 127.0.0.1	20thstreetcoc.com
+127.0.0.1	2a0b5.calendar.wishmarkets.com
 127.0.0.1	33rdderryscouts.com
 127.0.0.1	360.lcy2zzx.pw
 127.0.0.1	360down7.miiyun.cn
 127.0.0.1	4dfb9.distributor.techsavvyauto.com
+127.0.0.1	59c19.distributor.techsavvyauto.com
+127.0.0.1	78196.calendar.wishmarkets.com
 127.0.0.1	a.angel-tn.idv.tw
 127.0.0.1	aaa.ajn322dd.com
 127.0.0.1	abbmedikal.com
@@ -26,7 +31,6 @@
 127.0.0.1	admartshops.com
 127.0.0.1	admin.classified.pointsource.ng
 127.0.0.1	affito.amiyon.com
-127.0.0.1	afromerchants.co.zw
 127.0.0.1	again-do.click
 127.0.0.1	agemn.co.za
 127.0.0.1	airhobi.com
@@ -37,7 +41,7 @@
 127.0.0.1	ambassadorairportservice.com
 127.0.0.1	americantv.online
 127.0.0.1	amightygraphics.com
-127.0.0.1	anapatformacion.org
+127.0.0.1	amrecafrica.org
 127.0.0.1	andrewpharma.com
 127.0.0.1	angel.bk.idv.tw
 127.0.0.1	anguklaw.com
@@ -72,8 +76,8 @@
 127.0.0.1	bethelmbcarvada.org
 127.0.0.1	bigmikesupplies.co.za
 127.0.0.1	bigs.bikershop.biz
+127.0.0.1	bigsale100.com
 127.0.0.1	bisnesservis-fk.ru
-127.0.0.1	bitcoinpricealertexpert.com
 127.0.0.1	bitlog.shop
 127.0.0.1	blog.aeromus.com
 127.0.0.1	blog.stetgzs.cn
@@ -89,12 +93,13 @@
 127.0.0.1	buscascolegios.diit.cl
 127.0.0.1	bwsengineering.co.za
 127.0.0.1	byh.ajn322bb.com
+127.0.0.1	c5675.distributor.techsavvyauto.com
+127.0.0.1	ca565.distributor.techsavvyauto.com
 127.0.0.1	caioaraujo.vip
 127.0.0.1	canconsulting.in
 127.0.0.1	cargoconnect.online
 127.0.0.1	casamuseoayerbe.co
 127.0.0.1	case-do.click
-127.0.0.1	casino-in-italia.space
 127.0.0.1	cbob.cuchulain.co.za
 127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdn.radar.game
@@ -121,7 +126,6 @@
 127.0.0.1	cpsobrino.com
 127.0.0.1	cracksmsa.ug
 127.0.0.1	crecerco.com
-127.0.0.1	crm.roodraksh.co.in
 127.0.0.1	cursodeparapsicologia.org
 127.0.0.1	customgoodiebag.com
 127.0.0.1	d.tocat.co
@@ -139,7 +143,6 @@
 127.0.0.1	demonware.online
 127.0.0.1	dental.xiaoxiao.media
 127.0.0.1	destinymc.co.za
-127.0.0.1	detoxviva.com.br
 127.0.0.1	dev.sebpo.net
 127.0.0.1	dev2-admin.ycbnt.net
 127.0.0.1	dhnconstrucciones.com.ar
@@ -160,6 +163,7 @@
 127.0.0.1	dukaree.com
 127.0.0.1	e-commerce.saleensuporte.com.br
 127.0.0.1	e-hemsire.net
+127.0.0.1	e6c2f.distributor.techsavvyauto.com
 127.0.0.1	easybrand.vn
 127.0.0.1	edoraseguros.com.br
 127.0.0.1	edu.pmvanini.rs.gov.br
@@ -202,6 +206,7 @@
 127.0.0.1	greenlizard.co.za
 127.0.0.1	grimmcm.com
 127.0.0.1	gtn.cl
+127.0.0.1	guarantepay.smart-it-partner.com
 127.0.0.1	harleyqueretaro.com
 127.0.0.1	harperhouseproducts.com
 127.0.0.1	harshotz.com
@@ -227,14 +232,15 @@
 127.0.0.1	imit.ac.in
 127.0.0.1	incotel.com.pk
 127.0.0.1	indigonails.ie
-127.0.0.1	indrani-therapy.com
 127.0.0.1	inthbc.com
+127.0.0.1	its-mac.xyz
 127.0.0.1	j.xnyidc.top
 127.0.0.1	janiking.xyz
 127.0.0.1	japlatec.com
 127.0.0.1	jcedu.org
 127.0.0.1	jecor.co
 127.0.0.1	jhayesconsulting.com
+127.0.0.1	jiqaz.com
 127.0.0.1	jjx.eiwaggff.com
 127.0.0.1	joanaghafoundation.org
 127.0.0.1	jobcity.com
@@ -290,6 +296,7 @@
 127.0.0.1	mendezplumbingservicellc.com
 127.0.0.1	meonhanong.com
 127.0.0.1	mepstein.com
+127.0.0.1	merafm.com
 127.0.0.1	meridianites.com
 127.0.0.1	microsecurityupdate.com
 127.0.0.1	milanstaffing.com
@@ -337,6 +344,7 @@
 127.0.0.1	orderedami.com
 127.0.0.1	origins-france.fr
 127.0.0.1	orsan.gruporhynous.com
+127.0.0.1	osjovanmikic.edu.rs
 127.0.0.1	ourseajobs.com
 127.0.0.1	outdoortacklebox.com
 127.0.0.1	ozelmimarsinanmtal.com
@@ -419,7 +427,6 @@
 127.0.0.1	soft.110route.com
 127.0.0.1	softs-lab.ru
 127.0.0.1	spaceframe.mobi.space-frame.co.za
-127.0.0.1	spacepearl.io
 127.0.0.1	spices.com.sg
 127.0.0.1	srv-fattureincloud.de
 127.0.0.1	sshd.run
@@ -440,7 +447,7 @@
 127.0.0.1	temptmag.com
 127.0.0.1	tengfeidn.com
 127.0.0.1	test.typoten.com
-127.0.0.1	thecentury.edu.vn
+127.0.0.1	than-mac.click
 127.0.0.1	thedashami.com
 127.0.0.1	thedoctorsgym.net
 127.0.0.1	thehomeharvest.com
@@ -450,6 +457,7 @@
 127.0.0.1	tiemvangngoctham.com
 127.0.0.1	timamollo.co.za
 127.0.0.1	tiqany.net
+127.0.0.1	tobecoaching.co.uk
 127.0.0.1	tonydong.com
 127.0.0.1	torresquinterocorp.com
 127.0.0.1	training.globodyinc.biz
@@ -486,6 +494,7 @@
 127.0.0.1	windcomtechnologies.com
 127.0.0.1	winesforeurope.com
 127.0.0.1	wisewomanwarrior.com
+127.0.0.1	worldjetmachine.com
 127.0.0.1	wshsoft.company
 127.0.0.1	www.agies.org
 127.0.0.1	www.alertsecurities.in
@@ -497,12 +506,14 @@
 127.0.0.1	www.cesasin.com.ar
 127.0.0.1	www.charmingsoftech.com
 127.0.0.1	www.chawkyfrenn.com
+127.0.0.1	www.chemsky.tn
 127.0.0.1	www.cisnc.it
 127.0.0.1	www.dacui.online
 127.0.0.1	www.dental.xiaoxiao.media
 127.0.0.1	www.destinocuenca.com
 127.0.0.1	www.empowercareer.com
 127.0.0.1	www.enc-tech.com
+127.0.0.1	www.erosaramtervezes-kivitelezes.hu
 127.0.0.1	www.fcstradesolutions.com
 127.0.0.1	www.fixstudio.co.kr
 127.0.0.1	www.globallaborsupply.com
@@ -552,4 +563,4 @@
 127.0.0.1	yzkzixun.com
 127.0.0.1	zf.gouzapay.cn
 127.0.0.1	ztekkhosting.com
-# Number of entries: 546
+# Number of entries: 557
