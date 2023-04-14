@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 04 Apr 2023 21:08:49 GMT
-# entries:        3750
+# last updated:   Fri, 14 Apr 2023 09:39:05 GMT
+# entries:        3748
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,11 +11,10 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 18 Apr 2003 00:00:00
+# start date:    Sat, 19 Apr 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
-0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 1link2020.com
@@ -387,7 +386,6 @@
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.annabac.com
-0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.apn.co.nz
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.apteka254.ru
@@ -733,7 +731,6 @@
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.adverty.com
 0.0.0.0 adserver.anawe.cz
-0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.ariase.org
 0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
@@ -845,6 +842,7 @@
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
+0.0.0.0 adt598.com
 0.0.0.0 adtech-digital.ru
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
@@ -1692,7 +1690,6 @@
 0.0.0.0 ecoupons.com
 0.0.0.0 edaa.eu
 0.0.0.0 edgexads.com
-0.0.0.0 educationdynamics.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 eiv.baidu.com
@@ -1745,6 +1742,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 estat.com
 0.0.0.0 esty.com
+0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
@@ -1829,7 +1827,6 @@
 0.0.0.0 fireworkadservices.com
 0.0.0.0 fireworkanalytics.com
 0.0.0.0 fireworks-advertising.com
-0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 flairadscpc.com
 0.0.0.0 flakyfeast.com
@@ -3668,6 +3665,7 @@
 0.0.0.0 whoisonline.net
 0.0.0.0 wickedreports.com
 0.0.0.0 widespace.com
+0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
