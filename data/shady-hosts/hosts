@@ -420,4 +420,52 @@
 0.0.0.0 collector.unsplash.com
 
 # musescore.com
-0.0.0.0 track.musesco
+0.0.0.0 track.musescore.com
+
+# ecmelberk.com
+0.0.0.0 ads.ebc.li
+
+# linuxjournal.com
+0.0.0.0 analytics.linuxjournal.com
+
+# www.fsf.org
+0.0.0.0 piwik.fsf.org
+
+# www.notion.so
+0.0.0.0 analytics.pgncs.notion.so
+
+# netsyms.com
+0.0.0.0 analytics.netsyms.net
+
+# remix.ethereum.org
+0.0.0.0 matomo.ethereum.org
+
+# bazaarvoice.com
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 bv-analytics-js-prod.s3.amazonaws.com
+0.0.0.0 bv-analytics-js-qa.s3.amazonaws.com
+
+# deepl.com
+0.0.0.0 s.deepl.com
+
+# dot.gov.in
+0.0.0.0 analytics.wrc.nic.in
+
+# qz.com
+0.0.0.0 player.mediafuse.com
+0.0.0.0 hb.mediafuse.com
+
+# www.dqindia.com
+0.0.0.0 qt.cyberads.io
+
+# killedbygoogle.com
+0.0.0.0 analytics.bale.media
+
+# tchncs.de
+0.0.0.0 stats.tchncs.de
+
+# usborne.com
+0.0.0.0 tracking.recommend.pro
+
+# proto.school
+0.0.0.0 countly.proto.school
