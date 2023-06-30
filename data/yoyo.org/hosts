@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 27 Jun 2023 15:41:11 GMT
-# entries:        3739
+# last updated:   Fri, 30 Jun 2023 13:56:25 GMT
+# entries:        3738
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 17 Aug 1823 00:00:00
+# start date:    Mon, 18 Aug 1823 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1334,7 +1334,6 @@
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
 0.0.0.0 centerpointmedia.com
-0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chairscrack.com
@@ -1468,6 +1467,7 @@
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concernedcondition.com
+0.0.0.0 concerneddrink.com
 0.0.0.0 conditionchange.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
@@ -1488,6 +1488,7 @@
 0.0.0.0 conversionruler.com
 0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
+0.0.0.0 cookchalk.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 cootlogix.com
@@ -1942,7 +1943,6 @@
 0.0.0.0 h0.t.hubspotemail.net
 0.0.0.0 h78xb.pw
 0.0.0.0 habitualhumor.com
-0.0.0.0 hadskiz.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 handsomehose.com
@@ -2223,7 +2223,6 @@
 0.0.0.0 link.axios.com
 0.0.0.0 link.uk.expediamail.com
 0.0.0.0 link4ads.com
-0.0.0.0 linkadd.de
 0.0.0.0 linkbuddies.com
 0.0.0.0 linkexchange.com
 0.0.0.0 linkprice.com
@@ -2379,6 +2378,7 @@
 0.0.0.0 metrics.govexec.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metricswave.com
 0.0.0.0 metrilo.com
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mg2connext.com
@@ -2903,7 +2903,6 @@
 0.0.0.0 revive.plays.bg
 0.0.0.0 revlift.io
 0.0.0.0 revprotect.com
-0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 rexadvert.xyz
 0.0.0.0 reyden-x.com
@@ -3119,6 +3118,7 @@
 0.0.0.0 spezialreporte.de
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
+0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinnaker-js.com
@@ -3443,7 +3443,6 @@
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
 0.0.0.0 tracking22.com
-0.0.0.0 trackingfestival.com
 0.0.0.0 trackingsoft.com
 0.0.0.0 trackmysales.com
 0.0.0.0 trackuhub.com
