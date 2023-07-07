@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 05 Jul 2023 19:10:28 GMT
-# entries:        3740
+# entries:        3739
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 24 Aug 1823 00:00:00
+# start date:    Mon, 25 Aug 1823 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -506,7 +506,6 @@
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.itv.com
-0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jewishfriendfinder.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.justhungry.com
@@ -1436,6 +1435,7 @@
 0.0.0.0 clk1015.com
 0.0.0.0 clkrev.com
 0.0.0.0 clksite.com
+0.0.0.0 cloisteredcord.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 closedcows.com
 0.0.0.0 cloudcoins.biz
@@ -2462,7 +2462,6 @@
 0.0.0.0 mystat.pl
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 mytop-in.net
-0.0.0.0 myvisualiq.net
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
